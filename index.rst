@@ -3,14 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Course material for the INF-BIOx121 course
+Course material for the IN-BIOSx000 course
 ==========================================
 
 **Current edition**  
 
-The 2017 course edition material can be found `here <http://inf-biox121.readthedocs.org/en/2017/>`__.
+The 2018 course edition material can be found `here <http://https://in-biosx000.readthedocs.io/en/2018/>`__.
 
 **Previous editions**
+
+`2017 <http://inf-biox121.readthedocs.org/en/2017>`__
 
 `2016 <http://inf-biox121.readthedocs.org/en/2016>`__
 
