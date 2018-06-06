@@ -8,7 +8,7 @@ Course material for the IN-BIOSx000 course
 
 **Current edition**  
 
-The 2018 course edition material can be found `here <http://https://in-biosx000.readthedocs.io/en/2018/>`__.
+The 2018 course edition material can be found `here <http://in-biosx000.readthedocs.io/en/2018/>`__.
 
 **Previous editions**
 
