@@ -1,31 +1,28 @@
-High Throughput Sequencing technologies and bioinformatics analysis fall 2017
+Genome Sequencing Technologies, Assembly, Variant Calling and Statistical Genomics fall 2017
 ==========================================
 
-Note: for previous course editions, check out [this website](http://inf-biox121.readthedocs.io).
+Note: for previous course editions (INF-BIO9121 and INF-BIO5121), check out [this website](http://inf-biox121.readthedocs.io).
 
 Lecutre slides 
 -----------------
-[Lecture slides](http://inf-biox121.readthedocs.io/en/2017/Lectures/)
+[Lecture slides](http://in-biosx000.readthedocs.io/en/2018/Lectures/)
 This page is updated after each lecture/Module.
 
 ## Home exam
 
-[Link](http://inf-biox121.readthedocs.io/en/2017/misc/) to home exam.
+[Link](http://in-biosx000.readthedocs.io/en/2017/misc/) to home exam.
+This page is updated after each lecture/Module.
 
-## Link to VM
-
-https://desktop.uio.no/
 
 ## Introduction
 
-This is the webpage for the fall 2017 edition of the credited courses [**INF-BIO5121**](http://www.uio.no/studier/emner/matnat/ifi/INF-BIO5121) (master level) and [**INF-BIO9121**](http://www.uio.no/studier/emner/matnat/ifi/INF-BIO9121/) (Ph.D. level) offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO). Students taking the course for credit should register through UiO StudentWeb. Non UiO students are welcome and should check [this website](http://www.uio.no/english/studies/admission/).
+This is the webpage for the fall 2018 edition of the credited courses [**IN-BIOS5000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000) (master level) and [**IN-BIOS9000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS9000) (Ph.D. level) offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) and funded by [**NORBIS**](https://norbis.w.uib.no/activities/courses/genome-sequencing-technologies-assembly-variant-calling-and-statistical-genomics). 
 
-The High Throughput Sequencing technologies and bioinformatics
-analysis course consists of five weeks, three days each week, of
+This course consists of two weeks, of
 lectures and practicals, and a final take-home exam, plus a written exam on the course material and the reading material.
 
 ## Schedule
-Course days are usually from 9:00 to 16:00 (teachers may stay longer if
+Course days are usually from 9:15 to 17:00 (teachers may stay longer if
 requested), some lectures, mostly hands-on exercises. All materials for lectures and practicals will be linked from the schedule below. 
 
 The schedule will appear here early in August and will link to the webpages with the material taught (these links are added as the course progresses).
@@ -38,155 +35,75 @@ The schedule will appear here early in August and will link to the webpages with
 <tr class="header">
 <th align="left">Day</th>
 <th align="left">Room</th>
-<th align="left">Morning (09:00-12:00)</th>
-<th align="left">Afternoon (13:00-16:00)</th>
+<th align="left">Morning (09:15-12:00)</th>
+<th align="left">Afternoon (13:00-17:00)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Week 34</strong></td>
-</tr>
-<tr class="even">
-<td align="left">Tue. Aug. 22</td>
-<td align="left">Shell</td>
-<td align="left">Unix, R pre course</td>
-<td align="left">Unix, R pre course</td>
-</tr>
-<tr class="odd">
-<td align="left"><strong>Week 36</strong></td>
-</tr>
-<tr class="even">
-<td align="left">Mon. Sept. 4</td>
-<td align="left">Caml</td>
-<td align="left">Fundamentals of Molecular Biology</td>
-<td align="left">High-throughput sequencing</td>
-</tr>
-<tr class="odd">
-<td align="left">Tue. Sept. 5</td>
-<td align="left">Shell/ Prolog</td>
-<td align="left">High-throughput sequencing (Rm:Shell)</td>
-<td align="left">Basic file formats (Rm:Prolog)</td>
-</tr>
-<tr class="even">
-<td align="left">Wed. Sept. 6</td>
-<td align="left">Java/ KBH-3203</td>
-<td align="left">Pre-processing of sequence data (Rm:Java)</td>
-<td align="left">Algorithms (Rm:KBH-3203)</td>
-<tr class="odd">
-<td align="left"><strong>Week 37</strong></td>
-</tr>
-<tr class="even">
-<td align="left">Mon. Sep. 11</td>
-<td align="left">Python</td>
-<td align="left">Algorithms</td>
-<td align="left"><em>De novo</em> assembly</td>
-</tr>
-<tr class="odd">
-<td align="left">Tue. Sep. 12</td>
-<td align="left">Python</td>
-<td align="left"><em>De novo</em> assembly</td>
-<td align="left"><em>De novo</em> assembly</td>
-</tr>
-<tr class="even">
-<td align="left">Wed. Sep. 13</td>
-<td align="left">Python</td>
-<td align="left"><em>De novo</em> assembly</td>
-<td align="left"><em>De novo</em> assembly</td>
-</tr>
-<tr class="odd">
-<td align="left"><strong>Week 38</strong></td>
-</tr>
-<tr class="even">
-<td align="left">Mon. Sep. 18</td>
-<td align="left">Python</td>
-<td align="left">RNA-seq analysis</td>
-<td align="left">RNA-seq analysis</td>
-</tr>
-<tr class="odd">
-<td align="left">Tue. Sep. 19</td>
-<td align="left">Shell/ Postscript</td>
-<td align="left">RNA-seq analysis (Rm:Shell)</td>
-<td align="left">RNA-seq analysis (Rm:Postscript)</td>
-</tr>
-<tr class="even">
-<td align="left">Wed. Sep. 20</td>
-<td align="left">Java</td>
-<td align="left">RNA-seq analysis</td>
-<td align="left">RNA-seq analysis</td>
-</tr>
-<tr class="odd">
-<td align="left"><strong>Week 39</strong></td>
-</tr>
-<tr class="even">
-<td align="left">Mon. Sept. 25</td>
-<td align="left">Python</td>
-<td align="left">Variant calling</td>
-<td align="left">Variant calling</td>
-</tr>
-<tr class="odd">
-<td align="left">Tue. Sep. 26</td>
-<td align="left">Python</td>
-<td align="left">Variant calling</td>
-<td align="left">Variant calling</td>
-</tr>
-<tr class="even">
-<td align="left">Wed. Sep. 27</td>
-<td align="left">Python</td>
-<td align="left">Variant calling</td>
-<td align="left">Variant calling</td>
-</tr>
-<tr class="odd">
-<td align="left"><strong>Week 40</strong></td>
-</tr>
-<tr class="even">
-<td align="left">No teaching, 'høstferie'</td>
-</tr>
-<tr class="odd">
-<td align="left"><strong>Week 41</strong></td>
-</tr>
-<tr class="even">
-<td align="left">Mon. Oct. 9</td>
-<td align="left">Python</td>
-<td align="left">Statistical genomics</td>
-<td align="left">Statistical genomics</td>
-</tr>
-<tr class="odd">
-<td align="left">Tue. Oct. 10</td>
-<td align="left">Python</td>
-<td align="left">Statistical genomics</td>
-<td align="left">Statistical genomics</td>
-</tr>
-<tr class="even">
-<td align="left">Wed. Oct. 11</td>
-<td align="left">Python</td>
-<td align="left">Statistical genomics</td>
-<td align="left">Statistical genomics</td>
-</tr>
-<tr class="odd">
-<td align="left"><strong>Week 42</strong></td>
-</tr>
-<tr class="even">
-<td align="left">home exam</td>
-</tr>
-<tr class="odd">
 <td align="left"><strong>Week 43</strong></td>
 </tr>
 <tr class="even">
-<td align="left">home exam</td>
+<td align="left">Mon. Oct. 22</td>
+<td align="left">Shell</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td align="left"><strong>Week 44 </strong></td>
-</tr>
-<tr class="odd">
-<td align="left">Nov 2</td>
-<td align="left">Silurveien 2 sal 3D</td>
-<td align="left">Written exam (09:00-11:00)</td>
+<td align="left">Tue. Oct. 23</td>
+<td align="left">Postscript</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td align="left">Nov 3</td>
-<td align="left">Epsilon/ Eta(or Delta)</td>
-<td align="left">Oral examination of the home exam, 30 minutes</td>
-<td align="left">Oral examination of the home exam, 30 minutes</td>
+<td align="left">Wed. Oct. 24</td>
+<td align="left">Shell</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">Thu. Oct. 25</td>
+<td align="left">Java</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">Fri. Oct. 26</td>
+<td align="left">Java</td>
+<td align="left"></td>
+<td align="left"></td>
+<tr class="odd">
+<td align="left"><strong>Week 44</strong></td>
+</tr>
+<tr class="even">
+<td align="left">Mon. Oct. 29</td>
+<td align="left">Shell</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">Tue. Oct. 30</td>
+<td align="left">Postscript</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">Wed. Oct. 31</td>
+<td align="left">Python</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">Thu. Nov. 01</td>
+<td align="left">Python</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">Fri. Nov. 02</td>
+<td align="left">Python</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
  </tbody>
 </table>
@@ -196,32 +113,22 @@ The schedule will appear here early in August and will link to the webpages with
 
 Ole-Johan Dahls hus location: <a href='https://goo.gl/maps/b1qoR'>Google maps</a>
 
-* Caml: room 3438 Informatics building (Ole-Johan Dahls hus)
+* Shell: room 1456 Informatics building (Ole-Johan Dahls hus)
+* Postscript: room 2458 Informatics building (Ole-Johan Dahls hus)
 * Java: room 2423 Informatics building (Ole-Johan Dahls hus)
 * Python: room 2269 Informatics building (Ole-Johan Dahls hus)
-* Postscript: room 2458 Informatics building (Ole-Johan Dahls hus)
-* Prolog: room 2465 Informatics building (Ole-Johan Dahls hus)
-* Shell: room 1456 Informatics building (Ole-Johan Dahls hus)
 
-Sep 6 (KBH-3203): Kristine Bonnevies hus Seminarrom 3203 location: <a href='https://goo.gl/maps/pLn9cipNMZA2'>Google maps</a>
 
 **Exam location:**
 
-Written exam will take place at [Silurveien 2](https://www.uio.no/om/finn-fram/omrader/andre/silurveien/) and NOT at IFI.
-
+Information regarding written exam will appear here once it is available.
 
 
 ## Requirements
 
-* No prior background in bioinformatics or computer science is required, however, we expect students to have a basic understanding of the unix shell. For this, we organise an **introductory unix course** about a
-week before the course starts - details will be provided upon acceptance. Participants who are familiar with the shell
-can ask to be exempt for this course day.
-* All participants should have a basic understanding of molecular
-biology, at least roughly corresponding to 5-10 university study points
-in molecular biology, biochemistry, or similar. *If you are uncertain if
-your biology background is strong enough, please contact the course
-coordinators (see contact details below) at least three weeks before the
-start of the course.*
+* We recommend that participants should have a basic understanding of molecular biology as provided by an introductory course in bioinformatics, molecular biology, or genetics.
+
+* No formal background in computer science is required, however, students must have a basic understanding of the unix shell. Students should take an introductory unix course beforehand if they do not have these skills.
 
 
 ## Computers/laptops, internet access, and UiO user account
@@ -254,7 +161,7 @@ The exam for this course will be:
     be handed out to all participants during the last course day.
     
 
-**NOTE** Both exams have to be passed to earn 10 study credits.
+**NOTE** Both exams have to be passed to earn study credits.
   
 **NOTE** 80% attendance is required to take the final exam.
 
