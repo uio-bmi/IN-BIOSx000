@@ -1,4 +1,4 @@
-Genome Sequencing Technologies, Assembly, Variant Calling and Statistical Genomics fall 2017
+Genome Sequencing Technologies, Assembly, Variant Calling and Statistical Genomics fall 2018
 ==========================================
 
 Note: for previous course editions (INF-BIO9121 and INF-BIO5121), check out [this website](http://inf-biox121.readthedocs.io).
