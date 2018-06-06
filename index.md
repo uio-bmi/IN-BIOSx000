@@ -10,7 +10,7 @@ This page is updated after each lecture/Module.
 
 ## Home exam
 
-[Link](http://in-biosx000.readthedocs.io/en/2017/misc/) to home exam.
+[Link](http://in-biosx000.readthedocs.io/en/2018/misc/) to home exam.
 This page is updated after each lecture/Module.
 
 
