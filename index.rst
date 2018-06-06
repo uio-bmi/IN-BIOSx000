@@ -12,15 +12,15 @@ The 2018 course edition material can be found `here <http://in-biosx000.readthed
 
 **Previous editions**
 
-`2017 <http://inf-biox121.readthedocs.org/en/2017>`__
+`2017 <http://inf-biox121.readthedocs.org/en/2017>`__: INF-BIO9121 and INF-BIO5121
 
-`2016 <http://inf-biox121.readthedocs.org/en/2016>`__
+`2016 <http://inf-biox121.readthedocs.org/en/2016>`__: INF-BIO9121 and INF-BIO5121
 
-`2015 <http://inf-biox121.readthedocs.org/en/2015>`__
+`2015 <http://inf-biox121.readthedocs.org/en/2015>`__: INF-BIO9121 and INF-BIO5121
 
-`2014 <https://wiki.uio.no/projects/clsi/index.php/INF-BIOX121_H14>`__
+`2014 <https://wiki.uio.no/projects/clsi/index.php/INF-BIOX121_H14>`__: INF-BIO9121 and INF-BIO5121
 
-`2013 <https://wiki.uio.no/projects/clsi/index.php/INF-BIOX120_H13>`__
+`2013 <https://wiki.uio.no/projects/clsi/index.php/INF-BIOX120_H13>`__: INF-BIO9121 and INF-BIO5121
 
 2012: INF-BIO9120 and INF-BIO5120 Fall 2012 did not have its own website
 
