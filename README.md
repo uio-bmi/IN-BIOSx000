@@ -1,2 +1,2 @@
-# INF-BIOx121
-Course material for INF-BIOx121 course "High Throughput Sequencing technologies and bioinformatics analysis" at the University of Oslo
+# IN-BIOSx000
+Course material for IN-BIOSx000 course "Genome Sequencing Technologies, Assembly, Variant Calling and Statistical Genomics" at the University of Oslo
