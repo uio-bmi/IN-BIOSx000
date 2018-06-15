@@ -72,6 +72,7 @@ The schedule will appear here early in August and will link to the webpages with
 <td align="left">Java</td>
 <td align="left">De novo assembly</td>
 <td align="left">De novo assembly</td>
+</tr>
 <tr class="odd">
 <td align="left"><strong>Week 44</strong></td>
 </tr>
@@ -105,19 +106,19 @@ The schedule will appear here early in August and will link to the webpages with
 <td align="left">Statistical genomics</td>
 <td align="left">Statistical genomics</td>
 </tr>
- <tr class="odd">
+<tr class="odd">
 <td align="left"><strong>Week 48</strong></td>
 </tr>
 <tr class="even">
-<td align="left">Mon. Oct. 22</td>
+<td align="left">Thu. Nov. 29</td>
 <td align="left">TBA</td>
-<td align="left"Oral exam</td>
+<td align="left">Oral exam</td>
 <td align="left">Oral exam</td>
 </tr>
 <tr class="odd">
-<td align="left">Tue. Oct. 23</td>
+<td align="left">Fri. Nov. 30</td>
 <td align="left">TBA</td>
-<td align="left"Written exam</td>
+<td align="left">Written exam</td>
 <td align="left"></td>
 </tr>
  </tbody>
