@@ -46,63 +46,78 @@ The schedule will appear here early in August and will link to the webpages with
 <tr class="even">
 <td align="left">Mon. Oct. 22</td>
 <td align="left">Shell</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">Fundamentals of Molecular Biology</td>
+<td align="left">High-throughput sequencing</td>
 </tr>
 <tr class="odd">
 <td align="left">Tue. Oct. 23</td>
 <td align="left">Postscript</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">High-throughput sequencing</td>
+<td align="left">Basic file formats</td>
 </tr>
 <tr class="even">
 <td align="left">Wed. Oct. 24</td>
 <td align="left">Shell</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">Pre-processing of HTS data</td>
+<td align="left">Algorithms</td>
 </tr>
 <tr class="odd">
 <td align="left">Thu. Oct. 25</td>
 <td align="left">Java</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">Algorithms</td>
+<td align="left">De novo assembly</td>
 </tr>
 <tr class="even">
 <td align="left">Fri. Oct. 26</td>
 <td align="left">Java</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">De novo assembly</td>
+<td align="left">De novo assembly</td>
 <tr class="odd">
 <td align="left"><strong>Week 44</strong></td>
 </tr>
 <tr class="even">
 <td align="left">Mon. Oct. 29</td>
 <td align="left">Shell</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">De novo assembly</td>
+<td align="left">De novo assembly</td>
 </tr>
 <tr class="odd">
 <td align="left">Tue. Oct. 30</td>
 <td align="left">Postscript</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">Variant calling</td>
+<td align="left">Variant calling</td>
 </tr>
 <tr class="even">
 <td align="left">Wed. Oct. 31</td>
 <td align="left">Python</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">Variant calling</td>
+<td align="left">Variant calling</td>
 </tr>
 <tr class="odd">
 <td align="left">Thu. Nov. 01</td>
 <td align="left">Python</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">Statistical genomics</td>
+<td align="left">Statistical genomics</td>
 </tr>
 <tr class="even">
 <td align="left">Fri. Nov. 02</td>
 <td align="left">Python</td>
-<td align="left"></td>
+<td align="left">Statistical genomics</td>
+<td align="left">Statistical genomics</td>
+</tr>
+ <tr class="odd">
+<td align="left"><strong>Week 48</strong></td>
+</tr>
+<tr class="even">
+<td align="left">Mon. Oct. 22</td>
+<td align="left">TBA</td>
+<td align="left"Oral exam</td>
+<td align="left">Oral exam</td>
+</tr>
+<tr class="odd">
+<td align="left">Tue. Oct. 23</td>
+<td align="left">TBA</td>
+<td align="left"Written exam</td>
 <td align="left"></td>
 </tr>
  </tbody>
