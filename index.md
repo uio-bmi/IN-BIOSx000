@@ -193,5 +193,13 @@ The exam for this course will be:
 
 ## Teachers
 
-*
-*
+* Arvind Sundaram (AS, Bioinformatician, Norwegian Sequencing Centre, Oslo University Hospital)
+* Ave Tooming-Klunderud (AT, CEES, Faculty of Mathematics and Natural Sciences, University of Oslo)
+* Gregor Gilfillan (GG, Researcher, Norwegian Sequencing Centre, Oslo University Hospital)
+* Ivar Grytten (IG, Research Group for Biomedical Informatics, Dept. of
+Informatics, University of Oslo)
+* Karin Lagesen (KL, Section for Epidemiology, Norwegian Veterinary Institute)
+* Ragna Breines (Coordinator, NORBIS)
+* Timothy Hughes (TH, Researcher, NORMENT , Oslo University Hospital)
+* Torbjørn Rognes (TR, Research Group for Biomedical Informatics, Dept. of
+Informatics, University of Oslo)
