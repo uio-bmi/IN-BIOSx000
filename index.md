@@ -46,7 +46,7 @@ The schedule will appear here early in August and will link to the webpages with
 <tr class="even">
 <td align="left">Mon. Oct. 22</td>
 <td align="left">Shell</td>
-<td align="left">Fundamentals of Molecular Biology</td>
+<td align="left">Update on NORBIS<br/>Fundamentals of Molecular Biology</td>
 <td align="left">High-throughput sequencing</td>
 </tr>
 <tr class="odd">
