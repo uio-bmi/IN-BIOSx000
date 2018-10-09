@@ -200,6 +200,7 @@ The exam for this course will be:
 Informatics, University of Oslo)
 * Karin Lagesen (KL, Section for Epidemiology, Norwegian Veterinary Institute)
 * Ragna Breines (Coordinator, NORBIS)
+* Thomas Haverkamp (KL, Section for Epidemiology, Norwegian Veterinary Institute)
 * Timothy Hughes (TH, Researcher, NORMENT , Oslo University Hospital)
 * Torbjørn Rognes (TR, Research Group for Biomedical Informatics, Dept. of
 Informatics, University of Oslo)
