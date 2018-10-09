@@ -47,12 +47,12 @@ The schedule will appear here early in August and will link to the webpages with
 <td align="left">Mon. Oct. 22</td>
 <td align="left">Shell</td>
 <td align="left">Update on NORBIS<br/>Fundamentals of Molecular Biology</td>
-<td align="left">High-throughput sequencing</td>
+<td align="left">HTS & applications<br/>Illumina sequencing<br/>PacBio technology<br/>Pizza evening</td>
 </tr>
 <tr class="odd">
 <td align="left">Tue. Oct. 23</td>
 <td align="left">Postscript</td>
-<td align="left">High-throughput sequencing</td>
+<td align="left">Oxford Nanopore technology<br/>Library preparation<br/>Experimental design</td>
 <td align="left">Basic file formats</td>
 </tr>
 <tr class="even">
