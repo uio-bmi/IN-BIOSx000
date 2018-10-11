@@ -65,7 +65,7 @@ The schedule will appear here early in August and will link to the webpages with
 <td align="left">Thu. Oct. 25</td>
 <td align="left">Java</td>
 <td align="left">Algorithms</td>
-<td align="left">De novo assembly</td>
+<td align="left">De novo assembly<br/>Dinner @1800 hrs in Olivia, Aker brygge</td>
 </tr>
 <tr class="even">
 <td align="left">Fri. Oct. 26</td>
