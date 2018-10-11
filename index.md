@@ -28,7 +28,7 @@ requested), some lectures, mostly hands-on exercises. All materials for lectures
 The schedule will appear here early in August and will link to the webpages with the material taught (these links are added as the course progresses).
 
 
-**Room locations:**
+**Room location:**
 
 <table border="1">
 <thead>
@@ -125,7 +125,7 @@ The schedule will appear here early in August and will link to the webpages with
 </table>
 <p><p>
 
-**Room locations:**
+**Room location:**
 
 Ole-Johan Dahls hus location: <a href='https://goo.gl/maps/b1qoR'>Google maps</a>
 
@@ -134,6 +134,9 @@ Ole-Johan Dahls hus location: <a href='https://goo.gl/maps/b1qoR'>Google maps</a
 * Java: room 2423 Informatics building (Ole-Johan Dahls hus)
 * Python: room 2269 Informatics building (Ole-Johan Dahls hus)
 
+**Dinner on Oct 25**
+
+NORBIS sponsored dinner will be on Oct 25 at 1800 hrs in <a href='https://oliviarestauranter.no/#!/restaurant/aker-brygge'>Olivia, Aker Brygge</a> at <a href='https://goo.gl/maps/aD1WjotULr12>Google maps</a>
 
 **Exam location:**
 
