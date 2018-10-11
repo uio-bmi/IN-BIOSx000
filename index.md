@@ -136,7 +136,7 @@ Ole-Johan Dahls hus location: <a href='https://goo.gl/maps/b1qoR'>Google maps</a
 
 **Dinner on Oct 25**
 
-NORBIS sponsored dinner will be on Oct 25 at 1800 hrs in <a href='https://oliviarestauranter.no/#!/restaurant/aker-brygge'>Olivia, Aker Brygge</a> at <a href='https://goo.gl/maps/aD1WjotULr12>Google maps</a>
+NORBIS sponsored dinner will be on Oct 25 at 1800 hrs in <a href='https://oliviarestauranter.no/#!/restaurant/aker-brygge'>Olivia, Aker Brygge</a> at <a href='https://goo.gl/maps/aD1WjotULr12'>Google maps</a>
 
 **Exam location:**
 
