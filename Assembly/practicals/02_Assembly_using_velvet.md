@@ -12,9 +12,8 @@ Bruijn graph* approach.
 We will assemble *E. coli K12* strain MG1655 which was sequenced on an Illumina
 MiSeq. The instrument read 150 bases from each direction.
 
-We wil first use a down-sampled set of paired end reads only:
+We will first use a down-sampled set of paired end reads only:
 
->check path
 `/share/inf-biox121/data/assembly/MiSeq_Ecoli_MG1655_50x_R1.fastq`  
 `/share/inf-biox121/data/assembly/MiSeq_Ecoli_MG1655_50x_R2.fastq`
 
@@ -69,7 +68,6 @@ choice [in this google spreadsheet](https://docs.google.com/spreadsheets/d/1b8wS
 
 Build the index as follows:
 
->check path
 ```
 velveth ASM_NAME VALUE_OF_K \  
 -short -separate -fastq \  
@@ -152,7 +150,6 @@ Use this kmer from now on!
 
 ### Estimating and setting `exp_cov`
 
-> check notebook
 Much better assemblies are produced if Velvet understands the expected coverage
 for unique regions of your genome. This allows it to try and resolve repeats.
 The data to determine this is in the `stats.txt` file. The full description of
