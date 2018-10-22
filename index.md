@@ -3,10 +3,18 @@ Genome Sequencing Technologies, Assembly, Variant Calling and Statistical Genomi
 
 Note: for previous course editions (INF-BIO9121 and INF-BIO5121), check out [this website](http://inf-biox121.readthedocs.io).
 
-Lecutre slides 
------------------
+## Lecutre slides 
+
 [Lecture slides](http://in-biosx000.readthedocs.io/en/2018/Lectures/)
 This page is updated after each lecture/Module.
+
+## Link to VMs
+
+https://vdi-apcon-prod.uio.no
+You can use the HTML client or if you have admin access in your laptops, use the downloadble client.
+
+Use UiO credentials
+Choose IN-BIOSX000
 
 ## Home exam
 
