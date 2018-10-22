@@ -10,7 +10,7 @@ This page is updated after each lecture/Module.
 
 ## Link to VMs
 
-https://vdi-apcon-prod.uio.no  
+[https://vdi-apcon-prod.uio.no](https://vdi-apcon-prod.uio.no)  
 You can use the HTML client or if you have admin access in your laptops, use the downloadble client.  
 
 Use UiO credentials  
