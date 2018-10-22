@@ -11,10 +11,10 @@
 * [Oct 23 : Slides from HTS - Oxford Nanopore]
 * [Oct 23 : Slides from HTS - Illumina](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day2_Illumina.pdf)
 * [Oct 23 : Slides from HTS - Experimental Design](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day2_ExpDesign.pdf)
-* [Oct 23 : Slides from HTS - Library preparation]
+* [Oct 23 : Slides from HTS - Library preparation](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day2_LibPrep.pdf)
 
 ###### File formates and data pre-processing
-* [Oct 23 : Slides from File formats]
+* [Oct 23 : Slides from File formats](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day2_FileFormats.pdf)
 * [Oct 24 : Slides from data pre-processing]
 
 ###### Algorithms
