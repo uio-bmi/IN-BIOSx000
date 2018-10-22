@@ -6,10 +6,12 @@
 * [Oct 22: Slides from Molecular Biology]
 
 ###### High throughput sequencing (HTS)
-* [Oct 22 : Slides from HTS - Introduction](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/IN-BIOS9000-2018-sequencing-tr.pdf)
+* [Oct 22 : Slides from HTS - Introduction](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day1_HTS-intro.pdf)
 * [Oct 22 : Slides from HTS - PacBio]
 * [Oct 23 : Slides from HTS - Oxford Nanopore]
-* [Oct 23 : Slides from HTS - Illumina](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/IN-BIOS9000-2018-Illumina_AS.pdf)
+* [Oct 23 : Slides from HTS - Illumina](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day2_Illumina.pdf)
+* [Oct 23 : Slides from HTS - Experimental Design](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day2_ExpDesign.pdf)
+* [Oct 23 : Slides from HTS - Library preparation]
 
 ###### File formates and data pre-processing
 * [Oct 23 : Slides from File formats]
