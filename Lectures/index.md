@@ -8,7 +8,7 @@
 
 ###### High throughput sequencing (HTS)
 * [Oct 22 : HTS - Introduction](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day1_HTS-intro.pdf)
-* [Oct 22 : HTS - PacBio]
+* [Oct 22 : HTS - PacBio](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day1_PacBio.pdf)
 * [Oct 23 : HTS - Oxford Nanopore](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day2_OxfordNanopore.pdf)
 * [Oct 23 : HTS - Illumina](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day2_Illumina.pdf)
 * [Oct 23 : HTS - Experimental Design](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day2_ExpDesign.pdf)
