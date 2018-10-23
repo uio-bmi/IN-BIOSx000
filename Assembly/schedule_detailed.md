@@ -3,7 +3,7 @@ Schedule for the Assembly module
 
 ## Day 1
 
-* brief overview of the module
+* brief overview of the module - show schedule
 * assembly exercise
   * reconstruct the original text
   * discuss results
@@ -17,7 +17,7 @@ Schedule for the Assembly module
 * short lecture: *de novo* assembly using velvet
 * tutorial: assembly with velvet
   * test singleton reads with k between 21 and 113, log N50 in google spreadsheet
-  * Mentimeter multiple choice question: why did the contig N50 distribution show a peak?
+  * Discussion: why did the contig N50 distribution show a peak?
   * explain nodes in the de Bruin graph and in velvet's LastGraph
   * plot node coverage distribution in Jupyter Notebook
   * choose expected k-mer coverage and redo assembly
@@ -45,9 +45,9 @@ Schedule for the Assembly module
   * miniasm with only MinION reads
     * racon on MinIon assembly
   * quiver part 1 on canu assemblies
-  
+
 ## Day 3
- 
+
 * check on overnight assemblies
 * quiver part 2 on pacbio asm
 ! collect info on asms

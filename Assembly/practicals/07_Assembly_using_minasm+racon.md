@@ -1,13 +1,17 @@
 Assembly using miniasm+racon
 ================================
 
-A recent [paper](https://academic.oup.com/bioinformatics/article/32/14/2103/1742895/Minimap-and-miniasm-fast-mapping-and-de-novo) 
-described a fast approach for assembling and correcting PacBio and MinION data. 
+This [paper](https://academic.oup.com/bioinformatics/article/32/14/2103/1742895/Minimap-and-miniasm-fast-mapping-and-de-novo)
+described a fast approach for assembling and correcting PacBio and MinION data.
+This [paper](jajakumar!!!!) compared several long read assemblers, and while
+they found 'canu' to be the best, miniasm+racon was not far behind, and performed
+significantly faster.
+
 The principle is:
 
 * using `minimap` for fast all-against-all overlap of raw reads
-* using `miniasm`, this "simply concatenates pieces of read sequences to 
-generate the final sequences. Thus the per-base error rate is similar to the 
+* using `miniasm`, this "simply concatenates pieces of read sequences to
+generate the final sequences. Thus the per-base error rate is similar to the
 raw input reads."
 * mapping the raw reads back to the assembly using `minimap` again
 * using `racon` ('rapid consensus') for consensus calling
@@ -23,7 +27,7 @@ They also recommend running `racon` twice, we will settle for once.
 ### All-against-all overlap with `minimap`
 
 First, ensure that you are in the `assembly` directory. Create a new directory
-created `miniasm` and inside of that one, a directory called `minion`. 
+created `miniasm` and inside of that one, a directory called `minion`.
 Go inside the `minion` directory.
 
 Note how the reads are used twice here, as we map the reads against themselves:
@@ -40,13 +44,13 @@ Took 1 minute
 -->
 
 The output is in the so-called [PAF (Pairwise mApping) Format]
-(https://github.com/lh3/miniasm/blob/master/PAF.md), and is compressed 
+(https://github.com/lh3/miniasm/blob/master/PAF.md), and is compressed
 'on the fly'.
 
 
 ### Assembly with `miniasm`
 
-`miniasm` takes the `paf` file and produces an assembly 
+`miniasm` takes the `paf` file and produces an assembly
 in [GFA (Graphical Fragment Assembly)](https://github.com/pmelsted/GFA-spec/blob/master/GFA-spec.md) format.
 
 ```
@@ -58,7 +62,7 @@ racon_MAP006-1_2D_1.paf.gz \
 fast
 -->
 
-Since we have only one sequence in the `GFA` file (at least for this assembly), 
+Since we have only one sequence in the `GFA` file (at least for this assembly),
 we can use a simple set of unix commands to turn it into a `fasta` file:
 
 ```
@@ -67,7 +71,7 @@ head -n 1 racon_MAP006-1_2D_1.gfa | awk '{print ">"$2; print $3}' > racon_MAP006
 
 ### Correction with `racon`
 
-We first use `minimap` again, this time with the original reads mapped against 
+We first use `minimap` again, this time with the original reads mapped against
 the 'raw' assembly:
 
 ```
@@ -97,10 +101,10 @@ Time" 10 minutes
 As mentioned in the paper, for the best results, we could run `racon` again.
 We will not do that here, but if we were, this would be how.
 
-Run the mapping with `minimap` and the correction with `racon` again, but now 
-with the results of the first round of correction. 
+Run the mapping with `minimap` and the correction with `racon` again, but now
+with the results of the first round of correction.
 
-That is: 
+That is:
 * for minimap: map the reads to the racon1 assembly fasta file
 * for racon: use the racon1 fasta file as the assembly file, and the reads
 that mapped to racon1 as the mapped reads.
@@ -117,5 +121,5 @@ Use *all* available reads from the P6C4 run, i.e. :
 
 Do this in a sister directory of the previous directory, name this one `pacbio`.
 
-The commands are the same as for the MinION data. Again, please be careful when 
+The commands are the same as for the MinION data. Again, please be careful when
 naming files!
