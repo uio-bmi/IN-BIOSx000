@@ -19,7 +19,8 @@
 * [Oct 24 : Data pre-processing](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day3_PreProcessing.pdf)
 
 ###### Algorithms
-* [Oct 24: Algorithms]
+* [Oct 24: Algorithms - Mapping](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day3_AlgorithmsMapping.pdf)
+* [Oct 24: Algorithms - Alignment](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day3_AlgorithmsAlignment.pdf)
 
 ###### *De novo* assembly
 * [Oct 25: *De novo* assembly]
