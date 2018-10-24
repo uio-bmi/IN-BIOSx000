@@ -397,6 +397,10 @@ velvetg ASM_NAME3 -cov_cutoff auto -exp_cov auto
 for the standard deviation? Use the last mention of this in the velvet output.
 * And for the mate-pair library?
 
+Log the results for this assembly, and the other we will do, in
+[this spreadsheet](https://docs.google.com/spreadsheets/d/1vWFzXxwVbaAqe7oZHOTStXEOTeL2UCh2KymcvbjRAAo/edit?usp=sharing)
+
+
 **TIP**
 Some mate pair libraries have a significant amount of paired end reads present
 as a by-effect of the library preparation. This may generate misassemblies.
