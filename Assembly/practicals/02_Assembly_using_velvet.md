@@ -161,7 +161,7 @@ coverage of the nodes.
 To run this notebook, we first have to activate the right version of python:
 
 ```
-scl enable python33 bash
+scl enable rh-python36 bash
 
 ```
 
@@ -171,7 +171,7 @@ Then, copy the notebook to the velvet directory, and run it:
 
 ```
 cp /share/inf-biox121/data/assembly/node_coverage.ipynb .
-ipython notebook
+jupyter notebook
 
 ```
 
