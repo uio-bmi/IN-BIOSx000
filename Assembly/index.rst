@@ -5,9 +5,10 @@ A module in the fall 2016 edition of INF-BIOx121
 
 Slides:
 
-- `Introduction to the assembly module <https://github.com/karinlag/INF-BIOx121/blob/2017/Assembly/presentations/01_intro_to_assembly_module.pptx?raw=true>`__
-- `Principles and problems of de novo genome assembly <https://github.com/karinlag/INF-BIOx121/blob/2017/Assembly/presentations/02_Principles_and_problems_of_de_novo_genome_assembly.pptx?raw=true>`__
-- `De novo assembly using velvet <https://github.com/karinlag/INF-BIOx121/blob/2017/Assembly/presentations/03_De_novo_assembly_using_velvet.pptx?raw=true>`__
+- `Introduction to the assembly module <https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/01_intro_to_assembly_module.pptx>`__
+- `Principles and problems of de novo genome assembly <https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/02_Principles_and_problems_of_de_novo_genome_assembly.pptx>`__
+- `De novo assembly using velvet <https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/03_De_novo_assembly_using_velvet.pptx?raw=true>`__
+
 
 Practicals:
 
