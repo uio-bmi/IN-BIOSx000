@@ -158,10 +158,12 @@ this file is [in the Velvet Manual](http://www.ebi.ac.uk/~zerbino/velvet/Manual.
 A so-called Jupyter notebook has been provided to plot the distribution of the
 coverage of the nodes.
 
-To run this notebook, we first have to activate the right version of python:
+To run this notebook, we first have to activate the right version of python,
+and then activate the notebook environment:
 
 ```
 scl enable rh-python36 bash
+source /share/inf-biox121/virtualenvs/jupyter/bin/activate
 
 ```
 

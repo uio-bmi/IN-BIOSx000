@@ -3,10 +3,14 @@ Genome Sequencing Technologies, Assembly, Variant Calling and Statistical Genomi
 
 Note: for previous course editions (INF-BIO9121 and INF-BIO5121), check out [this website](http://inf-biox121.readthedocs.io).
 
-## Lecutre slides 
+## Lecture slides
 
 [Lecture slides](http://in-biosx000.readthedocs.io/en/2018/Lectures/)
 This page is updated after each lecture/Module.
+
+## Teaching materials
+
+[Assembly module](Assembly/index.md)
 
 ## Link to VMs
 
@@ -14,7 +18,7 @@ This page is updated after each lecture/Module.
 
 Use UiO credentials
 
-Choose IN-BIOSX000 
+Choose IN-BIOSX000
 
 ## Home exam
 
@@ -24,14 +28,14 @@ This page is updated after each lecture/Module.
 
 ## Introduction
 
-This is the webpage for the fall 2018 edition of the credited courses [**IN-BIOS5000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000) (master level) and [**IN-BIOS9000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS9000) (Ph.D. level) offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) and funded by [**NORBIS**](https://norbis.w.uib.no/activities/courses/genome-sequencing-technologies-assembly-variant-calling-and-statistical-genomics). 
+This is the webpage for the fall 2018 edition of the credited courses [**IN-BIOS5000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000) (master level) and [**IN-BIOS9000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS9000) (Ph.D. level) offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) and funded by [**NORBIS**](https://norbis.w.uib.no/activities/courses/genome-sequencing-technologies-assembly-variant-calling-and-statistical-genomics).
 
 This course consists of two weeks, of
 lectures and practicals, and a final take-home exam, plus a written exam on the course material and the reading material.
 
 ## Schedule
 Course days are usually from 9:15 to 17:00 (teachers may stay longer if
-requested), some lectures, mostly hands-on exercises. All materials for lectures and practicals will be linked from the schedule below. 
+requested), some lectures, mostly hands-on exercises. All materials for lectures and practicals will be linked from the schedule below.
 
 The schedule will appear here early in August and will link to the webpages with the material taught (these links are added as the course progresses).
 
@@ -186,10 +190,10 @@ The exam for this course will be:
     to be announced. Students will present their work to two-three teachers,
     followed by some questioning (20-30 minutes in total). This home exam will
     be handed out to all participants during the last course day.
-    
+
 
 **NOTE** Both exams have to be passed to earn study credits.
-  
+
 **NOTE** 80% attendance is required to take the final exam.
 
 ### Written exams from previous years
