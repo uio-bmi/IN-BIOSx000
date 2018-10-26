@@ -10,7 +10,7 @@ This page is updated after each lecture/Module.
 
 ## Teaching materials
 
-[Assembly module](Assembly/index.md)
+[Assembly module](Assembly)
 
 ## Link to VMs
 
