@@ -23,7 +23,7 @@
 * [Oct 24: Algorithms - Alignment](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day3_AlgorithmsAlignment.pdf)
 
 ###### *De novo* assembly
-* [Oct 25: *De novo* assembly](https://in-biosx000.readthedocs.io/en/2018/Assembly/index.md)
+* [Oct 25: *De novo* assembly](https://in-biosx000.readthedocs.io/en/2018/Assembly/)
 
 ###### Variant calling
 * [Oct 30: Variant calling]
