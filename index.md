@@ -10,6 +10,8 @@ This page is updated after each lecture/Module.
 
 ## Teaching materials
 
+Link to [Etherpad](https://etherpad.wikimedia.org/p/INF_BIOSx000_2018)
+
 [Assembly module](Assembly)
 
 ## Link to VMs
