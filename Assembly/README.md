@@ -11,9 +11,8 @@ Schedule for the Assembly module
 ### Day 2
 
 * tutorial: assembly with velvet
-* starting assemblies
+* starting assemblies (SPAdes and canu module)
 * basic metrics of the assemblies performed so far
-* starting overnight assemblies
 
 ### Day 3
 * comparing assemblies to the reference using Quast
