@@ -95,7 +95,7 @@ notebook.
 * copy the notebook file `/share/inf-biox121/data/assembly/Plot_insertsizes.ipynb`
 to the `bwa` folder
 * in the terminal, make sure you are in that folder
-* start python3
+* start python3, and enable the jupyter environment
 * open the Jupyter notebook
 * execute the cells as listed
 * for `infile`, use the name of the sorted BAM file for the mapping of the
@@ -153,7 +153,8 @@ What are these?
 It would be convenient to be able to see the location of gaps in the browser.
 For this purpose use a script made by your teacher that creates a `bed` file
 with gap locations. We will use 10 bases as minimum gap length: `-m 10`. You
-need to have python3 enabled.
+need to have python3 enabled (i.e. have jupyter in parenthesis on your command
+line).
 
 You need to be in the directory where your assembly is.
 
