@@ -4,7 +4,7 @@
 
 ###### Fundamentals of Molecular biology
 
-* [Oct 22: Molecular Biology]
+* [Oct 22: Molecular Biology](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day1_MolBio.pdf)
 
 ###### High throughput sequencing (HTS)
 * [Oct 22 : HTS - Introduction](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/Day1_HTS-intro.pdf)
