@@ -26,7 +26,12 @@
 * [Oct 25: *De novo* assembly](https://in-biosx000.readthedocs.io/en/2018/Assembly/)
 
 ###### Variant calling
-* [Oct 30: Variant calling]
+* [Oct 30: VC - introduction](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/vc_autumn2018_mod1_intro.pdf)
+* [Oct 30: VC - basic pipeline](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/vc_autumn2018_mod2_toBasicPipeline.pdf)
+* [Oct 30: VC - generating reports](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/vc_autumn2018_mod3_toGeneratingReports.pdf)	
+* [Oct 30: VC - VCF](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/vc_autumn2018_mod4_variantCallingAndVCF.pdf) 	
+* [Oct 30: VC - advanced pipeline](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/vc_autumn2018_mod5_toAdvancedPipeline.pdf)
+* [Oct 30: VC - functional annotation](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/vc_autumn2018_mod6_toFunctionalAnnotation.pdf)
 
 ###### Statistical genomics
 * [Nov 01: Statistical genomics]
