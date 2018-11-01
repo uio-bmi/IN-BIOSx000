@@ -36,6 +36,9 @@ Exome sequencing identifies the cause of a mendelian disorder. Ng et al., Nature
 
 [Multiple testing](http://www.biostathandbook.com/multiplecomparisons.html), McDonald, Handbook of Biological Statistics
 
+[Colocalization analyses of genomic elements: approaches, recommendations and challenges](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty835/5126923), Kanduri _et. al._, Bioinformatics 2018
+
+
 From 2016
 ============
 [Coming of age: ten years of next-generation sequencing technologies](https://wiki.uio.no/projects/clsi/images/6/6f/Goodwin2016.pdf), Goodwin _et. al._, Nature Reviews Genetics 2016
