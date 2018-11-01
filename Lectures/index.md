@@ -34,4 +34,4 @@
 * [Oct 30: VC - functional annotation](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/vc_autumn2018_mod6_toFunctionalAnnotation.pdf)
 
 ###### Statistical genomics
-* [Nov 01: Statistical genomics]
+* [Nov 01: Statistical genomics](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Lectures/2018_Statistical genomics_v2.pdf)
