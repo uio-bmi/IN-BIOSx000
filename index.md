@@ -129,8 +129,8 @@ The schedule will appear here early in August and will link to the webpages with
 <td align="left">Oral exam</td>
 </tr>
 <tr class="odd">
-<td align="left">Fri. Nov. 30</td>
-<td align="left">TBA</td>
+<td align="left">Fri. Nov. 30<br/>14:30 hrs</td>
+<td align="left">Store fysiske<br/>lesesal Fysikkbygningen</td>
 <td align="left">Written exam</td>
 <td align="left"></td>
 </tr>
@@ -153,8 +153,7 @@ NORBIS sponsored dinner will be on Oct 25 at 1800 hrs in <a href='https://olivia
 
 **Exam location:**
 
-Information regarding written exam will appear here once it is available.
-
+Written exam will take place on Nov 30 at 1430 hrs (2 hour exam) in [Store fysiske lesesal Fysikkbygningen](http://www.google.com/maps/preview?t=h&f=q&q=59.937924,10.718729+(Fysikkbygningen)&z=16)
 
 ## Requirements
 
@@ -180,7 +179,7 @@ If you are struggling with anything of the above, in particular if you have forg
 The curriculum consists of a set of scientific articles. The exam will
 contain questions on the material presented in these papers on the material covered during the course. Specific details of the curriculum, and a list of further suggested papers, can be found [here](Curriculum).
 
-## Exam
+## Exam [Link to exam information at UiO](https://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000/h18/eksamen/index.html)
 
 The exam for this course will be:
 
