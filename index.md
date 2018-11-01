@@ -10,7 +10,7 @@ This page is updated after each lecture/Module.
 
 ## Teaching materials
 
-Link to [Etherpad](https://etherpad.wikimedia.org/p/INF_BIOSx000_2018)
+Link to [Etherpad](https://etherpad.wikimedia.org/p/INF_BIOSx000_2018)<br/>
 List of further suggested papers, can be found [here](Curriculum).  
 
 ## Link to VMs
