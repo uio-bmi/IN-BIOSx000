@@ -10,16 +10,13 @@ This page is updated after each lecture/Module.
 
 ## Teaching materials
 
-Link to [Etherpad](https://etherpad.wikimedia.org/p/INF_BIOSx000_2018)
-
-[Assembly module](Assembly)
+Link to [Etherpad](https://etherpad.wikimedia.org/p/INF_BIOSx000_2018)  
+List of further suggested papers, can be found [here](Curriculum).  
 
 ## Link to VMs
 
-[https://vdi-apcon-prod.uio.no](https://vdi-apcon-prod.uio.no)
-
-Use UiO credentials
-
+[https://vdi-apcon-prod.uio.no](https://vdi-apcon-prod.uio.no)  
+Use UiO credentials  
 Choose IN-BIOSX000
 
 ## Home exam
@@ -131,8 +128,8 @@ The schedule will appear here early in August and will link to the webpages with
 <tr class="odd">
 <td align="left">Fri. Nov. 30<br/>14:30 hrs</td>
 <td align="left">Store fysiske<br/>lesesal Fysikkbygningen</td>
-<td align="left">Written exam</td>
 <td align="left"></td>
+<td align="left">Written exam</td>
 </tr>
  </tbody>
 </table>
@@ -179,7 +176,9 @@ If you are struggling with anything of the above, in particular if you have forg
 The curriculum consists of a set of scientific articles. The exam will
 contain questions on the material presented in these papers on the material covered during the course. Specific details of the curriculum, and a list of further suggested papers, can be found [here](Curriculum).
 
-## Exam [Link to exam information at UiO](https://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000/h18/eksamen/index.html)
+## Exam
+
+[Link to exam information at UiO](https://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000/h18/eksamen/index.html)
 
 The exam for this course will be:
 
