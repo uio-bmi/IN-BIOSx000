@@ -5,18 +5,18 @@ Note: for previous course editions (INF-BIO9121 and INF-BIO5121), check out [thi
 
 ## Lecture slides
 
-[Lecture slides](http://in-biosx000.readthedocs.io/en/2018/Lectures/)
+[Lecture slides](http://in-biosx000.readthedocs.io/en/2018/Lectures/)<br/>
 This page is updated after each lecture/Module.
 
 ## Teaching materials
 
-Link to [Etherpad](https://etherpad.wikimedia.org/p/INF_BIOSx000_2018)  
+Link to [Etherpad](https://etherpad.wikimedia.org/p/INF_BIOSx000_2018)
 List of further suggested papers, can be found [here](Curriculum).  
 
 ## Link to VMs
 
-[https://vdi-apcon-prod.uio.no](https://vdi-apcon-prod.uio.no)  
-Use UiO credentials  
+[https://vdi-apcon-prod.uio.no](https://vdi-apcon-prod.uio.no)<br/>
+Use UiO credentials<br/>
 Choose IN-BIOSX000
 
 ## Home exam
