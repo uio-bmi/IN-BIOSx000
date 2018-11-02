@@ -21,8 +21,7 @@ Choose IN-BIOSX000
 
 ## Home exam
 
-The page is updated after information is available.
-
+Link to [home exam](misc)
 
 ## Introduction
 
