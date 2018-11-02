@@ -20,9 +20,9 @@ Refer to Wikipedia for basic information
 
 ##### Variant Calling
 
-Genotype and SNP calling from next-generation sequencing data. Nielsen et al., Nature Reviews Genetics 2011. This is a review paper that should be easily understandable once the student has taken the variant calling module. 
+[Genotype and SNP calling from next-generation sequencing data](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Curriculum/nrg2986.pdf) Nielsen et al., Nature Reviews Genetics 2011. This is a review paper that should be easily understandable once the student has taken the variant calling module. 
 
-Exome sequencing identifies the cause of a mendelian disorder. Ng et al., Nature Genetics 2010. A paper reporting the first resolution of a mendelian disorder using exome capture.
+[Exome sequencing identifies the cause of a mendelian disorder](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Curriculum/ng.499.pdf) Ng et al., Nature Genetics 2010. A paper reporting the first resolution of a mendelian disorder using exome capture.
 
 ##### Statistical genomics
 
