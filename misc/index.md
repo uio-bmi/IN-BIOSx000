@@ -21,7 +21,7 @@ Below you will find the link to the home exam questions followed by the list of 
 
 All the best!
 
-* *De novo assembly* - Link will appear here on Monday Nov 5
+* [*De novo assembly*](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/misc/Denovoassembly_home_exam_2018.pdf)
 
 Anna Patova<br>
 Karina Ingeborg Brorstad Borlaug<br>
@@ -29,7 +29,7 @@ Katinka Bleeker<br>
 Leona Milec<br>
 Valentin Kauth<br>
 
-* Variant Calling - Link will appear here on Monday Nov 5  
+* [Variant Calling](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/misc/VariantCalling_home_exam_2018.pdf) 
 
 Anupam Gogoi<br>
 Christian Sæther<br>
@@ -37,7 +37,7 @@ Kamilla Instefjord<br>
 Nardos Tesfaye Woldemariam<br>
 Oliver Sven Kersten<br>
 
-* Statistical genomics - Link will appear here on Monday Nov 5 
+* [Statistical genomics](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/misc/StatisticalGenomics_home_exam_2018.pdf)
 
 Adriana Maria	Sanabria Moreno<br>
 Bengt Martin Alfred	Falck<br>
