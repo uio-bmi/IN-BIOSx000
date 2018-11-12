@@ -90,15 +90,15 @@ Also, please arrive at least 15 mins before your timeslot. Call Arvind Sundaram 
 </tr>
 <tr class="even">
 <td align="left">Katherine Ann Gredvig Nielsen</td>
-<td align="left">1330-1400</td>
+<td align="left">1300-1330</td>
 </tr>
 <tr class="even">
 <td align="left">Marie Hermy</td>
-<td align="left">1415-1445</td>
+<td align="left">1400-1430</td>
 </tr>
 <tr class="even">
 <td align="left">Yousri Abdelmutalab Ahmed Abdelhafiz</td>
-<td align="left">1445-1515</td>
+<td align="left">1430-1500</td>
 </tr>
 
 
