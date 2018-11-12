@@ -20,7 +20,7 @@ Also, please arrive at least 15 mins before your timeslot. Call Arvind Sundaram 
 <table border="1">
 <thead>
 <tr class="header">
-<th align="left">Friday November 3</th>
+<th align="left">Thursday November 29</th>
 </tr>
 </thead>
 <tbody>
