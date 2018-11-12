@@ -16,6 +16,96 @@ Oral exam will take place at Ole-Johan Dahls hus (same building as the lectures)
 Plan your presentation for 15-20 mins max. 
 Also, please arrive at least 15 mins before your timeslot. Call Arvind Sundaram (90873284) in case you are lost!
 
+
+<table border="1">
+<thead>
+<tr class="header">
+<th align="left">Friday November 3</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><strong>De novo assembly</strong></td>
+<td align="left"><strong>Room TBA</strong></td>
+</tr>
+<tr class="even">
+<td align="left">Karina Ingeborg Brorstad Borlaug</td>
+<td align="left">0830-0900</td>
+</tr>
+<tr class="even">
+<td align="left">Anna Patova</td>
+<td align="left">0900-0930</td>
+</tr>
+<tr class="even">
+<td align="left">Katinka Bleeker</td>
+<td align="left">0930-1000</td>
+</tr>
+<tr class="even">
+<td align="left">Leona Milec</td>
+<td align="left">1030-1100</td>
+</tr>
+<tr class="even">
+<td align="left">Valentin Kauth</td>
+<td align="left">1100-1130</td>
+</tr>
+
+
+<tr class="odd">
+<td align="left"><strong>Variant Calling</strong></td>
+<td align="left"><strong>Room TBA</strong></td>
+</tr>
+<tr class="even">
+<td align="left">Christian Sæther</td>
+<td align="left">0830-0900</td>
+</tr>
+<tr class="even">
+<td align="left">Kamilla Instefjord</td>
+<td align="left">0900-0930</td>
+</tr>
+<tr class="even">
+<td align="left">Nardos Tesfaye Woldemariam</td>
+<td align="left">0930-1000</td>
+</tr>
+<tr class="even">
+<td align="left">Oliver Sven Kersten</td>
+<td align="left">1030-1100</td>
+</tr>
+<tr class="even">
+<td align="left">Anupam Gogoi</td>
+<td align="left">1100-1130</td>
+</tr>
+
+
+<tr class="odd">
+<td align="left"><strong>Statistical genomics</strong></td>
+<td align="left"><strong>Room TBA</strong></td>
+</tr>
+<tr class="even">
+<td align="left">Adriana Maria Sanabria Moreno</td>
+<td align="left">1200-1230</td>
+</tr>
+<tr class="even">
+<td align="left">Bengt Martin Alfred Falck</td>
+<td align="left">1230-1300</td>
+</tr>
+<tr class="even">
+<td align="left">Katherine Ann Gredvig Nielsen</td>
+<td align="left">1330-1400</td>
+</tr>
+<tr class="even">
+<td align="left">Marie Hermy</td>
+<td align="left">1415-1445</td>
+</tr>
+<tr class="even">
+<td align="left">Yousri Abdelmutalab Ahmed Abdelhafiz</td>
+<td align="left">1445-1515</td>
+</tr>
+
+
+ </tbody>
+</table>
+<p><p>
+  
  
 Below you will find the link to the home exam questions followed by the list of students who need work on that module.
 
