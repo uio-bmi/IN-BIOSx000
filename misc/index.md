@@ -48,7 +48,11 @@ Also, please arrive at least 15 mins before your timeslot. Call Arvind Sundaram 
 <td align="left">Valentin Kauth</td>
 <td align="left">1100-1130</td>
 </tr>
-
+ 
+<tr class="even">
+<td align="left"></td>
+<td align="left"></td>
+</tr>
 
 <tr class="odd">
 <td align="left"><strong>Variant Calling</strong></td>
@@ -75,6 +79,10 @@ Also, please arrive at least 15 mins before your timeslot. Call Arvind Sundaram 
 <td align="left">1100-1130</td>
 </tr>
 
+<tr class="even">
+<td align="left"></td>
+<td align="left"></td>
+</tr>
 
 <tr class="odd">
 <td align="left"><strong>Statistical genomics</strong></td>
