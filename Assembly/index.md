@@ -5,11 +5,11 @@ A module in the fall 2018 edition of IN-BIOSx000
 
 Slides:
 
-[Introduction to the assembly module _new_](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/A_intro_to_assembly_module.pptx)
+[Introduction to the assembly module _new_](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/A_intro_to_assembly_module.pdf)
 
-[Principles and problems of de novo genome assembly _new_](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/C_Principles_and_problems_of_de_novo_genome_assembly.pptx)
+[Principles and problems of de novo genome assembly _new_](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/C_Principles_and_problems_of_de_novo_genome_assembly.pdf)
 
-[De novo assembly using velvet _new_](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/E_De_novo_assembly_using_velvet.pptx)
+[De novo assembly using velvet _new_](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/E_De_novo_assembly_using_velvet.pdf)
 
 [SPAdes Velvet _new_](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/F_SPAdesVelvet_Assembler.pdf)
 
