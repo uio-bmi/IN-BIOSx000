@@ -5,12 +5,15 @@ A module in the fall 2018 edition of IN-BIOSx000
 
 Slides:
 
-[Introduction to the assembly module](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/01_intro_to_assembly_module.pptx)
+[Introduction to the assembly module _new_](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/A_intro_to_assembly_module.pptx)
 
-[Principles and problems of de novo genome assembly](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/02_Principles_and_problems_of_de_novo_genome_assembly.pptx)
+[Principles and problems of de novo genome assembly _new_](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/C_Principles_and_problems_of_de_novo_genome_assembly.pptx)
 
-[De novo assembly using velvet](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/03_De_novo_assembly_using_velvet.pptx?raw=true)
+[De novo assembly using velvet _new_](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/E_De_novo_assembly_using_velvet.pptx)
 
+[SPAdes Velvet _new_](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/F_SPAdesVelvet_Assembler.pdf)
+
+[QUAST REAPR _new_](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Assembly/presentations/G_QUAST_REAPR.pdf)
 
 * Day 1: [Assembly using velvet](https://github.com/arvindsundaram/IN-BIOSx000/blob/2018/Assembly/practicals/02_Assembly_using_velvet.md)
 * Day 1: [Assembly using SPAdes](https://github.com/arvindsundaram/IN-BIOSx000/blob/2018/Assembly/practicals/05_Assembly_using_SPADES.md)
