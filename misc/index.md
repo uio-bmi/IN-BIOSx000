@@ -109,7 +109,7 @@ Also, please arrive at least 15 mins before your timeslot. Call Arvind Sundaram 
 </tr>
 <tr class="even">
 <td align="left">Adriana Maria Sanabria Moreno</td>
-<td align="left">1430-1500</td>
+<td align="left"></td>
 </tr>
 
 
