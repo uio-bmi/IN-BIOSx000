@@ -29,7 +29,7 @@ Also, please arrive at least 15 mins before your timeslot. Call Arvind Sundaram 
 <tbody>
 <tr class="odd">
 <td align="left"><strong>De novo assembly</strong></td>
-<td align="left"><strong>Room TBA</strong></td>
+<td align="left"><strong>Room 4426</strong></td>
 </tr>
 <tr class="even">
 <td align="left">Karina Ingeborg Brorstad Borlaug</td>
@@ -59,7 +59,7 @@ Also, please arrive at least 15 mins before your timeslot. Call Arvind Sundaram 
 
 <tr class="odd">
 <td align="left"><strong>Variant Calling</strong></td>
-<td align="left"><strong>Room TBA</strong></td>
+<td align="left"><strong>Room 4118</strong></td>
 </tr>
 <tr class="even">
 <td align="left">Christian Sæther</td>
@@ -89,7 +89,7 @@ Also, please arrive at least 15 mins before your timeslot. Call Arvind Sundaram 
 
 <tr class="odd">
 <td align="left"><strong>Statistical genomics</strong></td>
-<td align="left"><strong>Room TBA</strong></td>
+<td align="left"><strong>Room 4426</strong></td>
 </tr>
 <tr class="even">
 <td align="left">Bengt Martin Alfred Falck</td>
