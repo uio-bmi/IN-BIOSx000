@@ -105,7 +105,7 @@ Also, please arrive at least 15 mins before your timeslot. Call Arvind Sundaram 
 </tr>
 <tr class="even">
 <td align="left">Yousri Abdelmutalab Ahmed Abdelhafiz</td>
-<td align="left">1400-1430</td>
+<td align="left">1330-1400</td>
 </tr>
 <tr class="even">
 <td align="left">Adriana Maria Sanabria Moreno</td>
