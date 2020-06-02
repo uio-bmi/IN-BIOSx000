@@ -8,9 +8,12 @@ Course material for the IN-BIOSx000 course
 
 **Current edition**  
 
-The 2018 course edition material can be found `here <http://in-biosx000.readthedocs.io/en/2018/>`__.
+The 2020 course edition material can be found `here <http://in-biosx000.readthedocs.io/en/2020/>`__.
 
 **Previous editions**
+2019: Course was not offered 
+
+`2018 <http://inf-biox121.readthedocs.org/en/2018>`__: IN-BIOS9000 and IN-BIOS5000
 
 `2017 <http://inf-biox121.readthedocs.org/en/2017>`__: INF-BIO9121 and INF-BIO5121
 
