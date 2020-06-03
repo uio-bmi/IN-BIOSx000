@@ -1,23 +1,20 @@
-Genome Sequencing Technologies, Assembly, Variant Calling and Statistical Genomics fall 2018
+Genome Sequencing Technologies, Assembly, Variant Calling and Statistical Genomics fall 2020
 ==========================================
 
 Note: for previous course editions (INF-BIO9121 and INF-BIO5121), check out [this website](http://inf-biox121.readthedocs.io).
 
 ## Lecture slides
 
-[Lecture slides](http://in-biosx000.readthedocs.io/en/2018/Lectures/)<br/>
+[Lecture slides](Lectures)<br/>
 This page is updated after each lecture/Module.
 
 ## Teaching materials
 
-Link to [Etherpad](https://etherpad.wikimedia.org/p/INF_BIOSx000_2018)<br/>
+Link to [Etherpad](https://etherpad.wikimedia.org/p/INF_BIOSx000_2020)<br/>
 List of further suggested papers, can be found [here](Curriculum).  
 
 ## Link to VMs
 
-[https://vdi-apcon-prod.uio.no](https://vdi-apcon-prod.uio.no)<br/>
-Use UiO credentials<br/>
-Choose IN-BIOSX000
 
 ## Home exam
 
@@ -25,7 +22,7 @@ Link to [home exam](misc)
 
 ## Introduction
 
-This is the webpage for the fall 2018 edition of the credited courses [**IN-BIOS5000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000) (master level) and [**IN-BIOS9000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS9000) (Ph.D. level) offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) and funded by [**NORBIS**](https://norbis.w.uib.no/activities/courses/genome-sequencing-technologies-assembly-variant-calling-and-statistical-genomics).
+This is the webpage for the fall 2020 edition of the credited courses [**IN-BIOS5000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000) (master level) and [**IN-BIOS9000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS9000) (Ph.D. level) offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) and funded by [**NORBIS**](https://norbis.w.uib.no/activities/courses/genome-sequencing-technologies-assembly-variant-calling-and-statistical-genomics).
 
 This course consists of two weeks, of
 lectures and practicals, and a final take-home exam, plus a written exam on the course material and the reading material.
@@ -53,31 +50,31 @@ The schedule will appear here early in August and will link to the webpages with
 <td align="left"><strong>Week 43</strong></td>
 </tr>
 <tr class="even">
-<td align="left">Mon. Oct. 22</td>
+<td align="left">Mon. Oct. 19</td>
 <td align="left">Shell</td>
 <td align="left">Update on NORBIS<br/>Fundamentals of Molecular Biology</td>
 <td align="left">HTS & applications<br/>Illumina sequencing<br/>PacBio technology<br/>Pizza evening</td>
 </tr>
 <tr class="odd">
-<td align="left">Tue. Oct. 23</td>
+<td align="left">Tue. Oct. 20</td>
 <td align="left">Postscript</td>
 <td align="left">Oxford Nanopore technology<br/>Library preparation<br/>Experimental design</td>
 <td align="left">Basic file formats</td>
 </tr>
 <tr class="even">
-<td align="left">Wed. Oct. 24</td>
+<td align="left">Wed. Oct. 21</td>
 <td align="left">Shell</td>
 <td align="left">Pre-processing of HTS data</td>
 <td align="left">Algorithms</td>
 </tr>
 <tr class="odd">
-<td align="left">Thu. Oct. 25</td>
+<td align="left">Thu. Oct. 22</td>
 <td align="left">Java</td>
 <td align="left">Algorithms</td>
 <td align="left">De novo assembly<br/>Dinner @1800 hrs in Olivia, Aker brygge</td>
 </tr>
 <tr class="even">
-<td align="left">Fri. Oct. 26</td>
+<td align="left">Fri. Oct. 23</td>
 <td align="left">Java</td>
 <td align="left">De novo assembly</td>
 <td align="left">De novo assembly</td>
@@ -86,31 +83,31 @@ The schedule will appear here early in August and will link to the webpages with
 <td align="left"><strong>Week 44</strong></td>
 </tr>
 <tr class="even">
-<td align="left">Mon. Oct. 29</td>
+<td align="left">Mon. Oct. 26</td>
 <td align="left">Shell</td>
 <td align="left">De novo assembly</td>
 <td align="left">De novo assembly</td>
 </tr>
 <tr class="odd">
-<td align="left">Tue. Oct. 30</td>
+<td align="left">Tue. Oct. 27</td>
 <td align="left">Postscript</td>
 <td align="left">Variant calling</td>
 <td align="left">Variant calling</td>
 </tr>
 <tr class="even">
-<td align="left">Wed. Oct. 31</td>
+<td align="left">Wed. Oct. 28</td>
 <td align="left">Python</td>
 <td align="left">Variant calling</td>
 <td align="left">Variant calling</td>
 </tr>
 <tr class="odd">
-<td align="left">Thu. Nov. 01</td>
+<td align="left">Thu. Oct. 29</td>
 <td align="left">Python</td>
 <td align="left">Statistical genomics</td>
 <td align="left">Statistical genomics</td>
 </tr>
 <tr class="even">
-<td align="left">Fri. Nov. 02</td>
+<td align="left">Fri. Oct. 30</td>
 <td align="left">Python</td>
 <td align="left">Statistical genomics</td>
 <td align="left">Statistical genomics</td>
@@ -119,16 +116,16 @@ The schedule will appear here early in August and will link to the webpages with
 <td align="left"><strong>Week 48</strong></td>
 </tr>
 <tr class="even">
-<td align="left">Thu. Nov. 29</td>
+<td align="left">Thu. Nov. 26</td>
 <td align="left">TBA</td>
 <td align="left">Oral exam</td>
 <td align="left">Oral exam</td>
 </tr>
 <tr class="odd">
-<td align="left">Fri. Nov. 30<br/>14:30 hrs</td>
-<td align="left">Store fysiske<br/>lesesal Fysikkbygningen</td>
-<td align="left"></td>
-<td align="left">Written exam</td>
+<td align="left">Fri. Nov. 27</td>
+<td align="left">TBA</td>
+<td align="left">Oral exam</td>
+<td align="left">Oral exam</td>
 </tr>
  </tbody>
 </table>
@@ -138,18 +135,13 @@ The schedule will appear here early in August and will link to the webpages with
 
 Ole-Johan Dahls hus location: <a href='https://goo.gl/maps/b1qoR'>Google maps</a>
 
-* Shell: room 1456 Informatics building (Ole-Johan Dahls hus)
-* Postscript: room 2458 Informatics building (Ole-Johan Dahls hus)
-* Java: room 2423 Informatics building (Ole-Johan Dahls hus)
-* Python: room 2269 Informatics building (Ole-Johan Dahls hus)
 
-**Dinner on Oct 25**
+**Dinner on Oct XX**
 
-NORBIS sponsored dinner will be on Oct 25 at 1800 hrs in <a href='https://oliviarestauranter.no/#!/restaurant/aker-brygge'>Olivia, Aker Brygge</a> at <a href='https://goo.gl/maps/aD1WjotULr12'>Google maps</a>
 
 **Exam location:**
 
-Written exam will take place on Nov 30 at 1430 hrs (2 hour exam) in [Store fysiske lesesal Fysikkbygningen](http://www.google.com/maps/preview?t=h&f=q&q=59.937924,10.718729+(Fysikkbygningen)&z=16)
+Oral exam on week 48; Nov 26 and 27. Home exam.
 
 ## Requirements
 
@@ -181,20 +173,20 @@ contain questions on the material presented in these papers on the material cove
 
 The exam for this course will be:
 
--   a written exam on the course and curriculum, time and place
-    to be announced
 -   an *individual*, home exam
     combined with an oral examination of the home exam time, and place
     to be announced. Students will present their work to two-three teachers,
     followed by some questioning (20-30 minutes in total). This home exam will
     be handed out to all participants during the last course day.
-
+-   an oral exam on the course and curriculum, time and place
+    to be announced
 
 **NOTE** Both exams have to be passed to earn study credits.
 
 **NOTE** 80% attendance is required to take the final exam.
 
 ### Written exams from previous years
+* [2018](https://github.com/arvindsundaram/IN-BIOSx000/blob/2018/misc/written_exam.pdf)
 * [2016](https://github.com/lexnederbragt/INF-BIOx121/blob/2017/misc/2016.pdf) (exam only)
 * [2015](https://github.com/lexnederbragt/INF-BIOx121/tree/2015/exam) (with information on how the grading was done)
 * [2014](https://wiki.uio.no/projects/clsi/images/f/f2/Examinfbio2014.pdf) (exam only)
