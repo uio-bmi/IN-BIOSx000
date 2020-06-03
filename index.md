@@ -53,31 +53,31 @@ The schedule will appear here early in August and will link to the webpages with
 </tr>
 <tr class="even">
 <td align="left">Mon. Oct. 19</td>
-<td align="left">Shell</td>
+<td align="left">XXX</td>
 <td align="left">Update on NORBIS<br/>Fundamentals of Molecular Biology</td>
 <td align="left">HTS & applications<br/>Illumina sequencing<br/>PacBio technology<br/>Pizza evening</td>
 </tr>
 <tr class="odd">
 <td align="left">Tue. Oct. 20</td>
-<td align="left">Postscript</td>
+<td align="left">XXX</td>
 <td align="left">Oxford Nanopore technology<br/>Library preparation<br/>Experimental design</td>
 <td align="left">Basic file formats</td>
 </tr>
 <tr class="even">
 <td align="left">Wed. Oct. 21</td>
-<td align="left">Shell</td>
+<td align="left">XXX</td>
 <td align="left">Pre-processing of HTS data</td>
 <td align="left">Algorithms</td>
 </tr>
 <tr class="odd">
 <td align="left">Thu. Oct. 22</td>
-<td align="left">Java</td>
+<td align="left">XXX</td>
 <td align="left">Algorithms</td>
 <td align="left">De novo assembly<br/>Dinner @1800 hrs in Olivia, Aker brygge</td>
 </tr>
 <tr class="even">
 <td align="left">Fri. Oct. 23</td>
-<td align="left">Java</td>
+<td align="left">XXX</td>
 <td align="left">De novo assembly</td>
 <td align="left">De novo assembly</td>
 </tr>
@@ -86,31 +86,31 @@ The schedule will appear here early in August and will link to the webpages with
 </tr>
 <tr class="even">
 <td align="left">Mon. Oct. 26</td>
-<td align="left">Shell</td>
+<td align="left">XXX</td>
 <td align="left">De novo assembly</td>
 <td align="left">De novo assembly</td>
 </tr>
 <tr class="odd">
 <td align="left">Tue. Oct. 27</td>
-<td align="left">Postscript</td>
+<td align="left">XXX</td>
 <td align="left">Variant calling</td>
 <td align="left">Variant calling</td>
 </tr>
 <tr class="even">
 <td align="left">Wed. Oct. 28</td>
-<td align="left">Python</td>
+<td align="left">XXX</td>
 <td align="left">Variant calling</td>
 <td align="left">Variant calling</td>
 </tr>
 <tr class="odd">
 <td align="left">Thu. Oct. 29</td>
-<td align="left">Python</td>
+<td align="left">XXX</td>
 <td align="left">Statistical genomics</td>
 <td align="left">Statistical genomics</td>
 </tr>
 <tr class="even">
 <td align="left">Fri. Oct. 30</td>
-<td align="left">Python</td>
+<td align="left">XXX</td>
 <td align="left">Statistical genomics</td>
 <td align="left">Statistical genomics</td>
 </tr>
@@ -170,8 +170,6 @@ The curriculum consists of a set of scientific articles. The exam will
 contain questions on the material presented in these papers on the material covered during the course. Specific details of the curriculum, and a list of further suggested papers, can be found [here](Curriculum).
 
 ## Exam
-
-[Link to exam information at UiO](https://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000/h18/eksamen/index.html)
 
 The exam for this course will be:
 
