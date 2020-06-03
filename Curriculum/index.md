@@ -1,5 +1,5 @@
 
-# Curriculum
+# Curriculum 2018
 
 ##### Molecular Biology
 Refer to Wikipedia for basic information
