@@ -55,7 +55,7 @@ The schedule will appear here early in August and will link to the webpages with
 <td align="left">Mon. Oct. 19</td>
 <td align="left">XXX</td>
 <td align="left">Update on NORBIS<br/>Fundamentals of Molecular Biology</td>
-<td align="left">HTS & applications<br/>Illumina sequencing<br/>PacBio technology<br/>Pizza evening</td>
+<td align="left">HTS & applications<br/>Illumina sequencing<br/>PacBio technology</td>
 </tr>
 <tr class="odd">
 <td align="left">Tue. Oct. 20</td>
@@ -73,7 +73,7 @@ The schedule will appear here early in August and will link to the webpages with
 <td align="left">Thu. Oct. 22</td>
 <td align="left">XXX</td>
 <td align="left">Algorithms</td>
-<td align="left">De novo assembly<br/>Dinner @1800 hrs in Olivia, Aker brygge</td>
+<td align="left">De novo assembly</td>
 </tr>
 <tr class="even">
 <td align="left">Fri. Oct. 23</td>
