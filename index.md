@@ -1,4 +1,7 @@
-Genome Sequencing Technologies, Assembly, Variant Calling and Statistical Genomics fall 2020
+Genome Sequencing Technologies, Assembly, Variant Calling and Statistical Genomics fall 2020  
+IN-BIOS5000
+IN-BIOS9000
+
 ==========================================
 
 Note: for previous course editions (INF-BIO9121 and INF-BIO5121), check out [this website](http://inf-biox121.readthedocs.io).
