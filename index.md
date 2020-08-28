@@ -93,26 +93,26 @@ The schedule will appear here early in August and will link to the webpages with
 <tr class="odd">
 <td align="left">Tue. Oct. 27</td>
 <td align="left">XXX</td>
-<td align="left">Variant calling</td>
-<td align="left">Variant calling</td>
+<td align="left">Statistical genomics</td>
+<td align="left">Statistical genomics</td>
 </tr>
 <tr class="even">
 <td align="left">Wed. Oct. 28</td>
 <td align="left">XXX</td>
-<td align="left">Variant calling</td>
-<td align="left">Variant calling</td>
+<td align="left">Statistical genomics</td>
+<td align="left">Statistical genomics</td>
 </tr>
 <tr class="odd">
 <td align="left">Thu. Oct. 29</td>
 <td align="left">XXX</td>
-<td align="left">Statistical genomics</td>
-<td align="left">Statistical genomics</td>
+<td align="left">Variant calling</td>
+<td align="left">Variant calling</td>
 </tr>
 <tr class="even">
 <td align="left">Fri. Oct. 30</td>
 <td align="left">XXX</td>
-<td align="left">Statistical genomics</td>
-<td align="left">Statistical genomics</td>
+<td align="left">Variant calling</td>
+<td align="left">Variant calling</td>
 </tr>
 <tr class="odd">
 <td align="left"><strong>Week 48</strong></td>
