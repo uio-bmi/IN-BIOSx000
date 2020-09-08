@@ -61,25 +61,25 @@ The schedule will appear here early in August and will link to the webpages with
 <td align="left">Tue. Oct. 20</td>
 <td align="left">XXX</td>
 <td align="left">Oxford Nanopore technology<br/>Library preparation<br/>Experimental design</td>
-<td align="left">Basic file formats</td>
+<td align="left">Basic file formats (AS)</td>
 </tr>
 <tr class="even">
 <td align="left">Wed. Oct. 21</td>
 <td align="left">XXX</td>
-<td align="left">Pre-processing of HTS data</td>
-<td align="left">Algorithms</td>
+<td align="left">Pre-processing of HTS data (AS)</td>
+<td align="left">Algorithms (THu)</td>
 </tr>
 <tr class="odd">
 <td align="left">Thu. Oct. 22</td>
 <td align="left">XXX</td>
-<td align="left">Algorithms</td>
-<td align="left">De novo assembly</td>
+<td align="left">Algorithms (THu)</td>
+<td align="left">De novo assembly (KL)</td>
 </tr>
 <tr class="even">
 <td align="left">Fri. Oct. 23</td>
 <td align="left">XXX</td>
-<td align="left">De novo assembly</td>
-<td align="left">De novo assembly</td>
+<td align="left">De novo assembly (KL)</td>
+<td align="left">De novo assembly (KL)</td>
 </tr>
 <tr class="odd">
 <td align="left"><strong>Week 44</strong></td>
@@ -87,32 +87,32 @@ The schedule will appear here early in August and will link to the webpages with
 <tr class="even">
 <td align="left">Mon. Oct. 26</td>
 <td align="left">XXX</td>
-<td align="left">De novo assembly</td>
-<td align="left">De novo assembly</td>
+<td align="left">De novo assembly (KL)</td>
+<td align="left">De novo assembly (KL)</td>
 </tr>
 <tr class="odd">
 <td align="left">Tue. Oct. 27</td>
 <td align="left">XXX</td>
-<td align="left">Statistical genomics</td>
-<td align="left">Statistical genomics</td>
+<td align="left">Statistical genomics (IG)</td>
+<td align="left">Statistical genomics (IG)</td>
 </tr>
 <tr class="even">
 <td align="left">Wed. Oct. 28</td>
 <td align="left">XXX</td>
-<td align="left">Statistical genomics</td>
-<td align="left">Statistical genomics</td>
+<td align="left">Statistical genomics (IG)</td>
+<td align="left">Statistical genomics (IG)</td>
 </tr>
 <tr class="odd">
 <td align="left">Thu. Oct. 29</td>
 <td align="left">XXX</td>
-<td align="left">Introduction to machine learning in computational biology</td>
-<td align="left">Introduction to machine learning in computational biology</td>
+<td align="left">Introduction to machine learning in computational biology (MP)</td>
+<td align="left">Introduction to machine learning in computational biology (MP)</td>
 </tr>
 <tr class="even">
 <td align="left">Fri. Oct. 30</td>
 <td align="left">XXX</td>
-<td align="left">Small RNA transcriptomics</td>
-<td align="left">Somatic variant calling</td>
+<td align="left">Small RNA transcriptomics (TBR)</td>
+<td align="left">Somatic variant calling (DV)</td>
 </tr>
 <tr class="odd">
 <td align="left"><strong>Week 48</strong></td>
@@ -208,8 +208,8 @@ Informatics, University of Oslo)
 * Milena Pavlovic (MP, Dept. of Informatics, University of Oslo)
 * Ragna Breines (Coordinator, NORBIS)
 * Sigve Nakken (SN, Post.Doc., Oslo University Hospital)
-* Thomas Haverkamp (KL, Section for Epidemiology, Norwegian Veterinary Institute)
-* Timothy Hughes (TH, Researcher, NORMENT , Oslo University Hospital)
+* Thomas Haverkamp (THa, Section for Epidemiology, Norwegian Veterinary Institute)
+* Timothy Hughes (THu, Researcher, NORMENT , Oslo University Hospital)
 * Torbjørn Rognes (TR, Research Group for Biomedical Informatics, Dept. of
 Informatics, University of Oslo)
 * Trine B. Rounge (TBR, Researcher, Kreftregisteret)
