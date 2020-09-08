@@ -54,13 +54,13 @@ The schedule will appear here early in August and will link to the webpages with
 <tr class="even">
 <td align="left">Mon. Oct. 19</td>
 <td align="left">XXX</td>
-<td align="left">Update on NORBIS<br/>Fundamentals of Molecular Biology</td>
-<td align="left">HTS & applications<br/>Illumina sequencing<br/>PacBio technology</td>
+<td align="left">Update on NORBIS (RB)<br/>Fundamentals of Molecular Biology (GG)</td>
+<td align="left">HTS & applications (TR)<br/>Illumina sequencing (AS)<br/>PacBio technology (AT)</td>
 </tr>
 <tr class="odd">
 <td align="left">Tue. Oct. 20</td>
 <td align="left">XXX</td>
-<td align="left">Oxford Nanopore technology<br/>Library preparation<br/>Experimental design</td>
+<td align="left">Oxford Nanopore technology (THa)<br/>Library preparation (AS)<br/>Experimental design (AS)</td>
 <td align="left">Basic file formats (AS)</td>
 </tr>
 <tr class="even">
@@ -206,7 +206,7 @@ The exam for this course will be:
 Informatics, University of Oslo)
 * Karin Lagesen (KL, Section for Epidemiology, Norwegian Veterinary Institute)
 * Milena Pavlovic (MP, Dept. of Informatics, University of Oslo)
-* Ragna Breines (Coordinator, NORBIS)
+* Ragna Breines (RB, Coordinator, NORBIS)
 * Sigve Nakken (SN, Post.Doc., Oslo University Hospital)
 * Thomas Haverkamp (THa, Section for Epidemiology, Norwegian Veterinary Institute)
 * Timothy Hughes (THu, Researcher, NORMENT , Oslo University Hospital)
