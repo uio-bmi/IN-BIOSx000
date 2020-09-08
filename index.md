@@ -105,14 +105,14 @@ The schedule will appear here early in August and will link to the webpages with
 <tr class="odd">
 <td align="left">Thu. Oct. 29</td>
 <td align="left">XXX</td>
-<td align="left">Variant calling</td>
-<td align="left">Variant calling</td>
+<td align="left">Introduction to machine learning in computational biology</td>
+<td align="left">Introduction to machine learning in computational biology</td>
 </tr>
 <tr class="even">
 <td align="left">Fri. Oct. 30</td>
 <td align="left">XXX</td>
-<td align="left">Variant calling</td>
-<td align="left">Variant calling</td>
+<td align="left">Small RNA transcriptomics</td>
+<td align="left">Somatic variant calling</td>
 </tr>
 <tr class="odd">
 <td align="left"><strong>Week 48</strong></td>
@@ -200,12 +200,16 @@ The exam for this course will be:
 
 * Arvind Sundaram (AS, Bioinformatician, Norwegian Sequencing Centre, Oslo University Hospital)
 * Ave Tooming-Klunderud (AT, CEES, Faculty of Mathematics and Natural Sciences, University of Oslo)
+* Daniel Vodak (DV, Oslo University Hospital)
 * Gregor Gilfillan (GG, Researcher, Norwegian Sequencing Centre, Oslo University Hospital)
 * Ivar Grytten (IG, Research Group for Biomedical Informatics, Dept. of
 Informatics, University of Oslo)
 * Karin Lagesen (KL, Section for Epidemiology, Norwegian Veterinary Institute)
+* Milena Pavlovic (MP, Dept. of Informatics, University of Oslo)
 * Ragna Breines (Coordinator, NORBIS)
+* Sigve Nakken (SN, Post.Doc., Oslo University Hospital)
 * Thomas Haverkamp (KL, Section for Epidemiology, Norwegian Veterinary Institute)
 * Timothy Hughes (TH, Researcher, NORMENT , Oslo University Hospital)
 * Torbjørn Rognes (TR, Research Group for Biomedical Informatics, Dept. of
 Informatics, University of Oslo)
+* Trine B. Rounge (TBR, Researcher, Kreftregisteret)
