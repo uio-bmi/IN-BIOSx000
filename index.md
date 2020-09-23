@@ -42,6 +42,89 @@ The schedule will appear here early in August and will link to the webpages with
 <thead>
 <tr class="header">
 <th align="left">Day</th>
+<th align="left">Time</th>
+<th align="left">Session</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><strong>Week 43</strong></td>
+</tr>
+<tr class="even">
+<td align="left">Mon. Oct. 19</td>
+<td align="left">09:15-09:30<br/>09:30-12:00<br/>13:00-14:00<br/>14:00-15:00<br/>15:00-16:00</td>
+<td align="left">Update on NORBIS (RB)<br/>Fundamentals of Molecular Biology (GG)<br/>HTS & applications (TR)<br/>Illumina sequencing (AS)<br/>PacBio technology (AT)</td>
+</tr>
+<tr class="odd">
+<td align="left">Tue. Oct. 20</td>
+<td align="left">09:15-10:00<br/>10:15-11:00<br/>11:15-12:00<br/>13:00-16:00</td>
+<td align="left">Oxford Nanopore technology (THa)<br/>Library preparation (AS)<br/>Experimental design (AS)<br/>Basic file formats (AS)</td>
+</tr>
+<tr class="even">
+<td align="left">Wed. Oct. 21</td>
+<td align="left">09:15-12:00<br/>13:00-17:00</td>
+<td align="left">Pre-processing of HTS data (AS)<br/>Algorithms (THu)</td>
+</tr>
+<tr class="odd">
+<td align="left">Thu. Oct. 22</td>
+<td align="left">09:15-12:00<br/>13:00-17:00</td>
+<td align="left">Algorithms (THu)<br/>De novo assembly (KL)</td>
+</tr>
+<tr class="even">
+<td align="left">Fri. Oct. 23</td>
+<td align="left">09:15-17:00</td>
+<td align="left">De novo assembly (KL)</td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Week 44</strong></td>
+</tr>
+<tr class="even">
+<td align="left">Mon. Oct. 26</td>
+<td align="left">09:15-17:00</td>
+<td align="left">De novo assembly (KL)</td>
+</tr>
+<tr class="odd">
+<td align="left">Tue. Oct. 27</td>
+<td align="left">09:15-17:00</td>
+<td align="left">Statistical genomics (IG)</td>
+</tr>
+<tr class="even">
+<td align="left">Wed. Oct. 28</td>
+<td align="left">09:15-17:00</td>
+<td align="left">Statistical genomics (IG)</td>
+</tr>
+<tr class="odd">
+<td align="left">Thu. Oct. 29</td>
+<td align="left">09:15-17:00</td>
+<td align="left">Introduction to machine learning in computational biology (MP)</td>
+</tr>
+<tr class="even">
+<td align="left">Fri. Oct. 30</td>
+<td align="left">09:15-12:00<br/>13:00-17:00</td>
+<td align="left">Small RNA transcriptomics (TBR)<br/>Somatic variant calling (DV)</td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Week 48</strong></td>
+</tr>
+<tr class="even">
+<td align="left">Thu. Nov. 26</td>
+<td align="left">TBA</td>
+<td align="left">Oral exam</td>
+</tr>
+<tr class="odd">
+<td align="left">Fri. Nov. 27</td>
+<td align="left">TBA</td>
+<td align="left">Oral exam</td>
+</tr>
+ </tbody>
+</table>
+<p><p>
+ 
+<!---
+<table border="1">
+<thead>
+<tr class="header">
+<th align="left">Day</th>
 <th align="left">Room</th>
 <th align="left">Morning (09:15-12:00)</th>
 <th align="left">Afternoon (13:00-17:00)</th>
@@ -132,6 +215,7 @@ The schedule will appear here early in August and will link to the webpages with
  </tbody>
 </table>
 <p><p>
+--->
 
 **Room location:**
 
