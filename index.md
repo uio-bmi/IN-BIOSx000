@@ -101,7 +101,7 @@ The schedule will appear here early in August and will link to the webpages with
 <tr class="even">
 <td align="left">Fri. Oct. 30</td>
 <td align="left">09:15-12:00<br/>13:00-14:00<br/>14:15-15:15<br/>15:30-1600</td>
-<td align="left">Small RNA transcriptomics (TBR)<br/>Introduction to somatic variant calling (DV<br/>Interpretation of DNA variation in the context of cancer (SN)<br/>Course evaluation</td>
+<td align="left">Small RNA transcriptomics (TBR)<br/>Introduction to somatic variant calling (DV)<br/>Interpretation of DNA variation in the context of cancer (SN)<br/>Course evaluation</td>
 </tr>
 <tr class="odd">
 <td align="left"><strong>Week 48</strong></td>
