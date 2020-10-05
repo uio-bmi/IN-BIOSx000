@@ -100,8 +100,8 @@ The schedule will appear here early in August and will link to the webpages with
 </tr>
 <tr class="even">
 <td align="left">Fri. Oct. 30</td>
-<td align="left">09:15-12:00<br/>13:00-17:00</td>
-<td align="left">Small RNA transcriptomics (TBR)<br/>Somatic variant calling (DV)</td>
+<td align="left">09:15-12:00<br/>13:00-14:00<br/>14:15-15:15<br/>15:30-1600</td>
+<td align="left">Small RNA transcriptomics (TBR)<br/>Introduction to somatic variant calling (DV<br/>Interpretation of DNA variation in the context of cancer (SN)<br/>Course evaluation</td>
 </tr>
 <tr class="odd">
 <td align="left"><strong>Week 48</strong></td>
@@ -219,15 +219,19 @@ The schedule will appear here early in August and will link to the webpages with
 
 **Room location:**
 
+All activities will be carried out on Zoom. Zoom info will be distributed by email.
+<!---
 Ole-Johan Dahls hus location: <a href='https://goo.gl/maps/b1qoR'>Google maps</a>
-
-
+--->
+<!---
 **Dinner on Oct XX**
-
+--->
 
 **Exam location:**
-
+<!---
 Oral exam on week 48; Nov 26 and 27. Home exam.
+--->
+Exam: Oral presentation of home exam and questioning on Nov 26 and 27 by Zoom. Zoom info will be distributed by email.
 
 ## Requirements
 
@@ -255,15 +259,7 @@ contain questions on the material presented in these papers on the material cove
 
 ## Exam
 
-The exam for this course will be:
-
--   an *individual*, home exam
-    combined with an oral examination of the home exam time, and place
-    to be announced. Students will present their work to two-three teachers,
-    followed by some questioning (20-30 minutes in total). This home exam will
-    be handed out to all participants during the last course day.
--   an oral exam on the course and curriculum, time and place
-    to be announced
+The exam for this course will be an *individual* home exam combined with an oral presentation of the home exam and questioning on Zoom on 26/27 November. Exact time to be announced. Students will present their work to two-three teachers, followed by some questioning (20-30 minutes in total). This home exam will be handed out to all participants during the last course day.
 
 **NOTE** Both exams have to be passed to earn study credits.
 
