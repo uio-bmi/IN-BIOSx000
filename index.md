@@ -52,7 +52,7 @@ The schedule will appear here early in August and will link to the webpages with
 </tr>
 <tr class="even">
 <td align="left">Mon. Oct. 19</td>
-<td align="left">09:15-09:30<br/>09:30-12:00<br/>13:00-14:00<br/>14:00-15:00<br/>15:00-16:00</td>
+<td align="left">09:15-09:30<br/>09:30-12:00<br/>13:00-14:00<br/>14:15-15:00<br/>15:15-16:00</td>
 <td align="left">Update on NORBIS (RB)<br/>Fundamentals of Molecular Biology (GG)<br/>HTS & applications (TR)<br/>Illumina sequencing (AS)<br/>PacBio technology (AT)</td>
 </tr>
 <tr class="odd">
@@ -67,12 +67,12 @@ The schedule will appear here early in August and will link to the webpages with
 </tr>
 <tr class="odd">
 <td align="left">Thu. Oct. 22</td>
-<td align="left">09:15-12:00<br/>13:00-17:00</td>
+<td align="left">09:15-12:00<br/>13:00-16:00</td>
 <td align="left">Algorithms (THu)<br/>De novo assembly (KL)</td>
 </tr>
 <tr class="even">
 <td align="left">Fri. Oct. 23</td>
-<td align="left">09:15-17:00</td>
+<td align="left">09:15-16:00</td>
 <td align="left">De novo assembly (KL)</td>
 </tr>
 <tr class="odd">
@@ -80,22 +80,22 @@ The schedule will appear here early in August and will link to the webpages with
 </tr>
 <tr class="even">
 <td align="left">Mon. Oct. 26</td>
-<td align="left">09:15-17:00</td>
+<td align="left">09:15-16:00</td>
 <td align="left">De novo assembly (KL)</td>
 </tr>
 <tr class="odd">
 <td align="left">Tue. Oct. 27</td>
-<td align="left">09:15-17:00</td>
+<td align="left">09:15-16:00</td>
 <td align="left">Statistical genomics (IG)</td>
 </tr>
 <tr class="even">
 <td align="left">Wed. Oct. 28</td>
-<td align="left">09:15-17:00</td>
+<td align="left">09:15-16:00</td>
 <td align="left">Statistical genomics (IG)</td>
 </tr>
 <tr class="odd">
 <td align="left">Thu. Oct. 29</td>
-<td align="left">09:15-17:00</td>
+<td align="left">09:15-16:00</td>
 <td align="left">Introduction to machine learning in computational biology (MP)</td>
 </tr>
 <tr class="even">
@@ -241,10 +241,10 @@ Exam: Oral presentation of home exam and questioning on Nov 26 and 27 by Zoom. Z
 
 
 ## Computers/laptops, internet access, and UiO user account
-All students must bring a laptop with either a Windows (Windows 7 or more recent), Unix/Linux, or OS X (i.e. an Apple computer) operating system.
+All students must have a laptop with either a Windows (Windows 7 or more recent), Unix/Linux, or OS X (i.e. an Apple computer) operating system.
 
 * The computer should not be more than 2-3 years old
-* It should be possible to connect the computer to the UiO wireless network
+<!---* It should be possible to connect the computer to the UiO wireless network--->
 * You must have modern internet browser installed (Chrome, Firefox, Safari, ...)
 * You must have a valid UiO user account and must be able to log onto a computer on the UiO network
   * If you are unsure if you have a UiO user account and a valid password, you should try to log in using kiosk.uio.no as described [here](http://www.uio.no/english/services/it/network/home-and-away/kiosk/index.html). If you are unable to log in, try the hints you find [here](http://www.uio.no/english/services/it/network/home-and-away/kiosk/programkiosk/index.html).
