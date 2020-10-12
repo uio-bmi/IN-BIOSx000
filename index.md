@@ -57,8 +57,8 @@ The schedule will appear here early in August and will link to the webpages with
 </tr>
 <tr class="odd">
 <td align="left">Tue. Oct. 20</td>
-<td align="left">09:15-10:00<br/>10:15-11:00<br/>11:15-12:00<br/>13:00-16:00</td>
-<td align="left">Oxford Nanopore technology (THa)<br/>Library preparation (AS)<br/>Experimental design (AS)<br/>Basic file formats (AS)</td>
+<td align="left">09:15-10:00<br/>10:15-11:00<br/>11:15-12:00<br/>13:00-13:45<br/>14:00-16:00</td>
+<td align="left">Oxford Nanopore technology (THa)<br/>Library preparation (AS)<br/>Experimental design (AS)<br/>Access to UiO and compute<br/>Basic file formats (AS)</td>
 </tr>
 <tr class="even">
 <td align="left">Wed. Oct. 21</td>
