@@ -15,8 +15,8 @@ This page is updated after each lecture/Module.
 Link to [Etherpad](https://etherpad.wikimedia.org/p/INF_BIOSx000_2020)<br/>
 List of further suggested papers, can be found [here](Curriculum).  
 
-## Link to VMs
-
+## Information on compute
+Link to [Procedure](Information)<br/>
 
 ## Home exam
 
