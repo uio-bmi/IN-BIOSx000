@@ -52,13 +52,13 @@ The schedule will appear here early in August and will link to the webpages with
 </tr>
 <tr class="even">
 <td align="left">Mon. Oct. 19</td>
-<td align="left">09:15-09:30<br/>09:30-12:00<br/>13:00-14:00<br/>14:15-15:00<br/>15:15-16:00</td>
-<td align="left">Update on NORBIS (RB)<br/>Fundamentals of Molecular Biology (GG)<br/>HTS & applications (TR)<br/>Illumina sequencing (AS)<br/>PacBio technology (AT)</td>
+<td align="left">09:15-09:30<br/>09:30-12:00<br/>13:00-14:30<br/>14:45-15:30<br/>15:45-16:30</td>
+<td align="left">Update on NORBIS (RB)<br/>Fundamentals of Molecular Biology (GG)<br/>HTS & applications (TR) (pre-recorded)<br/>Illumina sequencing (AS)<br/>PacBio technology (AT)</td>
 </tr>
 <tr class="odd">
 <td align="left">Tue. Oct. 20</td>
 <td align="left">09:15-10:00<br/>10:15-11:00<br/>11:15-12:00<br/>13:00-13:45<br/>14:00-16:00</td>
-<td align="left">Oxford Nanopore technology (THa)<br/>Library preparation (AS)<br/>Experimental design (AS)<br/>Access to UiO and compute<br/>Basic file formats (AS)</td>
+<td align="left">Oxford Nanopore technology (THa) (pre-recorded)<br/>Library preparation (AS)<br/>Experimental design (AS)<br/>Access to UiO and compute<br/>Basic file formats (AS)</td>
 </tr>
 <tr class="even">
 <td align="left">Wed. Oct. 21</td>
