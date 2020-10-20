@@ -23,3 +23,7 @@ All the datasets that will be used for this course will be available in the foll
 ```bash
 /work/IN-BIOSx/data
 ```
+Remember to load the environment which contains all the softwares and tools necessary for this course each time you login:
+```bash
+source IN-BIOS9000-software-load
+```
