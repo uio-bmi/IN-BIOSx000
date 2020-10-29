@@ -45,10 +45,10 @@
 * [Day 09: Data Representation](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/Day%2009.4%20-%20Data%20Representation%20-%20MP.pdf)
 
 ###### Small RNA transcriptomics (TBR)
-* [Day 10: ](XXX)
+* [Day 10: Small RNA transcriptomics](XXX)
 
 ###### Introduction to somatic variant calling (DV)
-* [Day 10: ](XXX)
+* [Day 10: Introduction to somatic variant calling](XXX)
 
 ###### Interpretation of DNA variation in the context of cancer (SN)
-* [Day 10: ](XXX)
+* [Day 10: Interpretation of DNA variation in the context of cancer](XXX)
