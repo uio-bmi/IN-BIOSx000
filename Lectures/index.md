@@ -2,7 +2,7 @@
 <!--- Use https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/ --> 
 
 ###### Fundamentals of Molecular Biology (GG)
-* [Day 01: Molecular Biology](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/)
+* [Day 01: Molecular Biology](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/Day 01.2 - Molecular Biology - GG.pdf)
 
 ###### HTS & applications (TR)
 * [Day 01: HTS](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/)
