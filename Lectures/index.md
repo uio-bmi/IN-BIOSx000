@@ -30,7 +30,7 @@
 
 ###### Algorithms (THu)
 * [Day 03-04: Algorithms alignment](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/Day%2004-05%20-%20Algorithms_alignment%20-%20TH.pdf)
-* [Day 03-04: Algorithms mapping](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/Day%2004-05%20-%20Algorithms_mapping%20-%20TH.pdf)
+* [Day 03-04: Algorithms mapping](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/Day%2004-05%20-%20Algorithms_mapping%20-%20TH.pdf.pdf)
 
 ###### De novo assembly (KL)
 * [Day 05-06: De novo assembly](XXX)
