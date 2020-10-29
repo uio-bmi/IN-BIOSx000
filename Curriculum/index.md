@@ -14,15 +14,15 @@ Refer to Wikipedia for basic information
 [RNA-seq differential expression studies: more sequence or more replication?](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/HTS_DE.pdf), Liu Y _et. al._, Bioinformatics 2014
 
 ##### _De novo_ genome assembly
-[A field guide to whole‐genome sequencing, assembly and annotation](https://wiki.uio.no/projects/clsi/images/9/99/Ekblom2014.pdf), Ekblom and Wolf, Evolutionary Applications 2014
+[A field guide to whole‐genome sequencing, assembly and annotation](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/DNA_1.pdf), Ekblom and Wolf, Evolutionary Applications 2014
 
-[The Theory and Practice of Genome Sequence Assembly](https://wiki.uio.no/projects/clsi/images/8/8f/Simpson2015.pdf), Simpson and Pop, Annual Review of Genomics and Human Genetics 2015
+[The Theory and Practice of Genome Sequence Assembly](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/DNA_2.pdf), Simpson and Pop, Annual Review of Genomics and Human Genetics 2015
 
 ##### Variant Calling
 
-[Genotype and SNP calling from next-generation sequencing data](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Curriculum/nrg2986.pdf) Nielsen et al., Nature Reviews Genetics 2011. This is a review paper that should be easily understandable once the student has taken the variant calling module. 
+[Genotype and SNP calling from next-generation sequencing data](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/VC_1.pdf) Nielsen et al., Nature Reviews Genetics 2011. This is a review paper that should be easily understandable once the student has taken the variant calling module. 
 
-[Exome sequencing identifies the cause of a mendelian disorder](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Curriculum/ng.499.pdf) Ng et al., Nature Genetics 2010. A paper reporting the first resolution of a mendelian disorder using exome capture.
+[Exome sequencing identifies the cause of a mendelian disorder](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/VC_2.pdf) Ng et al., Nature Genetics 2010. A paper reporting the first resolution of a mendelian disorder using exome capture.
 
 ##### Statistical genomics
 [Colocalization analyses of genomic elements: approaches, recommendations and challenges, Kanduri et. al.](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_1.pdf), Bioinformatics 2018.
