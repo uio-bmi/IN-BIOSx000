@@ -33,7 +33,7 @@
 * [Day 03-04: Algorithms mapping](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/Day%2004-05%20-%20Algorithms_mapping%20-%20TH.pdf.pdf)
 
 ###### De novo assembly (KL)
-* [Day 05-06: De novo assembly](XXX)
+* Day 05-06: De novo assembly
 
 ###### Statistical genomics (IG)
 * [Day 07-08: Statistical genomics](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/Day%2007-08%20-%20Statistical%20Genomics%20-%20IG.pdf)
@@ -45,10 +45,10 @@
 * [Day 09: Data Representation](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/Day%2009.4%20-%20Data%20Representation%20-%20MP.pdf)
 
 ###### Small RNA transcriptomics (TBR)
-* [Day 10: Small RNA transcriptomics](XXX)
+* Day 10: Small RNA transcriptomics
 
 ###### Introduction to somatic variant calling (DV)
-* [Day 10: Introduction to somatic variant calling](XXX)
+* Day 10: Introduction to somatic variant calling
 
 ###### Interpretation of DNA variation in the context of cancer (SN)
-* [Day 10: Interpretation of DNA variation in the context of cancer](XXX)
+* Day 10: Interpretation of DNA variation in the context of cancer
