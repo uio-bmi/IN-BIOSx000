@@ -25,10 +25,10 @@ Refer to Wikipedia for basic information
 [Exome sequencing identifies the cause of a mendelian disorder](https://github.com/arvindsundaram/IN-BIOSx000/raw/2018/Curriculum/ng.499.pdf) Ng et al., Nature Genetics 2010. A paper reporting the first resolution of a mendelian disorder using exome capture.
 
 ##### Statistical genomics
-[Colocalization analyses of genomic elements: approaches, recommendations and challenges, Kanduri et. al.]((https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/ST_1.pdf), Bioinformatics 2018.
+[Colocalization analyses of genomic elements: approaches, recommendations and challenges, Kanduri et. al.](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_1.pdf), Bioinformatics 2018.
 
-[Simovski, Boris, et al. "GSuite HyperBrowser: integrative analysis of dataset collections across the genome and epigenome."](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/ST_2.pdf)
+[Simovski, Boris, et al. "GSuite HyperBrowser: integrative analysis of dataset collections across the genome and epigenome."](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_2.pdf)
 
-[Quinlan, Aaron R., and Ira M. Hall. "BEDTools: a flexible suite of utilities for comparing genomic features."](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/ST_3.pdf) Bioinformatics 26.6 (2010): 841-842.
+[Quinlan, Aaron R., and Ira M. Hall. "BEDTools: a flexible suite of utilities for comparing genomic features."](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_3.pdf) Bioinformatics 26.6 (2010): 841-842.
 
-[Optional reading for those interested: Salvatore, Stefania, et al.](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/ST_4.pdf) "Beware the Jaccard: the choice of similarity measure is important and non-trivial in genomic colocalisation analysis." Briefings in bioinformatics 21.5 (2020): 1523-1530
+[Optional reading for those interested: Salvatore, Stefania, et al.](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_4.pdf) "Beware the Jaccard: the choice of similarity measure is important and non-trivial in genomic colocalisation analysis." Briefings in bioinformatics 21.5 (2020): 1523-1530
