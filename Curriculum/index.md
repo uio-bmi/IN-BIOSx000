@@ -32,3 +32,6 @@ Refer to Wikipedia for basic information
 [Quinlan, Aaron R., and Ira M. Hall. "BEDTools: a flexible suite of utilities for comparing genomic features."](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_3.pdf) Bioinformatics 26.6 (2010): 841-842.
 
 [Optional reading for those interested: Salvatore, Stefania, et al.](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_4.pdf) "Beware the Jaccard: the choice of similarity measure is important and non-trivial in genomic colocalisation analysis." Briefings in bioinformatics 21.5 (2020): 1523-1530
+
+#####
+[Wainberg, et al. Deep learning in biomedicine](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/ML.pdf), Nature Biotechnology 2018
