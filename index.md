@@ -12,7 +12,6 @@ This page is updated after each lecture/Module.
 
 ## Teaching materials
 
-Link to [Etherpad](https://etherpad.wikimedia.org/p/INF_BIOSx000_2020)<br/>
 List of further suggested papers, can be found [here](Curriculum).  
 
 ## Information on compute
@@ -27,14 +26,10 @@ Link to [home exam](misc)
 This is the webpage for the fall 2020 edition of the credited courses [**IN-BIOS5000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000) (master level) and [**IN-BIOS9000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS9000) (Ph.D. level) offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) and funded by [**NORBIS**](https://norbis.w.uib.no/activities/courses/genome-sequencing-technologies-assembly-variant-calling-and-statistical-genomics).
 
 This course consists of two weeks, of
-lectures and practicals, and a final take-home exam, plus a written exam on the course material and the reading material.
+lectures and practicals, and a final take-home exam with oral presentation and questioning.
 
 ## Schedule
-Course days are usually from 9:15 to 17:00 (teachers may stay longer if
-requested), some lectures, mostly hands-on exercises. All materials for lectures and practicals will be linked from the schedule below.
-
-The schedule will appear here early in August and will link to the webpages with the material taught (these links are added as the course progresses).
-
+Course days are usually from 9:15 to 17:00, with lectures and hands-on exercises.
 
 **Room location:**
 
@@ -100,8 +95,8 @@ The schedule will appear here early in August and will link to the webpages with
 </tr>
 <tr class="even">
 <td align="left">Fri. Oct. 30</td>
-<td align="left">09:15-12:00<br/>13:00-14:00<br/>14:15-15:15<br/>15:30-1600</td>
-<td align="left">Small RNA transcriptomics (TBR)<br/>Introduction to somatic variant calling (DV)<br/>Interpretation of DNA variation in the context of cancer (SN)<br/>Course evaluation</td>
+<td align="left">09:15-12:00<br/>13:00-14:00<br/>14:15-15:15<br/>15:30-16:00</td>
+<td align="left">Small RNA transcriptomics (TBR)<br/>Introduction to somatic variant calling (DV)<br/>Interpretation of DNA variation in the context of cancer (SN)<br/>Exam info and course evaluation</td>
 </tr>
 <tr class="odd">
 <td align="left"><strong>Week 48</strong></td>
@@ -259,11 +254,7 @@ contain questions on the material presented in these papers on the material cove
 
 ## Exam
 
-The exam for this course will be an *individual* home exam combined with an oral presentation of the home exam and questioning on Zoom on 26/27 November. Exact time to be announced. Students will present their work to two-three teachers, followed by some questioning (20-30 minutes in total). This home exam will be handed out to all participants during the last course day.
-
-**NOTE** Both exams have to be passed to earn study credits.
-
-**NOTE** 80% attendance is required to take the final exam.
+The exam for this course will be an *individual* home exam combined with an oral presentation of the home exam and questioning on Zoom on 26/27 November. Exact time to be announced. Students will present their work to two-three teachers, followed by some questioning (20-30 minutes in total). This home exam will be handed out to all participants in the week after the lectures.
 
 ### Written exams from previous years
 * [2018](https://github.com/arvindsundaram/IN-BIOSx000/blob/2018/misc/written_exam.pdf)
