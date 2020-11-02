@@ -33,5 +33,8 @@ Refer to Wikipedia for basic information
 
 [Optional reading for those interested: Salvatore, Stefania, et al.](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_4.pdf) "Beware the Jaccard: the choice of similarity measure is important and non-trivial in genomic colocalisation analysis." Briefings in bioinformatics 21.5 (2020): 1523-1530
 
+##### Somatic Variant Calling
+[Getz, et al.](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SVC_1.pdf) "Advances in understanding cancer genomes through second-generation sequencing". Nature Reviews Genetics 2010
+
 ##### Machine Learning
 [Wainberg, et al. Deep learning in biomedicine](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/ML.pdf), Nature Biotechnology 2018
