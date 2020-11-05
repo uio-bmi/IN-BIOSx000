@@ -33,7 +33,11 @@
 * [Day 03-04: Algorithms mapping](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/Day%2004-05%20-%20Algorithms_mapping%20-%20TH.pdf.pdf)
 
 ###### De novo assembly (KL)
-* Day 05-06: De novo assembly
+* [Day 05-06: De novo assembly A Introduction to assembly module](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/Day%2005-06.A_intro_to_assembly_module.pdf)
+* [Day 05-06: De novo assembly C Principles and problems of de novo genome assembly](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/Day%2005-06.C_Principles_and_problems_of_de_novo_genome_assembly.pdf)
+* [Day 05-06: De novo assembly E De novo assembly using Velvet](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/Day%2005-06.E_De_novo_assembly_using_velvet.pdf)
+* [Day 05-06: De novo assembly F Assembly Programs](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/Day%2005-06.F_AssemblyPrograms.pdf)
+* [Day 05-06: De novo assembly G QUAST](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/Day%2005-06.G_QUAST.pdf)
 
 ###### Statistical genomics (IG)
 * [Day 07-08: Statistical genomics](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Lectures/Day%2007-08%20-%20Statistical%20Genomics%20-%20IG.pdf)
