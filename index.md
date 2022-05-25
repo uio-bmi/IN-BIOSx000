@@ -30,6 +30,24 @@ Course days are usually from 9:15 to 17:00, with lectures and hands-on exercises
 
 In the table below, teachers are indicated with their initials and listed in the following section.
 
+Day | Time | Session | Teacher
+--- | --- | --- | ---
+Monday 17 Oct | 09.15 - 09.30 | Intro to NORBIS | TBA
+|| 09.30 - 12.00 | Fundamentals of Molecular Biology | GG
+|| 12.00 - 13.15 | Lunch break |
+|| 13.15 - 15.00 | HTS & Applications | TR
+|| 15.15 - 16.00 | Illumina sequencing technology | AS
+|| 16.15 - 17.00 | PacBio sequencing technology | ATK
+Tuesday 18 Oct | 09.15-10.00 | Oxford Nanopore sequencing technology | TH
+|| 10.15 - 11.00 | Library preparation | AS
+|| 11.15 - 12.00 | Experimental design | AS
+|| 12.15 - 13.00 | Lunch break |
+|| 13.15 - 14.00 | Access to computational resources | TR
+|| 14.15 - 16.00 | Basic file formats | AS
+
+
+
+
 <table border="1">
 <thead>
 <tr class="header">
@@ -45,7 +63,7 @@ In the table below, teachers are indicated with their initials and listed in the
 <tr class="even">
 <td align="left">Mon. Oct. 17</td>
 <td align="left">09:15-09:30<br/>09:30-12:00<br/>13:00-14:30<br/>14:45-15:30<br/>15:45-16:30</td>
-<td align="left">Update on NORBIS<br/>Fundamentals of Molecular Biology (GG)<br/>HTS & applications (TR)<br/>Illumina sequencing (AT)<br/>PacBio technology (TBA)</td>
+<td align="left">Update on NORBIS<br/>Fundamentals of Molecular Biology (GG)<br/>HTS & applications (TR)<br/>Illumina sequencing (AS)<br/>PacBio technology (ATK)</td>
 </tr>
 <tr class="odd">
 <td align="left">Tue. Oct. 18</td>
@@ -65,7 +83,7 @@ In the table below, teachers are indicated with their initials and listed in the
 <tr class="even">
 <td align="left">Fri. Oct. 21</td>
 <td align="left">09:15-16:00</td>
-<td align="left">De novo assembly (KL)</td>
+ <td align="left"><i>De novo</i> assembly (KL)</td>
 </tr>
 <tr class="odd">
 <td align="left"><strong>Week 43</strong></td>
@@ -115,7 +133,7 @@ In the table below, teachers are indicated with their initials and listed in the
 ## Teachers
 
 * Arvind Sundaram (AS, Norwegian Sequencing Centre, Oslo University Hospital)
-* Ave Tooming-Klunderud (AT, CEES, Faculty of Mathematics and Natural Sciences, University of Oslo)
+* Ave Tooming-Klunderud (ATK, CEES, Faculty of Mathematics and Natural Sciences, University of Oslo)
 * Gregor Gilfillan (GG, Norwegian Sequencing Centre, Oslo University Hospital)
 * Ivar Grytten (IG, Research Group for Biomedical Informatics, Dept. of Informatics, University of Oslo)
 * Karin Lagesen (KL, Section for Epidemiology, Norwegian Veterinary Institute)
