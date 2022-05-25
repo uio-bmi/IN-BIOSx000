@@ -5,8 +5,7 @@ IN-BIOS5000 and IN-BIOS9000
 
 The information below is preliminary, and some of it has not been updated since 2020.
 
-Note: for previous course editions (INF-BIO9121 and INF-BIO5121), check out [this website](http://inf-biox121.readthedocs.io).
-
+Note: For previous editions of the INF-BIO9121 and INF-BIO5121 course in 2013-2017, check out [this website](http://inf-biox121.readthedocs.io). For previous editions of the IN-BIOS5000 / IN-BIOS9000 course please see the [2018](https://in-biosx000.readthedocs.io/en/2018/) and [2020](https://in-biosx000.readthedocs.io/en/2020/) versions.
 
 ## Introduction
 
@@ -15,14 +14,21 @@ This is the webpage for the fall 2022 edition of the credited courses [**IN-BIOS
 This course consists of two weeks, of
 lectures and practicals, and a final take-home exam with oral presentation and questioning.
 
+## Audience
+
+The course is open for master and PhD students at UiO, as well as to PhD students registered through the NORBIS national research school. To earn credits for the course, PhD students from other institutions than UiO must obtain the status as a [visiting PhD candidate](https://www.mn.uio.no/english/research/phd/educational-component/visiting-phd.html) at the UiO Faculty of Mathematics and Natural Sciences. Applications may be submitted starting 15 June 2022 and must be submitted within 1 August 2022.
+
+
 ## Location
 
+The course will be held at the UiO campus, in seminar room 2269 "Python", on floor 2 in the north end of
 <a href="https://www.uio.no/english/about/getting-around/areas/gaustad/ga06/">Ole-Johan Dahl's building</a>, Gaustadalléen 23B, Oslo.
 
-Room to be announced.
 
 ## Schedule
-Course days are usually from 9:15 to 17:00, with lectures and hands-on exercises.
+Course days are usually from 9:15 to 17:00, with lectures and hands-on exercises. There will be a lunch break from 12:00 to 13:15. Coffee and tea will be available each morning in the seminar room.
+
+In the table below, teachers are indicated with their initials and listed in the following section.
 
 <table border="1">
 <thead>
@@ -39,12 +45,12 @@ Course days are usually from 9:15 to 17:00, with lectures and hands-on exercises
 <tr class="even">
 <td align="left">Mon. Oct. 17</td>
 <td align="left">09:15-09:30<br/>09:30-12:00<br/>13:00-14:30<br/>14:45-15:30<br/>15:45-16:30</td>
-<td align="left">Update on NORBIS<br/>Fundamentals of Molecular Biology (GG)<br/>HTS & applications (TR)<br/>Illumina sequencing (TBA)<br/>PacBio technology (TBA)</td>
+<td align="left">Update on NORBIS<br/>Fundamentals of Molecular Biology (GG)<br/>HTS & applications (TR)<br/>Illumina sequencing (AT)<br/>PacBio technology (TBA)</td>
 </tr>
 <tr class="odd">
 <td align="left">Tue. Oct. 18</td>
 <td align="left">09:15-10:00<br/>10:15-10:45<br/>11:00-12:00<br/>13:00-13:45<br/>14:00-16:00</td>
-<td align="left">Oxford Nanopore technology (TBA)<br/>Library preparation (AS)<br/>Experimental design (AS)<br/>Access to computational resources<br/>Basic file formats (AS)</td>
+<td align="left">Oxford Nanopore technology (TH)<br/>Library preparation (AS)<br/>Experimental design (AS)<br/>Access to computational resources<br/>Basic file formats (AS)</td>
 </tr>
 <tr class="even">
 <td align="left">Wed. Oct. 19</td>
@@ -87,44 +93,46 @@ Course days are usually from 9:15 to 17:00, with lectures and hands-on exercises
 <tr class="even">
 <td align="left">Fri. Oct. 28</td>
 <td align="left">09:15-12:00<br/>13:00-14:00<br/>14:15-15:15<br/>15:30-16:00</td>
-<td align="left">Small RNA transcriptomics (TBR)<br/>Introduction to somatic variant calling (TBA)<br/>Interpretation of DNA variation in the context of cancer (SN)<br/>Exam info and course evaluation</td>
+<td align="left">Small RNA transcriptomics (TBR)<br/>Introduction to somatic variant calling (SN)<br/>Interpretation of DNA variation in the context of cancer (SN)<br/>Exam info and course evaluation</td>
 </tr>
 <tr class="odd">
 <td align="left"><strong>Week 48</strong></td>
 </tr>
 <tr class="even">
 <td align="left">Thu. Dec. 1</td>
-<td align="left">TBA</td>
-<td align="left">Oral exam</td>
+<td align="left">TBA</br/>17:00-19:00</td>
+<td align="left">Oral exam<br/>Written exam</td>
 </tr>
 <tr class="odd">
 <td align="left">Fri. Dec. 2</td>
 <td align="left">TBA</td>
 <td align="left">Oral exam</td>
 </tr>
- </tbody>
+</tbody>
 </table>
 <p><p>
  
 ## Teachers
 
-* Arvind Sundaram (AS, Bioinformatician, Norwegian Sequencing Centre, Oslo University Hospital)
-* Gregor Gilfillan (GG, Researcher, Norwegian Sequencing Centre, Oslo University Hospital)
+* Arvind Sundaram (AS, Norwegian Sequencing Centre, Oslo University Hospital)
+* Ave Tooming-Klunderud (AT, CEES, Faculty of Mathematics and Natural Sciences, University of Oslo)
+* Gregor Gilfillan (GG, Norwegian Sequencing Centre, Oslo University Hospital)
 * Ivar Grytten (IG, Research Group for Biomedical Informatics, Dept. of Informatics, University of Oslo)
 * Karin Lagesen (KL, Section for Epidemiology, Norwegian Veterinary Institute)
 * Milena Pavlovic (MP, Dept. of Informatics, University of Oslo)
-* Sigve Nakken (SN, Post.Doc., Oslo University Hospital)
-* Torbjørn Rognes (TR, Research Group for Biomedical Informatics, Dept. of Informatics, University of Oslo)
-* Trine B. Rounge (TBR, Associate Professor, Centre for Bioinformatics, Dept. of Pharmacy, University of Oslo)
+* Sigve Nakken (SN, Oslo University Hospital)
+* Thomas Haverkamp (TH, Section for Epidemiology, Norwegian Veterinary Institute)
+* Torbjørn Rognes (TR, Research Group for Biomedical Informatics / Centre for Bioinformatics, Dept. of Informatics, University of Oslo)
+* Trine B. Rounge (TBR, Centre for Bioinformatics, Dept. of Pharmacy, University of Oslo)
 * Others to be announced (TBA).
 
 ## Contact information
 
 * Torbjørn Rognes (Course coordinator) - e-mail: torognes@ifi.uio.no
 
-## Restaurant Dinner
+## Restaurant Dinner & Pizza
 
-We plan to organize a dinner for the course participants in a restaurant in Oslo on October 20th. Details will follow.
+We plan to organize a dinner for the course participants in a restaurant in Oslo on October 20th. We also plan to order pizza on October 27th. Details will follow.
 
 ## Requirements
 
@@ -133,25 +141,29 @@ We plan to organize a dinner for the course participants in a restaurant in Oslo
 * No formal background in computer science is required, however, students must have a basic understanding of the unix shell. Students should take an introductory unix course beforehand if they do not have these skills.
 
 
-## Computers/laptops, internet access, and UiO user account
-All students must have a laptop with either a Windows (version 10 or more recent), Unix/Linux, or macOS. It should have:
-* Wireless network connection
-* You must have modern internet browser installed (Chrome, Firefox, Safari, ...)
-* You must have a valid UiO user account and must be able to log onto a computer on the UiO network
-  * If you are unsure if you have a UiO user account and a valid password, you should try to log in using kiosk.uio.no as described [here](http://www.uio.no/english/services/it/network/home-and-away/kiosk/index.html). If you are unable to log in, try the hints you find [here](http://www.uio.no/english/services/it/network/home-and-away/kiosk/programkiosk/index.html).
-  * Instructions (in Norwegian) about how to find your user name and get a new password can be found [here](http://www.uio.no/tjenester/it/brukernavn-passord/ikke-passord.html).
-* We advise to bring an external mouse, and do not rely on touchpad/trackpad only.
+## Computers/laptops, Wifi, internet access, and accounts
+ 
+All students must have a laptop with either Windows (version 10 or more recent), macOS, Linux or other Unix operating system. You need to be able to access the Eduroam wifi network. If you do not have a UiO or Eduroam account, a temporary Wifi account may be created for you.
 
-If you are struggling with anything of the above, in particular if you have forgotten your UiO user name/password or you do not have one, you must contact the course coordinator (see contact details on this page) as soon as possible, and at least one week before the start of the course.
+We advise you to bring an external mouse, and do not rely on touchpad/trackpad only.
+
+The course will use computational resources on the Educloud Fox system at UiO. Access to this system will be provided for all course participants. Details will follow.
+
+If you are struggling with anything of the above, you must contact the course coordinator (see contact details on this page) as soon as possible, and at least one week before the start of the course.
 
 ## Curriculum and suggested reading
+ 
 The curriculum consists of a set of scientific articles. The exam will
 contain questions on the material presented in these papers on the material covered during the course. Specific details of the curriculum, and a list of further suggested papers, can be found [here](Curriculum).
 
 ## Exam
 
-The exam for this course will be an *individual* home exam combined with an oral presentation of the home exam and questioning on December 1st and 2nd. Exact time and location to be announced. Students will present their work to 2-3 teachers, followed by some questioning (20-30 minutes in total). This home exam will be handed out to all participants in the week after the lectures.
+The exam will be a combination of the following two parts:
+
+ * an *individual* home project combined with an oral exam presentation of the home project followed by questioning / discussion on December 1st and 2nd. Students will present their work to 2 teachers, followed by some questioning (approx 20 minutes in total for each student). This home exam will be handed out to all participants after the lectures. Time slots will be assigned randomly.
+ * a 2 hour written digital exam at Silurveien 2 on December 1st 2022 from 17.00 to 19.00.
  
+
 ### Written exams from previous years
 
 * [2018](https://github.com/arvindsundaram/IN-BIOSx000/blob/2018/misc/written_exam.pdf)
@@ -168,9 +180,4 @@ This page is updated after each lecture/Module.
 
 ## Teaching materials
 
-List of further suggested papers, can be found [here](Curriculum).  
-
-## Information on compute
-
-Link to [Procedure](Information)<br/>
-
+List of further suggested papers, can be found [here](Curriculum).
