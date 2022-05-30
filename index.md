@@ -30,49 +30,51 @@ Course days are usually from 9:15 to 17:00, with lectures and hands-on exercises
 
 In the table below, teachers are indicated with their initials and listed in the following section.
 
-Day | Time | Session | Teacher
---- | --- | --- | ---
-Monday 17 Oct | 09.15 - 09.30 | Intro to NORBIS | TBA
-|| 09.30 - 12.00 | Fundamentals of Molecular Biology | GG
-|| 12.00 - 13.15 | Lunch break |
-|| 13.15 - 14.00 | HTS & Applications | TR
-|| 14.15 - 15.00 | Illumina sequencing technology | AS
-|| 15.15 - 16.00 | PacBio sequencing technology | ATK
-Tuesday 18 Oct | 09.15 - 10.00 | Oxford Nanopore sequencing technology | TH
-|| 10.15 - 11.00 | Library preparation | AS
-|| 11.15 - 12.00 | Experimental design | AS
-|| 12.00 - 13.15 | Lunch break |
-|| 13.15 - 15.00 | Basic file formats | AS
-|| 15.15 - 17.00 | Access to computational resources | TR
-Wednesday 19 Oct | 09.15 - 12.00 | Pre-processing of HTS data | AS
-|| 12.00 - 13.15 | Lunch break |
-|| 13.15 - 17.00 | *De novo* assembly | KL
-Thursday 20 Oct | 09.15 - 12.00 | *De novo* assembly, continued | KL
-|| 12.00 - 13.15 | Lunch break |
-|| 13.15 - 17.00 | *De novo* assembly, continued | KL
-|| 20.00 - 22.00 | Dinner at restaurant in Oslo |
-Friday 21 Oct | 09.15 - 12.00 | *De novo* assembly | KL
-|| 12.00 - 13.15 | Lunch break |
-|| 13.15 - 17.00 | *De novo* assembly, continued | KL
-Monday 24 Oct | 09.15 - 11.00 | Variant calling | BS
-|| 11.15 - 12.00 | Variant calling, continued | BS
-|| 12.00 - 13.15 | Lunch break |
-|| 13.15 - 15.00 | Variant calling, continued | BS
-|| 15.15 - 16.00 | Introduction to somatic variant calling | SN
-|| 16.15 - 17.00 | Interpretation of DNA variation in the context of cancer | SN
-Tueday 25 Oct | 09.15 - 12.00 | Statistical genomics | IG
-|| 12.00 - 13.15 | Lunch break |
-|| 13.15 - 17.00 | Statistical genomics, continued | IG
-Wednesday 26 Oct | 09.15 - 12.00 | Statistical genomics, continued | IG
-|| 12.00 - 13.15 | Lunch break |
-|| 13.15 - 17.00 | Statistical genomics, continued | IG
-Thursday 27 Oct | 09.15 - 12.00 | Introduction to machine learning in computational biology | MP
-|| 12.00 - 13.15 | Lunch break |
-|| 13.15 - 16.00 | Introduction to machine learning in computational biology, continued | MP
-|| 16.15 - 17.00 | Pizza |
-Friday 28 Oct | 09.15 - 12.00 | Small RNA transcriptomics | TBR
-|| 12.00 - 13.15 | Lunch break |
-|| 13.15 - 14.00 | Exam info and course evaluation | TR
+| Date             |     Time      | Session         | Teacher |
+| ---------------- | :-----------: | --------------- | ------- |
+| **Week 42**
+| Monday 17 Oct    | 09.15 - 09.30 | Intro to NORBIS | TBA
+|                  | 09.30 - 12.00 | Fundamentals of Molecular Biology | GG
+|                  | 12.00 - 13.15 | Lunch break |
+|                  | 13.15 - 14.00 | HTS & Applications | TR
+|                  | 14.15 - 15.00 | Illumina sequencing technology | AS
+|                  | 15.15 - 16.00 | PacBio sequencing technology | ATK
+| Tuesday 18 Oct   | 09.15 - 10.00 | Oxford Nanopore sequencing technology | TH
+|                  | 10.15 - 11.00 | Library preparation | AS
+|                  | 11.15 - 12.00 | Experimental design | AS
+|                  | 12.00 - 13.15 | Lunch break |
+|                  | 13.15 - 15.00 | Basic file formats | AS
+|                  | 15.15 - 17.00 | Access to computational resources | TR
+| Wednesday 19 Oct | 09.15 - 12.00 | Pre-processing of HTS data | AS
+|                  | 12.00 - 13.15 | Lunch break |
+|                  | 13.15 - 17.00 | *De novo* assembly | KL
+| Thursday 20 Oct  | 09.15 - 12.00 | *De novo* assembly, continued | KL
+|                  | 12.00 - 13.15 | Lunch break |
+|                  | 13.15 - 17.00 | *De novo* assembly, continued | KL
+|                  | 20.00 - 22.00 | Dinner at restaurant in Oslo |
+| Friday 21 Oct    | 09.15 - 12.00 | *De novo* assembly | KL
+|                  | 12.00 - 13.15 | Lunch break |
+|                  | 13.15 - 17.00 | *De novo* assembly, continued | KL
+| **Week 43**
+| Monday 24 Oct    | 09.15 - 11.00 | Variant calling | BS
+|                  | 11.15 - 12.00 | Variant calling, continued | BS
+|                  | 12.00 - 13.15 | Lunch break |
+|                  | 13.15 - 15.00 | Variant calling, continued | BS
+|                  | 15.15 - 16.00 | Introduction to somatic variant calling | SN
+|                  | 16.15 - 17.00 | Interpretation of DNA variation in the context of cancer | SN
+| Tueday 25 Oct    | 09.15 - 12.00 | Statistical genomics | IG
+|                  | 12.00 - 13.15 | Lunch break |
+|                  | 13.15 - 17.00 | Statistical genomics, continued | IG
+| Wednesday 26 Oct | 09.15 - 12.00 | Statistical genomics, continued | IG
+|                  | 12.00 - 13.15 | Lunch break |
+|                  | 13.15 - 17.00 | Statistical genomics, continued | IG
+| Thursday 27 Oct  | 09.15 - 12.00 | Introduction to machine learning in computational biology | MP
+|                  | 12.00 - 13.15 | Lunch break |
+|                  | 13.15 - 16.00 | Introduction to machine learning in computational biology, continued | MP
+|                  | 16.15 - 17.00 | Pizza |
+| Friday 28 Oct    | 09.15 - 12.00 | Small RNA transcriptomics | TBR
+|                  | 12.00 - 13.15 | Lunch break |
+|                  | 13.15 - 14.00 | Exam info and course evaluation | TR
 
 
 ## Teachers
