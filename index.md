@@ -59,7 +59,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | Monday 24 Oct    | 09.15 - 12.00 | Variant calling | BS
 |                  | 12.00 - 13.15 | Lunch break |
 |                  | 13.15 - 15.00 | Variant calling, continued | BS
-|                  | 15.15 - 16.00 | Introduction to somatic variant calling | SN
+|                  | 15.15 - 16.00 | Somatic variant calling | SN
 |                  | 16.15 - 17.00 | Interpretation of DNA variation in the context of cancer | SN
 | Tueday 25 Oct    | 09.15 - 12.00 | Statistical genomics | IG
 |                  | 12.00 - 13.15 | Lunch break |
@@ -67,9 +67,9 @@ In the table below, teachers are indicated with their initials and listed in the
 | Wednesday 26 Oct | 09.15 - 12.00 | Statistical genomics, continued | IG
 |                  | 12.00 - 13.15 | Lunch break |
 |                  | 13.15 - 17.00 | Statistical genomics, continued | IG
-| Thursday 27 Oct  | 09.15 - 12.00 | Introduction to machine learning in computational biology | MP
+| Thursday 27 Oct  | 09.15 - 12.00 | Machine learning in computational biology | MP
 |                  | 12.00 - 13.15 | Lunch break |
-|                  | 13.15 - 16.00 | Introduction to machine learning in computational biology, continued | MP
+|                  | 13.15 - 16.00 | Machine learning in computational biology, continued | MP
 |                  | 16.15 - 17.00 | Pizza |
 | Friday 28 Oct    | 09.15 - 12.00 | Small RNA transcriptomics | TBR
 |                  | 12.00 - 13.15 | Lunch break |
