@@ -56,8 +56,7 @@ In the table below, teachers are indicated with their initials and listed in the
 |                  | 12.00 - 13.15 | Lunch break |
 |                  | 13.15 - 17.00 | *De novo* assembly, continued | KL
 | **Week 43**
-| Monday 24 Oct    | 09.15 - 11.00 | Variant calling | BS
-|                  | 11.15 - 12.00 | Variant calling, continued | BS
+| Monday 24 Oct    | 09.15 - 12.00 | Variant calling | BS
 |                  | 12.00 - 13.15 | Lunch break |
 |                  | 13.15 - 15.00 | Variant calling, continued | BS
 |                  | 15.15 - 16.00 | Introduction to somatic variant calling | SN
