@@ -35,105 +35,51 @@ Day | Time | Session | Teacher
 Monday 17 Oct | 09.15 - 09.30 | Intro to NORBIS | TBA
 || 09.30 - 12.00 | Fundamentals of Molecular Biology | GG
 || 12.00 - 13.15 | Lunch break |
-|| 13.15 - 15.00 | HTS & Applications | TR
-|| 15.15 - 16.00 | Illumina sequencing technology | AS
-|| 16.15 - 17.00 | PacBio sequencing technology | ATK
-Tuesday 18 Oct | 09.15-10.00 | Oxford Nanopore sequencing technology | TH
+|| 13.15 - 14.00 | HTS & Applications | TR
+|| 14.15 - 15.00 | Illumina sequencing technology | AS
+|| 15.15 - 16.00 | PacBio sequencing technology | ATK
+Tuesday 18 Oct | 09.15 - 10.00 | Oxford Nanopore sequencing technology | TH
 || 10.15 - 11.00 | Library preparation | AS
 || 11.15 - 12.00 | Experimental design | AS
-|| 12.15 - 13.00 | Lunch break |
-|| 13.15 - 14.00 | Access to computational resources | TR
-|| 14.15 - 16.00 | Basic file formats | AS
+|| 12.00 - 13.15 | Lunch break |
+|| 13.15 - 15.00 | Basic file formats | AS
+|| 15.15 - 17.00 | Access to computational resources | TR
+Wednesday 19 Oct | 09.15 - 12.00 | Pre-processing of HTS data | AS
+|| 12.00 - 13.15 | Lunch break |
+|| 13.15 - 17.00 | *De novo* assembly | KL
+Thursday 20 Oct | 09.15 - 12.00 | *De novo* assembly, continued | KL
+|| 12.00 - 13.15 | Lunch break |
+|| 13.15 - 17.00 | *De novo* assembly, continued | KL
+|| 20.00 - 22.00 | Dinner at restaurant in Oslo |
+Friday 21 Oct | 09.15 - 12.00 | *De novo* assembly | KL
+|| 12.00 - 13.15 | Lunch break |
+|| 13.15 - 17.00 | *De novo* assembly, continued | KL
+Monday 24 Oct | 09.15 - 11.00 | Variant calling | BS
+|| 11.15 - 12.00 | Variant calling, continued | BS
+|| 12.00 - 13.15 | Lunch break |
+|| 13.15 - 15.00 | Variant calling, continued | BS
+|| 15.15 - 16.00 | Introduction to somatic variant calling | SN
+|| 16.15 - 17.00 | Interpretation of DNA variation in the context of cancer | SN
+Tueday 25 Oct | 09.15 - 12.00 | Statistical genomics | IG
+|| 12.00 - 13.15 | Lunch break |
+|| 13.15 - 17.00 | Statistical genomics, continued | IG
+Wednesday 26 Oct | 09.15 - 12.00 | Statistical genomics, continued | IG
+|| 12.00 - 13.15 | Lunch break |
+|| 13.15 - 17.00 | Statistical genomics, continued | IG
+Thursday 27 Oct | 09.15 - 12.00 | Introduction to machine learning in computational biology | MP
+|| 12.00 - 13.15 | Lunch break |
+|| 13.15 - 16.00 | Introduction to machine learning in computational biology, continued | MP
+|| 16.15 - 17.00 | Pizza |
+Friday 28 Oct | 09.15 - 12.00 | Small RNA transcriptomics | TBR
+|| 12.00 - 13.15 | Lunch break |
+|| 13.15 - 14.00 | Exam info and course evaluation | TR
 
 
-
-
-<table border="1">
-<thead>
-<tr class="header">
-<th align="left">Day</th>
-<th align="left">Time</th>
-<th align="left">Session</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left"><strong>Week 42</strong></td>
-</tr>
-<tr class="even">
-<td align="left">Mon. Oct. 17</td>
-<td align="left">09:15-09:30<br/>09:30-12:00<br/>13:00-14:30<br/>14:45-15:30<br/>15:45-16:30</td>
-<td align="left">Update on NORBIS<br/>Fundamentals of Molecular Biology (GG)<br/>HTS & applications (TR)<br/>Illumina sequencing (AS)<br/>PacBio technology (ATK)</td>
-</tr>
-<tr class="odd">
-<td align="left">Tue. Oct. 18</td>
-<td align="left">09:15-10:00<br/>10:15-10:45<br/>11:00-12:00<br/>13:00-13:45<br/>14:00-16:00</td>
-<td align="left">Oxford Nanopore technology (TH)<br/>Library preparation (AS)<br/>Experimental design (AS)<br/>Access to computational resources<br/>Basic file formats (AS)</td>
-</tr>
-<tr class="even">
-<td align="left">Wed. Oct. 19</td>
-<td align="left">09:15-12:00<br/>13:00-17:00</td>
-<td align="left">Pre-processing of HTS data (AS)<br/>Algorithms (TBA)</td>
-</tr>
-<tr class="odd">
-<td align="left">Thu. Oct. 20</td>
-<td align="left">09:15-12:00<br/>13:00-16:00</td>
-<td align="left">Algorithms (TBA)<br/>De novo assembly (KL)</td>
-</tr>
-<tr class="even">
-<td align="left">Fri. Oct. 21</td>
-<td align="left">09:15-16:00</td>
- <td align="left"><i>De novo</i> assembly (KL)</td>
-</tr>
-<tr class="odd">
-<td align="left"><strong>Week 43</strong></td>
-</tr>
-<tr class="even">
-<td align="left">Mon. Oct. 24</td>
-<td align="left">09:15-16:00</td>
-<td align="left">De novo assembly (KL)</td>
-</tr>
-<tr class="odd">
-<td align="left">Tue. Oct. 25</td>
-<td align="left">09:15-16:00</td>
-<td align="left">Statistical genomics (IG)</td>
-</tr>
-<tr class="even">
-<td align="left">Wed. Oct. 26</td>
-<td align="left">09:15-16:00</td>
-<td align="left">Statistical genomics (IG)</td>
-</tr>
-<tr class="odd">
-<td align="left">Thu. Oct. 27</td>
-<td align="left">09:15-16:00</td>
-<td align="left">Introduction to machine learning in computational biology (MP)</td>
-</tr>
-<tr class="even">
-<td align="left">Fri. Oct. 28</td>
-<td align="left">09:15-12:00<br/>13:00-14:00<br/>14:15-15:15<br/>15:30-16:00</td>
-<td align="left">Small RNA transcriptomics (TBR)<br/>Introduction to somatic variant calling (SN)<br/>Interpretation of DNA variation in the context of cancer (SN)<br/>Exam info and course evaluation</td>
-</tr>
-<tr class="odd">
-<td align="left"><strong>Week 48</strong></td>
-</tr>
-<tr class="even">
-<td align="left">Thu. Dec. 1</td>
-<td align="left">TBA</br/>17:00-19:00</td>
-<td align="left">Oral exam<br/>Written exam</td>
-</tr>
-<tr class="odd">
-<td align="left">Fri. Dec. 2</td>
-<td align="left">TBA</td>
-<td align="left">Oral exam</td>
-</tr>
-</tbody>
-</table>
-<p><p>
- 
 ## Teachers
 
 * Arvind Sundaram (AS, Norwegian Sequencing Centre, Oslo University Hospital)
-* Ave Tooming-Klunderud (ATK, CEES, Faculty of Mathematics and Natural Sciences, University of Oslo)
+* Ave Tooming-Klunderud (ATK, CEES, Dept. of Biosciences, University of Oslo
+* Bastiaan Star (BS, CEES, Dept. of Biosciences, University of Oslo)
 * Gregor Gilfillan (GG, Norwegian Sequencing Centre, Oslo University Hospital)
 * Ivar Grytten (IG, Research Group for Biomedical Informatics, Dept. of Informatics, University of Oslo)
 * Karin Lagesen (KL, Section for Epidemiology, Norwegian Veterinary Institute)
@@ -148,7 +94,7 @@ Tuesday 18 Oct | 09.15-10.00 | Oxford Nanopore sequencing technology | TH
 
 * Torbjørn Rognes (Course coordinator) - e-mail: torognes@ifi.uio.no
 
-## Restaurant Dinner & Pizza
+## Restaurant dinner & Pizza
 
 We plan to organize a dinner for the course participants in a restaurant in Oslo on October 20th. We also plan to order pizza on October 27th. Details will follow.
 
@@ -159,7 +105,7 @@ We plan to organize a dinner for the course participants in a restaurant in Oslo
 * No formal background in computer science is required, however, students must have a basic understanding of the unix shell. Students should take an introductory unix course beforehand if they do not have these skills.
 
 
-## Computers/laptops, Wifi, internet access, and accounts
+## Computers/laptops, Wifi, internet access, and Educloud accounts
  
 All students must have a laptop with either Windows (version 10 or more recent), macOS, Linux or other Unix operating system. You need to be able to access the Eduroam wifi network. If you do not have a UiO or Eduroam account, a temporary Wifi account may be created for you.
 
