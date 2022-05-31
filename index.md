@@ -35,61 +35,62 @@ In the table below, teachers are indicated with their initials and listed in the
 | **Week 42**
 | Monday 17 Oct    | 09.15 - 09.30 | Intro to NORBIS | TBA
 |                  | 09.30 - 12.00 | Fundamentals of Molecular Biology | GG
-|                  | 12.00 - 13.15 | Lunch break |
-|                  | 13.15 - 14.00 | HTS & Applications | TR
+|                  | 12.00 - 13.15 | Lunch break
+|                  | 13.15 - 14.00 | Sequencing and applications | TR
 |                  | 14.15 - 15.00 | Illumina sequencing technology | AS
 |                  | 15.15 - 16.00 | PacBio sequencing technology | ATK
 | Tuesday 18 Oct   | 09.15 - 10.00 | Oxford Nanopore sequencing technology | TH
 |                  | 10.15 - 11.00 | Library preparation | AS
 |                  | 11.15 - 12.00 | Experimental design | AS
-|                  | 12.00 - 13.15 | Lunch break |
+|                  | 12.00 - 13.15 | Lunch break
 |                  | 13.15 - 15.00 | Basic file formats | AS
 |                  | 15.15 - 17.00 | Access to computational resources | TR
 | Wednesday 19 Oct | 09.15 - 12.00 | Pre-processing of HTS data | AS
-|                  | 12.00 - 13.15 | Lunch break |
-|                  | 13.15 - 17.00 | *De novo* assembly | KL
-| Thursday 20 Oct  | 09.15 - 12.00 | *De novo* assembly, continued | KL
-|                  | 12.00 - 13.15 | Lunch break |
-|                  | 13.15 - 17.00 | *De novo* assembly, continued | KL
-|                  | 20.00 - 22.00 | Dinner at restaurant in Oslo |
-| Friday 21 Oct    | 09.15 - 12.00 | *De novo* assembly | KL
-|                  | 12.00 - 13.15 | Lunch break |
-|                  | 13.15 - 17.00 | *De novo* assembly, continued | KL
+|                  | 12.00 - 13.15 | Lunch break
+|                  | 13.15 - 17.00 | *De novo* genome assembly | KL
+| Thursday 20 Oct  | 09.15 - 12.00 | *De novo* genome assembly, continued | KL
+|                  | 12.00 - 13.15 | Lunch break
+|                  | 13.15 - 17.00 | *De novo* genome assembly, continued | KL
+|                  | 20.00 - 22.00 | Dinner at restaurant in Oslo
+| Friday 21 Oct    | 09.15 - 12.00 | *De novo* genome assembly | KL
+|                  | 12.00 - 13.15 | Lunch break
+|                  | 13.15 - 17.00 | *De novo* genome assembly, continued | KL
 | **Week 43**
-| Monday 24 Oct    | 09.15 - 12.00 | Variant calling | BS
-|                  | 12.00 - 13.15 | Lunch break |
-|                  | 13.15 - 15.00 | Variant calling, continued | BS
-|                  | 15.15 - 16.00 | Somatic variant calling | SN
-|                  | 16.15 - 17.00 | Interpretation of DNA variation in the context of cancer | SN
-| Tueday 25 Oct    | 09.15 - 12.00 | Statistical genomics | IG
-|                  | 12.00 - 13.15 | Lunch break |
+| Monday 24 Oct    | 09.15 - 12.00 | Variant calling in general | BS
+|                  | 12.00 - 13.15 | Lunch break
+|                  | 13.15 - 15.00 | Variant calling in general, continued | BS
+|                  | 15.15 - 17.00 | Human germline variant calling | YS
+| Tuesday 25 Oct   | 09.15 - 12.00 | Somatic variant calling and interpretation in the context of cancer | SN
+|                  | 12.00 - 13.15 | Lunch break
+|                  | 13.15 - 17.00 | Small RNA transcriptomics | TBR
+| Wednesday 26 Oct | 09.15 - 12.00 | Statistical genomics | IG
+|                  | 12.00 - 13.15 | Lunch break
 |                  | 13.15 - 17.00 | Statistical genomics, continued | IG
-| Wednesday 26 Oct | 09.15 - 12.00 | Statistical genomics, continued | IG
-|                  | 12.00 - 13.15 | Lunch break |
-|                  | 13.15 - 17.00 | Statistical genomics, continued | IG
-| Thursday 27 Oct  | 09.15 - 12.00 | Machine learning in computational biology | MP
-|                  | 12.00 - 13.15 | Lunch break |
+| Thursday 27 Oct  | 09.15 - 12.00 | Statistical genomics, continued | IG
+|                  | 12.00 - 13.15 | Lunch break
+|                  | 13.15 - 16.00 | Statistical genomics, continued | IG
+|                  | 16.15 - 17.00 | Pizza on campus
+| Friday 28 Oct    | 09.15 - 12.00 | Machine learning in computational biology | MP
+|                  | 12.00 - 13.15 | Lunch break
 |                  | 13.15 - 16.00 | Machine learning in computational biology, continued | MP
-|                  | 16.15 - 17.00 | Pizza |
-| Friday 28 Oct    | 09.15 - 12.00 | Small RNA transcriptomics | TBR
-|                  | 12.00 - 13.15 | Lunch break |
-|                  | 13.15 - 14.00 | Exam info and course evaluation | TR
+|                  | 16.15 - 16.30 | Exam info and course evaluation | TR
 
 
 ## Teachers
 
-* Arvind Sundaram (AS, Norwegian Sequencing Centre, Oslo University Hospital)
-* Ave Tooming-Klunderud (ATK, CEES, Dept. of Biosciences, University of Oslo
-* Bastiaan Star (BS, CEES, Dept. of Biosciences, University of Oslo)
-* Gregor Gilfillan (GG, Norwegian Sequencing Centre, Oslo University Hospital)
-* Ivar Grytten (IG, Research Group for Biomedical Informatics, Dept. of Informatics, University of Oslo)
-* Karin Lagesen (KL, Section for Epidemiology, Norwegian Veterinary Institute)
-* Milena Pavlovic (MP, Dept. of Informatics, University of Oslo)
-* Sigve Nakken (SN, Oslo University Hospital)
-* Thomas Haverkamp (TH, Section for Epidemiology, Norwegian Veterinary Institute)
-* Torbjørn Rognes (TR, Research Group for Biomedical Informatics / Centre for Bioinformatics, Dept. of Informatics, University of Oslo)
-* Trine B. Rounge (TBR, Centre for Bioinformatics, Dept. of Pharmacy, University of Oslo)
-* Others to be announced (TBA).
+* AS: Arvind Sundaram (Norwegian Sequencing Centre, Oslo University Hospital)
+* ATK: Ave Tooming-Klunderud (CEES, Dept. of Biosciences, University of Oslo
+* BS: Bastiaan Star (CEES, Dept. of Biosciences, University of Oslo)
+* GG: Gregor Gilfillan (Norwegian Sequencing Centre, Oslo University Hospital)
+* IG: Ivar Grytten (Research Group for Biomedical Informatics, Dept. of Informatics, University of Oslo)
+* KL: Karin Lagesen (Section for Epidemiology, Norwegian Veterinary Institute)
+* MP: Milena Pavlovic (Dept. of Informatics, University of Oslo)
+* SN: Sigve Nakken (Oslo University Hospital)
+* TH: Thomas Haverkamp (Section for Epidemiology, Norwegian Veterinary Institute)
+* TR: Torbjørn Rognes (Research Group for Biomedical Informatics / Centre for Bioinformatics, Dept. of Informatics, University of Oslo)
+* TBR: Trine B. Rounge (Centre for Bioinformatics, Dept. of Pharmacy, University of Oslo)
+* YS: Ying Sheng (Dept. of Medical Genetics, Oslo University Hospital)
+* TBA: Others to be announced
 
 ## Contact information
 
@@ -119,8 +120,7 @@ If you are struggling with anything of the above, you must contact the course co
 
 ## Curriculum and suggested reading
  
-The curriculum consists of a set of scientific articles. The exam will
-contain questions on the material presented in these papers on the material covered during the course. Specific details of the curriculum, and a list of further suggested papers, can be found [here](Curriculum).
+The curriculum consists of a set of scientific articles. The exam will contain questions on the material presented in these papers on the material covered during the course. Specific details of the curriculum, and a list of further suggested papers, can be found [here](Curriculum).
 
 
 ## Exam
@@ -129,7 +129,7 @@ The exam will be a combination of the following two parts:
 
  * an *individual* home project combined with an oral exam presentation of the home project followed by questioning / discussion on December 1st and 2nd. Students will present their work to 2 teachers, followed by some questioning (approx 20 minutes in total for each student). This home exam will be handed out to all participants after the lectures. Time slots will be assigned randomly.
  * a 2 hour written digital exam at Silurveien 2 on December 1st 2022 from 17.00 to 19.00.
- 
+
 
 ### Written exams from previous years
 
