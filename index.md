@@ -40,14 +40,13 @@ In the table below, teachers are indicated with their initials and listed in the
 |                  | 14.15 - 15.00 | Illumina sequencing technology | AS
 |                  | 15.15 - 16.00 | PacBio sequencing technology | ATK
 | Tuesday 18 Oct   | 09.15 - 10.00 | Oxford Nanopore sequencing technology | TH
-|                  | 10.15 - 11.00 | Library preparation | AS
-|                  | 11.15 - 12.00 | Experimental design | AS
+|                  | 10.15 - 12.00 | Library preparation and experimental design | AS
 |                  | 12.00 - 13.15 | Lunch break
 |                  | 13.15 - 15.00 | Basic file formats | AS
 |                  | 15.15 - 17.00 | Access to computational resources | TR
 | Wednesday 19 Oct | 09.15 - 12.00 | Pre-processing of HTS data | AS
 |                  | 12.00 - 13.15 | Lunch break
-|                  | 13.15 - 17.00 | *De novo* genome assembly | KL
+|                  | 13.15 - 17.00 | Small RNA transcriptomics | TBR
 | Thursday 20 Oct  | 09.15 - 12.00 | *De novo* genome assembly, continued | KL
 |                  | 12.00 - 13.15 | Lunch break
 |                  | 13.15 - 17.00 | *De novo* genome assembly, continued | KL
@@ -60,9 +59,9 @@ In the table below, teachers are indicated with their initials and listed in the
 |                  | 12.00 - 13.15 | Lunch break
 |                  | 13.15 - 15.00 | Variant calling in general, continued | BS
 |                  | 15.15 - 17.00 | Human germline variant calling | YS
-| Tuesday 25 Oct   | 09.15 - 12.00 | Somatic variant calling and interpretation in the context of cancer | SN
+| Tuesday 25 Oct   | 09.15 - 12.00 | Human germline variant calling, continued | YS
 |                  | 12.00 - 13.15 | Lunch break
-|                  | 13.15 - 17.00 | Small RNA transcriptomics | TBR
+|                  | 13.15 - 16.00 | Somatic variant calling and interpretation in the context of cancer | SN
 | Wednesday 26 Oct | 09.15 - 12.00 | Statistical genomics | IG
 |                  | 12.00 - 13.15 | Lunch break
 |                  | 13.15 - 17.00 | Statistical genomics, continued | IG
