@@ -37,7 +37,8 @@ source_parsers = {
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = []
+#extensions = []
+extensions = ['myst_parser']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -55,7 +56,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'IN-BIOSx000'
-copyright = u'2018, Arvind Sundaram'
+copyright = u'2013-2022, Arvind Sundaram, Lex Nederbragt, Torbjørn Rognes'
 author = u'Arvind Sundaram, Lex Nederbragt, Torbjørn Rognes'
 
 # The version info for the project you're documenting, acts as replacement for
