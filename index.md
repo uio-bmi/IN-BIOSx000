@@ -99,7 +99,7 @@ In the table below, teachers are indicated with their initials and listed in the
 
 Coffee and tea will be freely available each morning in the seminar room.
 
-For lunch, we recommend the canteen in the other end of the building, [Ole-Johans spiseri](https://www.sio.no/en/food-and-beverage/our-canteens-and-coffeeshops/informatikk-kafeen), which serves a nice selection of warm and cold dishes.
+For lunch, we recommend the canteen in the other end of the building, [Ole-Johan spiseri](https://www.sio.no/en/food-and-beverage/our-canteens-and-coffeeshops/informatikk-kafeen), which serves a nice selection of warm and cold dishes.
 
 We plan to organize a free dinner for all course participants in a restaurant in Oslo on October 20th.
 
