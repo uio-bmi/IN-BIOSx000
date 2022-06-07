@@ -147,11 +147,11 @@ The exam will be a combination of the following two parts:
 
 ## Lecture slides
 
-[Lecture slides](Lectures)<br/>
+[Lecture slides](Lectures/index.md)<br/>
 
 This page is updated after each lecture/Module.
 
 
 ## Teaching materials
 
-List of further suggested papers, can be found [here](Curriculum).
+List of further suggested papers, can be found [here](Curriculum/index.md).
