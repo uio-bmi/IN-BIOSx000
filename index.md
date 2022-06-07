@@ -9,7 +9,7 @@ Note: For previous editions of the INF-BIO9121 and INF-BIO5121 course in 2013-20
 
 ## Introduction
 
-This is the webpage for the fall 2022 edition of the credited courses [**IN-BIOS5000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000) (master level) and [**IN-BIOS9000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS9000) (Ph.D. level) offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) and funded by [**NORBIS**](https://norbis.w.uib.no/activities/courses/).
+This is the webpage for the fall 2022 edition of the credited courses [**IN-BIOS5000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000) (master level) and [**IN-BIOS9000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS9000) (Ph.D. level) offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) and funded by [**NORBIS**](https://norbis.w.uib.no/genome-sequencing-technologies-assembly-variant-calling-and-statistical-genomics-2/).
 
 This course consists of two weeks, of
 lectures and practicals, and a final take-home exam with oral presentation and questioning.
