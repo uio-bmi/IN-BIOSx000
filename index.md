@@ -19,59 +19,61 @@ The course is open for master and PhD students at UiO, as well as to PhD student
 
 ## Location
 
-The course will be held at the UiO campus, in seminar room 2269 "Python", on floor 2 in the north end of
+The course will be held at the UiO campus, in seminar room 2269 *Python*, on floor 2 in the north end of
 [Ole-Johan Dahl's building](https://www.uio.no/english/about/getting-around/areas/gaustad/ga06/), Gaustadalléen 23B, Oslo.
 
 
 ## Schedule
 
-Course days are usually from 9:15 to 17:00, with lectures and hands-on exercises. There will be a lunch break each day from 12:00 to 13:15.
+Lectures and practical sessions will be held Monday to Friday, 17th to 28th of October, 2022 (weeks 42 and 43).
+
+Course days are usually from 09.15 to 17.00. There will be a lunch break each day from 12.00 to 13.15.
 
 In the table below, teachers are indicated with their initials and listed in the following section.
 
-| Date             |     Time      | Session         | Teacher |
-| ---------------- | :-----------: | --------------- | ------- |
+| Day    |     Time      | Who | Session |
+| ------ | :-----------: | --- | ------- |
 | **Week 42**
-| Monday 17 Oct    | 09.15 - 09.30 | Intro to NORBIS | TBA
-|                  | 09.30 - 12.00 | Fundamentals of Molecular Biology | GG
-|                  | 12.00 - 13.15 | Lunch break
-|                  | 13.15 - 14.00 | Sequencing and applications | TR
-|                  | 14.15 - 15.00 | Illumina sequencing technology | AS
-|                  | 15.15 - 16.00 | PacBio sequencing technology | ATK
-| Tuesday 18 Oct   | 09.15 - 10.00 | Oxford Nanopore sequencing technology | TH
-|                  | 10.15 - 12.00 | Library preparation and experimental design | AS
-|                  | 12.00 - 13.15 | Lunch break
-|                  | 13.15 - 15.00 | Basic file formats | AS
-|                  | 15.15 - 17.00 | Access to computational resources | TR
-| Wednesday 19 Oct | 09.15 - 12.00 | Pre-processing of HTS data | AS
-|                  | 12.00 - 13.15 | Lunch break
-|                  | 13.15 - 17.00 | Small RNA transcriptomics | TBR
-| Thursday 20 Oct  | 09.15 - 12.00 | *De novo* genome assembly, continued | KL
-|                  | 12.00 - 13.15 | Lunch break
-|                  | 13.15 - 17.00 | *De novo* genome assembly, continued | KL
-|                  | 20.00 - 22.00 | Dinner at restaurant in Oslo
-| Friday 21 Oct    | 09.15 - 12.00 | *De novo* genome assembly | KL
-|                  | 12.00 - 13.15 | Lunch break
-|                  | 13.15 - 17.00 | *De novo* genome assembly, continued | KL
+| Mon 17 | 09.15 - 09.30 | TBA | Intro to NORBIS
+|        | 09.30 - 12.00 | GG  | Fundamentals of Molecular Biology
+|        | 12.00 - 13.15 |     | Lunch break
+|        | 13.15 - 14.00 | TR  | Sequencing and applications
+|        | 14.15 - 15.00 | AS  | Illumina sequencing technology
+|        | 15.15 - 16.00 | ATK | PacBio sequencing technology
+| Tue 18 | 09.15 - 10.00 | TH  | Oxford Nanopore sequencing technology
+|        | 10.15 - 12.00 | AS  | Library preparation and experimental design
+|        | 12.00 - 13.15 |     | Lunch break
+|        | 13.15 - 15.00 | AS  | Basic file formats
+|        | 15.15 - 17.00 | TR  | Access to computational resources
+| Wed 19 | 09.15 - 12.00 | AS  | Pre-processing of HTS data
+|        | 12.00 - 13.15 |     | Lunch break
+|        | 13.15 - 17.00 | TBR | Small RNA transcriptomics
+| Thu 20 | 09.15 - 12.00 | KL  | *De novo* genome assembly, continued
+|        | 12.00 - 13.15 |     | Lunch break
+|        | 13.15 - 17.00 | KL  | *De novo* genome assembly, continued
+|        | 20.00 - 22.00 |     | Dinner at restaurant in Oslo
+| Fri 21 | 09.15 - 12.00 | KL  | *De novo* genome assembly
+|        | 12.00 - 13.15 |     | Lunch break
+|        | 13.15 - 17.00 | KL  | *De novo* genome assembly, continued
 | **Week 43**
-| Monday 24 Oct    | 09.15 - 12.00 | Variant calling in general | BS
-|                  | 12.00 - 13.15 | Lunch break
-|                  | 13.15 - 15.00 | Variant calling in general, continued | BS
-|                  | 15.15 - 17.00 | Human germline variant calling | YS
-| Tuesday 25 Oct   | 09.15 - 12.00 | Human germline variant calling, continued | YS
-|                  | 12.00 - 13.15 | Lunch break
-|                  | 13.15 - 16.00 | Somatic variant calling and interpretation in the context of cancer | SN
-| Wednesday 26 Oct | 09.15 - 12.00 | Statistical genomics | IG
-|                  | 12.00 - 13.15 | Lunch break
-|                  | 13.15 - 17.00 | Statistical genomics, continued | IG
-| Thursday 27 Oct  | 09.15 - 12.00 | Statistical genomics, continued | IG
-|                  | 12.00 - 13.15 | Lunch break
-|                  | 13.15 - 16.00 | Statistical genomics, continued | IG
-|                  | 16.15 - 17.00 | Pizza on campus
-| Friday 28 Oct    | 09.15 - 12.00 | Machine learning in computational biology | MP
-|                  | 12.00 - 13.15 | Lunch break
-|                  | 13.15 - 16.00 | Machine learning in computational biology, continued | MP
-|                  | 16.15 - 16.30 | Exam info and course evaluation | TR
+| Mon 24 | 09.15 - 12.00 | BS  | Variant calling in general
+|        | 12.00 - 13.15 |     | Lunch break
+|        | 13.15 - 15.00 | BS  | Variant calling in general, continued
+|        | 15.15 - 17.00 | YS  | Human germline variant calling
+| Tue 25 | 09.15 - 12.00 | YS  | Human germline variant calling, continued
+|        | 12.00 - 13.15 |     | Lunch break
+|        | 13.15 - 16.00 | SN  | Somatic variant calling and interpretation in the context of cancer
+| Wed 26 | 09.15 - 12.00 | IG  | Statistical genomics
+|        | 12.00 - 13.15 |     | Lunch break
+|        | 13.15 - 17.00 | IG  | Statistical genomics, continued
+| Thu 27 | 09.15 - 12.00 | IG  | Statistical genomics, continued
+|        | 12.00 - 13.15 |     | Lunch break
+|        | 13.15 - 16.00 | IG  | Statistical genomics, continued
+|        | 16.15 - 17.00 |     | Pizza on campus
+| Fri 28 | 09.15 - 12.00 | MP  | Machine learning in computational biology
+|        | 12.00 - 13.15 |     | Lunch break
+|        | 13.15 - 16.00 | MP  | Machine learning in computational biology, continued
+|        | 16.15 - 16.30 | TR  | Exam info and course evaluation
 
 
 ## Teachers
