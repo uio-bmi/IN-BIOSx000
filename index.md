@@ -178,7 +178,7 @@ The exam will be a combination of the following two parts:
 
 The exams are graded on a pass/fail scale.
 
-### Written exams from previous years
+Written exams from previous years:
 
 * [2018](https://github.com/arvindsundaram/IN-BIOSx000/blob/2018/misc/written_exam.pdf)
 * [2016](https://github.com/lexnederbragt/INF-BIOx121/blob/2017/misc/2016.pdf) (exam only)
