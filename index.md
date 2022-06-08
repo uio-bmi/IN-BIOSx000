@@ -1,15 +1,17 @@
-# IN-BIOS5000 / IN-BIOS9000: Genome Sequencing Technologies, Assembly, Variant Calling and Statistical Genomics fall 2022 
+# IN-BIOS5000 / IN-BIOS9000 Autumn 2022 
+
+## Genome Sequencing Technologies, Assembly, Variant Calling and Statistical Genomics
 
 The information below is preliminary, and some of it has not been updated since 2020.
-
-Note: For previous editions of the IN-BIOS5000 / IN-BIOS9000 course please see the [2018](https://in-biosx000.readthedocs.io/en/2018/) or [2020](https://in-biosx000.readthedocs.io/en/2020/) websites. The course was not held in 2019 and 2021. For previous editions of the INF-BIO9121 and INF-BIO5121 course, please see the [2013](https://wiki.uio.no/projects/clsi/index.php/INF-BIOX120_H13), [2014](https://wiki.uio.no/projects/clsi/index.php/INF-BIOX121_H14), [2015](https://inf-biox121.readthedocs.io/en/2015/), [2016](https://inf-biox121.readthedocs.io/en/2016/) or [2017](https://inf-biox121.readthedocs.io/en/2017/) website. The 2012 version did not have a dedicated available website.
 
 
 ## Introduction
 
-This is the webpage for the fall 2022 edition of the credited courses [**IN-BIOS5000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000) (MSc level) and [**IN-BIOS9000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS9000) (PhD level) offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) in collaboration with external contributors. It is partially funded by the [**NORBIS, the national research school in bioinformatics, biostatistics and systems biology**](https://norbis.w.uib.no/genome-sequencing-technologies-assembly-variant-calling-and-statistical-genomics-2/).
+Here you will find information about the autumn 2022 edition of the credited courses [**IN-BIOS5000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000) (MSc level) and [**IN-BIOS9000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS9000) (PhD level), on Genome Sequencing Technologies, Assembly, Variant Calling and Statistical Genomics.
+The course is offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) in collaboration with external contributors.
+It is partially funded by the [**NORBIS, the national research school in bioinformatics, biostatistics and systems biology**](https://norbis.w.uib.no/genome-sequencing-technologies-assembly-variant-calling-and-statistical-genomics-2/).
 
-This course consists of two weeks of lectures and practicals, and a final home exam with oral presentation and questioning + a final digital written exam.
+This course consists of two weeks of lectures and practicals, and a home exam with oral presentation and questioning, and a digital written exam.
 
 
 ## Audience
@@ -19,7 +21,7 @@ The course is open for master and PhD students at UiO, as well as to PhD student
 
 ## Location
 
-The course will be held at the UiO campus, in seminar room 2269 *Python*, on floor 2 in the north end of
+The course will be held at the UiO campus, in seminar room 2269 *Python*, on floor 2 in the northern end of
 [Ole-Johan Dahl's building](https://www.uio.no/english/about/getting-around/areas/gaustad/ga06/), Gaustadalléen 23B, Oslo.
 
 
@@ -177,3 +179,8 @@ This page is updated after each lecture/Module.
 ## Teaching materials
 
 List of further suggested papers, can be found [here](Curriculum/index.md).
+
+
+## Previous editions of the course
+
+Note: For previous editions of the IN-BIOS5000 / IN-BIOS9000 course please see the [2018](https://in-biosx000.readthedocs.io/en/2018/) or [2020](https://in-biosx000.readthedocs.io/en/2020/) websites. The course was not held in 2019 and 2021. For previous editions of the INF-BIO9121 and INF-BIO5121 course, please see the [2013](https://wiki.uio.no/projects/clsi/index.php/INF-BIOX120_H13), [2014](https://wiki.uio.no/projects/clsi/index.php/INF-BIOX121_H14), [2015](https://inf-biox121.readthedocs.io/en/2015/), [2016](https://inf-biox121.readthedocs.io/en/2016/) or [2017](https://inf-biox121.readthedocs.io/en/2017/) website. The 2012 version did not have a dedicated available website.
