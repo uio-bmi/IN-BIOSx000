@@ -11,12 +11,30 @@ Here you will find information about the autumn 2022 edition of the credited cou
 The course is offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) in collaboration with external contributors.
 It is partially funded by the [**NORBIS, the national research school in bioinformatics, biostatistics and systems biology**](https://norbis.w.uib.no/genome-sequencing-technologies-assembly-variant-calling-and-statistical-genomics-2/).
 
-This course consists of two weeks of lectures and practicals, and a home exam with oral presentation and questioning, and a digital written exam.
+This course consists of two weeks of lectures and practicals, a home project with an oral exam presentation, and a digital written exam.
 
 
 ## Audience
 
-The course is open for master and PhD students at UiO, as well as to PhD students registered through the NORBIS national research school. To earn credits for the course, PhD students from other institutions than UiO must obtain the status as a [visiting PhD candidate](https://www.mn.uio.no/english/research/phd/educational-component/visiting-phd.html) at the UiO Faculty of Mathematics and Natural Sciences. Applications may be submitted starting 15 June 2022 and must be submitted by 1 August 2022.
+The course is open for master and PhD students at UiO, as well as to PhD students registered through the NORBIS national research school. To earn credits for the course, PhD students from other institutions than UiO must obtain the status as a [visiting PhD candidate](https://www.mn.uio.no/english/research/phd/educational-component/visiting-phd.html) at the UiO Faculty of Mathematics and Natural Sciences. Applications may be submitted starting 15 June 2022 and must be submitted by 1 August 2022. A maximum of 30 students in total will be admitted to the course.
+
+
+## Course content
+
+The course provides knowledge of sequencing technologies and hands-on experience with the analysis of data from several sequencing platforms and for various applications. The two main applications that will be covered are de novo genome assembly and variant calling (SNPs and structural variants), while other aspects like control of quantity and quality of data will also be included. Furthermore, the course will show how to use statistical genomics to analyze features of annotated genomes.
+
+
+## Learning outcome
+
+After completing this course, you will:
+
+* understand the differences, benefits and drawbacks of the most current high throughput sequencing (HTS) technologies, and be able to decide which platform to use in what way for the different applications of HTS
+* be able to evaluate data quality and quantity as well as perform bioinformatics analysis, both on the command-line and through web-based frameworks, with data tailored towards applications like genome assembly and variant calling
+* know the algorithms and statistical methods involved in sequence alignment, mapping, assembly and variant calling
+* understand how to apply statistical methods to analyse relationships between annotated features on genomic tracks
+* be able to report on bioinformatics analysis in such a way that the methods used and steps taken are transparent, thus enhancing reproducibility
+* be aware of, and know to deal with, the ethical and data-sensitivity issues surrounding sequencing data derived from human subjects
+* be able to critically evaluate, validate and judge the results of bioinformatics analysis of HTS experiments in terms of underlying assumptions, reliability, sensitivity and specificity, and evaluate their value for answering biological questions
 
 
 ## Location
@@ -27,9 +45,7 @@ The course will be held at the UiO campus, in seminar room 2269 *Python*, on flo
 
 ## Schedule
 
-Lectures and practical sessions will be held Monday to Friday, 17th to 28th of October, 2022 (weeks 42 and 43).
-
-Course days are usually from 09.15 to 17.00. There will be a lunch break each day from 12.00 to 13.15.
+Lectures and practical sessions will be held Monday to Friday, 17th to 28th of October, 2022 (weeks 42 and 43). Course days are usually from 09.15 to 17.00. There will be a lunch break each day from 12.00 to 13.15.
 
 In the table below, teachers are indicated with their initials and listed in the following section.
 
@@ -137,8 +153,8 @@ We also plan to order pizza on October 27th. Details will follow.
 * No formal background in computer science is required, however, students must have a basic understanding of the unix shell. Students should take an introductory unix course beforehand if they do not have these skills.
 
 
-## Computers/laptops, Wifi, internet access, and Educloud accounts
- 
+## Computing facilities
+
 All students must have a laptop with either Windows (version 10 or more recent), macOS, Linux or other Unix operating system. You need to be able to access the Eduroam wifi network. If you do not have a UiO or Eduroam account, a temporary Wifi account may be created for you.
 
 We advise you to bring an external mouse, and do not rely on touchpad/trackpad only.
@@ -160,6 +176,7 @@ The exam will be a combination of the following two parts:
  * an *individual* home project combined with an oral exam presentation of the home project followed by questioning / discussion on December 1st and 2nd. Students will present their work to 2 teachers, followed by some questioning (approx 20 minutes in total for each student). This home exam will be handed out to all participants after the lectures. Time slots will be assigned randomly.
  * a 2 hour written digital exam at Silurveien 2 on December 1st 2022 from 17.00 to 19.00.
 
+The exams are graded on a pass/fail scale.
 
 ### Written exams from previous years
 
