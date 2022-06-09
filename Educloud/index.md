@@ -21,9 +21,13 @@ The Educloud Fox cluster will be used for hands-on exercises in the course. All 
 
 ### Log in to Fox
 
-After you have obtained access and set up two-factor authentication, you can run `ssh ec-username@fox.educloud.no` in a terminal (replace `ec-username` with your own) to log in to one of the login nodes of the Fox cluster.
+After you have obtained access and set up two-factor authentication, you can run
+```
+ssh ec-username@fox.educloud.no
+```
+in a terminal (replace `ec-username` with your own) to log in to one of the login nodes of the Fox cluster.
 
-You will first be asked for the One-Time code (6 digits) and then for the password. If you are asked for the One-Time code three times in a row and then asked for your password, the two-factor authentication is probably not correctly set up. Please see Reset 2FA below.
+You will first be asked for the One-Time code (6 digits) and then for the password. If you are asked for the One-Time code three times in a row and then asked for your password, the two-factor authentication is probably not correctly set up, or you may have specified the wrong username (remember to include `ec-`). Please see Reset 2FA below.
 
 * [Fox login](https://www.uio.no/english/services/it/research/platforms/edu-research/help/login-fox.html)
 
