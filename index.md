@@ -2,7 +2,7 @@
 
 ## Genome Sequencing Technologies, Assembly, Variant Calling and Statistical Genomics
 
-The information below is preliminary, and some of it has not been updated since 2020.
+The information below is preliminary and will be updated.
 
 
 ## Introduction
