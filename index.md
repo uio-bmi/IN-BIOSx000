@@ -60,7 +60,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 14.15 - 15.00 | Illumina sequencing technology (AS)
 | 15.15 - 16.00 | PacBio sequencing technology (ATK)
 | **Tue 18 Oct**
-| 09.15 - 10.00 | Oxford Nanopore sequencing technology (TH)
+| 09.15 - 10.00 | Oxford Nanopore sequencing technology (Zoom) (TH)
 | 10.15 - 12.00 | Library preparation and experimental design (AS)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 15.00 | Basic file formats (AS)
