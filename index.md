@@ -53,7 +53,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | ------------- | ----------------- |
 | **Week 42**
 | **Mon 17 Oct**
-| 09.15 - 09.30 | Intro to NORBIS (TBA)
+| 09.15 - 09.30 | Intro to NORBIS (RB)
 | 09.30 - 12.00 | Fundamentals of Molecular Biology (RS)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 14.00 | Sequencing and applications (TR)
@@ -122,13 +122,14 @@ In the table below, teachers are indicated with their initials and listed in the
 | IG       | Ivar Grytten            | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
 | KL       | Karin Lagesen           | Section for Epidemiology, Norwegian Veterinary Institute
 | MP       | Milena Pavlovic         | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
+| RB       | Ragna Breines           | NORBIS, Dept. of Informatics, University of Bergen
 | RS       | Rolf Skotheim           | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
 | SN       | Sigve Nakken            | Oslo University Hospital
 | TH       | Thomas Haverkamp        | Section for Epidemiology, Norwegian Veterinary Institute
 | TR       | Torbjørn Rognes         | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
 | TBR      | Trine B. Rounge         | Centre for Bioinformatics, Dept. of Pharmacy, University of Oslo
 | YS       | Ying Sheng              | Dept. of Medical Genetics, Oslo University Hospital
-| TBA      | Others, to be announced | 
+
 
 ## Contact information
 
