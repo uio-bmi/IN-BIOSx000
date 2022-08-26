@@ -8,7 +8,7 @@ The information below is preliminary and will be updated.
 ## Introduction
 
 Here you will find information about the autumn 2022 edition of the credited courses [**IN-BIOS5000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000) (MSc level) and [**IN-BIOS9000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS9000) (PhD level), on Genome Sequencing Technologies, Assembly, Variant Calling and Statistical Genomics.
-The course is offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) in collaboration with external contributors.
+The course is offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) in collaboration with contributors from Oslo University Hospital and the Norwegian Veterinary Institute.
 It is partially funded by the [**NORBIS, the national research school in bioinformatics, biostatistics and systems biology**](https://norbis.w.uib.no/genome-sequencing-technologies-assembly-variant-calling-and-statistical-genomics-2/).
 
 This course consists of two weeks of lectures and practicals, a home project with an oral exam presentation, and a digital written exam.
@@ -54,7 +54,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | **Week 42**
 | **Mon 17 Oct**
 | 09.15 - 09.30 | Intro to NORBIS (TBA)
-| 09.30 - 12.00 | Fundamentals of Molecular Biology (GG)
+| 09.30 - 12.00 | Fundamentals of Molecular Biology (RS)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 14.00 | Sequencing and applications (TR)
 | 14.15 - 15.00 | Illumina sequencing technology (AS)
@@ -119,10 +119,10 @@ In the table below, teachers are indicated with their initials and listed in the
 | AS       | Arvind Sundaram         | Norwegian Sequencing Centre, Oslo University Hospital
 | ATK      | Ave Tooming-Klunderud   | CEES, Dept. of Biosciences, University of Oslo
 | BS       | Bastiaan Star           | CEES, Dept. of Biosciences, University of Oslo
-| GG       | Gregor Gilfillan        | Norwegian Sequencing Centre, Oslo University Hospital
 | IG       | Ivar Grytten            | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
 | KL       | Karin Lagesen           | Section for Epidemiology, Norwegian Veterinary Institute
-| MP       | Milena Pavlovic         | Dept. of Informatics, University of Oslo
+| MP       | Milena Pavlovic         | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
+| RS       | Rolf Skotheim           | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
 | SN       | Sigve Nakken            | Oslo University Hospital
 | TH       | Thomas Haverkamp        | Section for Epidemiology, Norwegian Veterinary Institute
 | TR       | Torbjørn Rognes         | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
