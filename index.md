@@ -160,7 +160,7 @@ All students must have a laptop with either Windows (version 10 or more recent),
 
 We advise you to bring an external mouse, and do not rely on touchpad/trackpad only.
 
-The course will use computational resources on the Educloud Fox system at UiO. [Access to Educloud](Educloud/index.md) will be provided for all course participants.
+The course will use computational resources on the Educloud Fox system at UiO. [Access to Educloud](Educloud/index.md) will be provided for all course participants. A [list of the software packages](software.md) that will be used is available.
 
 If you are struggling with anything of the above, you must contact the course coordinator (see contact details on this page) as soon as possible, and at least one week before the start of the course.
 
