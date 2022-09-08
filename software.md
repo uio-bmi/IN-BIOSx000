@@ -1,8 +1,19 @@
 # Software that will be used in the course
 
-Several software packages for general sequence handling, alignment, genome assembly, assembly quality assessment, and variant calling will be used during the course. Below is a list of the the packages that will be used. They are available on Fox.
+Several software packages for general sequence handling, alignment, genome assembly, assembly quality assessment, and variant calling will be used during the course. They are available on Fox.
 
-All of these packages (except for BWA) are part of the meta-package "IN-BIOS5000/HT-2022" that may be loaded with the command `module load  IN-BIOS5000/HT-2022`.
+Individual packages may be loaded with the following command (replace `BWA/0.7.17-foss-2018b` with the name of the required module):
+
+```
+module load BWA/0.7.17-foss-2018b
+```
+
+All of these packages (except for BWA) are part of the meta-package "IN-BIOS5000/HT-2022" that may be loaded with the following command:
+```
+module load IN-BIOS5000/HT-2022
+```
+
+Below is a list of the packages that will be used.
 
 Package | Version | Kind | Module | Documentation | Source code repository
 --------|---------|------|--------|---------------|-----------------------
