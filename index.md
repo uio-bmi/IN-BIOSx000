@@ -47,7 +47,7 @@ The course will be held at the UiO campus, in seminar room 2269 *Python*, on flo
 
 Lectures and practical sessions will be held Monday to Friday, 17th to 28th of October, 2022 (weeks 42 and 43). Course days are usually from 09.15 to 17.00. There will be a lunch break each day from 12.00 to 13.15.
 
-In the table below, teachers are indicated with their initials and listed in the following section.
+In the table below, teachers are indicated with their initials and listed in the following section. Teaching assistant Ghadi al Hajj will help during the exercises.
 
 | Time          | Session (Teacher) |
 | ------------- | ----------------- |
@@ -119,6 +119,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | AS       | Arvind Sundaram         | Norwegian Sequencing Centre, Oslo University Hospital
 | ATK      | Ave Tooming-Klunderud   | CEES, Dept. of Biosciences, University of Oslo
 | BS       | Bastiaan Star           | CEES, Dept. of Biosciences, University of Oslo
+| GAH      | Ghadi al Hajj           | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
 | IG       | Ivar Grytten            | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
 | KL       | Karin Lagesen           | Section for Epidemiology, Norwegian Veterinary Institute
 | MP       | Milena Pavlovic         | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
