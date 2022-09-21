@@ -187,10 +187,12 @@ Written exams from previous years:
 * [2015](https://github.com/lexnederbragt/INF-BIOx121/tree/2015/exam) (with information on how the grading was done)
 * [2014](https://wiki.uio.no/projects/clsi/images/f/f2/Examinfbio2014.pdf) (exam only)
 
+There was no written exam in 2020 due to the pandemic.
+
 
 ## Lecture slides
 
-[Lecture slides](Lectures/index.md)<br/>
+[Lecture slides](Lectures/index.md)
 
 This page is updated after each lecture/Module.
 
