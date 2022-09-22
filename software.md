@@ -8,7 +8,7 @@ Individual packages may be loaded with the following command (replace `BWA/0.7.1
 module load BWA/0.7.17-foss-2018b
 ```
 
-All of these packages (except for BWA) are part of the meta-package `IN-BIOS5000/HT-2022` that may be loaded with the following command:
+All of these packages (except for BWA and Flye) are part of the meta-package `IN-BIOS5000/HT-2022` that may be loaded with the following command:
 ```sh
 module load IN-BIOS5000/HT-2022
 ```
