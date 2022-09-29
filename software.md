@@ -21,7 +21,7 @@ assembly-stats | 0.1.4 | Python library | assembly-stats/0.1.4-foss-2021b-Python
 BEDTools | 2.30.0 | Binary | BEDTools/2.30.0-GCC-11.2.0 | [https://bedtools.readthedocs.io/en/latest](https://bedtools.readthedocs.io/en/latest) | [https://github.com/arq5x/bedtools2](https://github.com/arq5x/bedtools2)
 BWA | 0.7.17 | Binary | BWA/0.7.17-GCCcore-11.2.0 | [https://github.com/lh3/bwa](https://github.com/lh3/bwa) | [https://github.com/lh3/bwa](https://github.com/lh3/bwa)
 bwa-mem2 | 2.2.1 | Binary | bwa-mem2/2.2.1 | [https://github.com/bwa-mem2/bwa-mem2](https://github.com/bwa-mem2/bwa-mem2) | [https://github.com/bwa-mem2/bwa-mem2](https://github.com/bwa-mem2/bwa-mem2)
-EIGENSOFT | 7.2.1 | Binary | EIGENSOFT/7.2.1-foss-2021b | [https://github.com/DReichLab/EIG](https://github.com/DReichLab/EIG)  [https://github.com/DReichLab/EIG](https://github.com/DReichLab/EIG)
+EIGENSOFT | 7.2.1 | Binary | EIGENSOFT/7.2.1-foss-2021b | [https://github.com/DReichLab/EIG](https://github.com/DReichLab/EIG) |  [https://github.com/DReichLab/EIG](https://github.com/DReichLab/EIG)
 FastQC | 0.11.9 | Java | FastQC/0.11.9-Java-11 | [https://www.bioinformatics.babraham.ac.uk/projects/fastqc](https://www.bioinformatics.babraham.ac.uk/projects/fastqc) | [https://github.com/s-andrews/FastQC](https://github.com/s-andrews/FastQC)
 FASTX-Toolkit | 0.0.14 | Binary | FASTX-Toolkit/0.0.14-GCC-11.2.0 | [http://hannonlab.cshl.edu/fastx_toolkit](http://hannonlab.cshl.edu/fastx_toolkit) | [https://github.com/agordon/fastx_toolkit](https://github.com/agordon/fastx_toolkit)
 Flye | 2.9.1 | Binary | Flye/2.9.1-GCC-11.2.0 | [https://github.com/fenderglass/Flye](https://github.com/fenderglass/Flye) | [https://github.com/fenderglass/Flye](https://github.com/fenderglass/Flye)
