@@ -73,7 +73,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 09.15 - 12.00 | *De novo* genome assembly (KL)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 17.00 | *De novo* genome assembly, continued (KL)
-| 20.00 - 22.00 | Dinner at restaurant in Oslo
+| 19.00 - 22.00 | Dinner at restaurant Olivia Tjuvholmen
 | **Fri 21 Oct**
 | 09.15 - 12.00 | *De novo* genome assembly, continued (KL)
 | 12.00 - 13.15 | Lunch break
@@ -143,7 +143,7 @@ Coffee and tea will be freely available each morning in the seminar room.
 
 For lunch, we recommend the canteen in the other end of the building, [Ole-Johan spiseri](https://www.sio.no/en/food-and-beverage/our-canteens-and-coffeeshops/informatikk-kafeen), which serves a nice selection of warm and cold dishes.
 
-We plan to organize a free dinner for all course participants in a restaurant in Oslo on October 20th.
+We are organizing a free dinner for all course participants at [Olivia Tjuvholmen](https://oliviarestauranter.no/restaurant/tjuvholmen/) on October 20th.
 
 We also plan to order pizza on October 27th. Details will follow.
 
