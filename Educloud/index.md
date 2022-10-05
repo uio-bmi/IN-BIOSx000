@@ -14,7 +14,7 @@ The Educloud Fox cluster will be used for hands-on exercises in the course. All 
    * [Microsoft Authenticator for iOS](https://apps.apple.com/us/app/microsoft-authenticator/id983156458)
    * [Microsoft Authenticator for Android](https://play.google.com/store/apps/details?id=com.azure.authenticator)
 
-* Go to [Apply for access to Educloud](https://research.educloud.no/register), click `Apply for access to a project`. Login with Feide (if affiliated with UiO) or enter your personal details. Specify project `ec34` (BMI). To speed up processing, please notify `torognes@ifi.uio.no` by email when you have applied.
+* Go to [Apply for access to Educloud](https://research.educloud.no/register), click `Apply for access to a project`. Login with Feide (preferable, if affiliated with UiO, including visitors) or enter your personal details. Specify project `ec34` (BMI). To speed up processing, please notify `torognes@ifi.uio.no` by email when you have applied.
 
 * If you do not have a Norwegian digital ID: Please contact `torognes@ifi.uio.no` as soon as possible.
 
