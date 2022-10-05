@@ -137,6 +137,11 @@ In the table below, teachers are indicated with their initials and listed in the
 * Torbjørn Rognes (Course coordinator), email torognes@ifi.uio.no
 
 
+## Mattermost channel
+
+There is a dedicated [channel on Mattermost for the course](https://mattermost.uio.no/ifi-undervisning/channels/inbios5000). All participants with a UiO account should have access. It may be used to share information between participants during the course.
+
+
 ## Meals
 
 Coffee and tea will be freely available each morning in the seminar room.
