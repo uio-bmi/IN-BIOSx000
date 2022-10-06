@@ -45,9 +45,9 @@ You will first be asked for the One-Time code (6 digits) and then for the passwo
 
 * Our project account is called `ec34`.
 
-* The storage area that will be used is in `/projects/ec34/in-biosx000`.
+* The storage area that will be used is in `/projects/ec34/in-biosx000`. Data to be used in the course will be distributed in this area by the teachers.
 
-* Your home directory is in `/fp/homes01/u01/ec-username` (replace `username` with your own).
+* Your home directory is in `/fp/homes01/u01/ec-username` (replace `username` with your own). This is were each student should store their own files.
 
 * You'll have access to the special partitions `ifi_bigmem` (large memory node) and `ìfi_accel` (node with GPUs).
 
