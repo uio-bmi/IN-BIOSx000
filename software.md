@@ -33,5 +33,6 @@ SAMtools | 1.15 | Binary | SAMtools/1.15-GCC-11.2.0 | [https://www.htslib.org](h
 SPAdes | 3.15.5 | Binary | SPAdes/3.15.5-GCC-11.2.0 | [http://cab.spbu.ru/software/spades](http://cab.spbu.ru/software/spades) | [https://github.com/ablab/spades](https://github.com/ablab/spades)
 Trimmomatic | 0.39 | Java | Trimmomatic/0.39-Java-11 | [http://www.usadellab.org/cms/?page=trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic) | [https://github.com/usadellab/Trimmomatic](https://github.com/usadellab/Trimmomatic)
 Unicycler | 0.5.0 | Binary | Unicycler/0.5.0-gompi-2021b | [https://github.com/rrwick/Unicycler](https://github.com/rrwick/Unicycler) | [https://github.com/rrwick/Unicycler](https://github.com/rrwick/Unicycler)
+VCFtools | 0.1.16 | Binary | VCFtools/0.1.16-GCC-11.2.0 | [https://vcftools.github.io/index.html](https://vcftools.github.io/index.html) | [https://github.com/vcftools/vcftools](https://github.com/vcftools/vcftools)
 Velvet | 1.2.10 | Binary | Velvet/1.2.10-GCC-11.2.0-mt-kmer_191 | [https://github.com/dzerbino/velvet](https://github.com/dzerbino/velvet) | [https://github.com/dzerbino/velvet](https://github.com/dzerbino/velvet)
 
