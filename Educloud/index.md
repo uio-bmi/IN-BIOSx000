@@ -49,7 +49,7 @@ You will first be asked for the One-Time code (6 digits) and then for the passwo
 
 * Your home directory is in `/fp/homes01/u01/ec-username` (replace `username` with your own). This is were each student should store their own files.
 
-* You'll have access to the special partitions `ifi_bigmem` (large memory node) and `ìfi_accel` (node with GPUs).
+* You'll have access to the special partitions `ifi_bigmem` (large memory node) and `ìfi_accel` (node with GPUs) of the compute nodes if required. 
 
 
 ### Fox documentation
