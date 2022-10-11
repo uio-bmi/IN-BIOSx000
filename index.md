@@ -68,7 +68,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | **Wed 19 Oct**
 | 09.15 - 12.00 | Pre-processing of HTS data (AS)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 17.00 | Small RNA transcriptomics (TBR)
+| 13.15 - 17.00 | 
 | **Thu 20 Oct**
 | 09.15 - 12.00 | *De novo* genome assembly (KL)
 | 12.00 - 13.15 | Lunch break
@@ -96,7 +96,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | **Thu 27 Oct**
 | 09.15 - 12.00 | Statistical genomics, continued (IG)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 16.00 | Statistical genomics, continued (IG)
+| 13.15 - 16.00 | Small RNA transcriptomics (TBR)
 | 16.15 - 17.00 | Pizza on campus
 | **Fri 28 Oct**
 | 09.15 - 12.00 | Machine learning in computational biology (MP)
