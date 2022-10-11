@@ -55,5 +55,5 @@ You will first be asked for the One-Time code (6 digits) and then for the passwo
 ### Fox documentation
 
 * [Educloud user manual](https://www.uio.no/english/services/it/research/platforms/edu-research/help/)
-* [Using fox](https://www.uio.no/english/services/it/research/platforms/edu-research/help/hpc/docs/fox/index.md)
-* [Interactive fox machines](https://www.uio.no/english/services/it/research/platforms/edu-research/help/hpc/docs/fox/interactive-machines.md)
+* [Using Fox](https://www.uio.no/english/services/it/research/platforms/edu-research/help/hpc/docs/fox/index.md)
+* [Interactive Fox machines](https://www.uio.no/english/services/it/research/platforms/edu-research/help/hpc/docs/fox/interactive-machines.md)
