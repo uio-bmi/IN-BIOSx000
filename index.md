@@ -53,7 +53,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | ------------- | ----------------- |
 | **Week 42**
 | **Mon 17 Oct**
-| 09.15 - 09.30 | Intro to NORBIS (RB)
+| 09.15 - 09.30 | Intro to NORBIS (Zoom) (RB)
 | 09.30 - 12.00 | Fundamentals of Molecular Biology (RS)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 14.00 | Sequencing and applications (TR)
