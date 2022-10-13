@@ -16,8 +16,6 @@ The Educloud Fox cluster will be used for hands-on exercises in the course. All 
 
 * Go to [Apply for access to Educloud](https://research.educloud.no/register), click `Apply for access to a project`. Login with Feide (preferable, if affiliated with UiO, including visitors) or enter your personal details. Specify project `ec34` (BMI). To speed up processing, please notify `torognes@ifi.uio.no` by email when you have applied.
 
-* 
-
 
 ### Log in to Fox
 
