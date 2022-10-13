@@ -5,7 +5,7 @@ The Educloud Fox cluster will be used for hands-on exercises in the course. All 
 
 ### Getting access
 
-* You need a Norwegian digital ID (BankID, MinID, BuyPass, Commfides).
+* You need a Norwegian digital ID (BankID, MinID, BuyPass, Commfides). If you do not have a Norwegian digital ID: Please contact `torognes@ifi.uio.no` as soon as possible. Please include your birth date.
 
 * Educloud also requires two-factor authentication (2FA) to be set up in addition to a username and password. You need to install a mobile app to generate 2FA codes (one-time codes). This app will generate a pseudo-random 6-digit code every 30 seconds. There are several such apps that you may use. We recommend `Google Authenticator` and `Microsoft Authenticator`:
 
@@ -16,7 +16,7 @@ The Educloud Fox cluster will be used for hands-on exercises in the course. All 
 
 * Go to [Apply for access to Educloud](https://research.educloud.no/register), click `Apply for access to a project`. Login with Feide (preferable, if affiliated with UiO, including visitors) or enter your personal details. Specify project `ec34` (BMI). To speed up processing, please notify `torognes@ifi.uio.no` by email when you have applied.
 
-* If you do not have a Norwegian digital ID: Please contact `torognes@ifi.uio.no` as soon as possible.
+* 
 
 
 ### Log in to Fox
@@ -37,6 +37,8 @@ You will first be asked for the One-Time code (6 digits) and then for the passwo
 * [Reset password](https://research.educloud.no/password_reset) You can login with your digital ID to get a new password.
 
 * [Reset 2FA](https://research.educloud.no/2fa_reset) You can login with your digital ID to get a new QR code to reset 2FA authetication.
+
+* We will have a session on the afternoon of Tuesday 18th were we make sure that everyone is able to log in to Fox. 
 
 
 ### Basic info
