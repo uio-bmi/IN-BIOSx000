@@ -201,6 +201,8 @@ There was no written exam in 2020 due to the pandemic.
 
 This page is updated after each lecture/Module.
 
+[Lecture slides 2020](Lectures2020/index.md)
+
 
 ## Teaching materials
 
