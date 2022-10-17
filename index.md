@@ -53,17 +53,17 @@ In the table below, teachers are indicated with their initials and listed in the
 | ------------- | ----------------- |
 | **Week 42**
 | **Mon 17 Oct**
-| 09.15 - 09.30 | [Welcome and practical information (TR)](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.1%20-%20Welcome%20and%20practical%20information%20-%20TR.pdf)
+| 09.15 - 09.30 | [Welcome and practical information](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.1%20-%20Welcome%20and%20practical%20information%20-%20TR.pdf) (TR)
 | 09.30 - 12.00 | Fundamentals of Molecular Biology, [part 1](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.2%20-%20Fundamentals%20of%20molecular%20biology%20part%201%20-%20RS.pdf), [part 2](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.3%20-%20Fundamentals%20of%20molecular%20biology%20part%202%20-%20RS.pdf), [part 3](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.4%20-%20Fundamentals%20of%20molecular%20biology%20part%203%20-%20RS.pdf) (RS)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 14.00 | [Sequencing and applications (TR)](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.5%20-%20Sequencing%20and%20applications%20-%20TR.pdf)
-| 14.15 - 15.00 | [Illumina sequencing technology (AS)](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.6%20-%20Illumina%20sequencing%20technology%20-%20AS.pdf)
-| 15.15 - 16.00 | [PacBio sequencing technology (ATK)](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.7%20-%20PacBio%20sequencing%20technology%20-%20ATK.pdf)
+| 13.15 - 14.00 | [Sequencing and applications](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.5%20-%20Sequencing%20and%20applications%20-%20TR.pdf) (TR)
+| 14.15 - 15.00 | [Illumina sequencing technology](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.6%20-%20Illumina%20sequencing%20technology%20-%20AS.pdf) (AS)
+| 15.15 - 16.00 | [PacBio sequencing technology](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.7%20-%20PacBio%20sequencing%20technology%20-%20ATK.pdf) (ATK)
 | **Tue 18 Oct**
-| 09.15 - 10.00 | [Oxford Nanopore sequencing technology (Zoom) (TH)](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.1%20-%20Oxford%20Nanopore%20sequencing%20technology%20-%20TH.pdf)
-| 10.15 - 12.00 | Library preparation and experimental design (AS)
+| 09.15 - 10.00 | [Oxford Nanopore sequencing technology](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.1%20-%20Oxford%20Nanopore%20sequencing%20technology%20-%20TH.pdf) (Zoom) (TH)
+| 10.15 - 12.00 | [Library preparation](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.2%20-%20Library%20preparation%20-%20AS.pdf), for all you [DNA](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/for-all-you-seq-dna.pdf), [RNA](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/for-all-you-seq-rna.pdf), and [Experimental design](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.3%20-%20Experimental%20design%20-%20AS.pdf) (AS)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 15.00 | Basic file formats (AS)
+| 13.15 - 15.00 | [Basic file formats](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.4%20-%20Basic%20file%20formats%20-%20AS.pdf) (AS)
 | 15.15 - 17.00 | Access to computational resources (TR)
 | **Wed 19 Oct**
 | 09.15 - 12.00 | Pre-processing of HTS data (AS)
