@@ -54,9 +54,9 @@ In the table below, teachers are indicated with their initials and listed in the
 | **Week 42**
 | **Mon 17 Oct**
 | 09.15 - 09.30 | [Welcome and practical information (TR)](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.1%20-%20Welcome%20and%20practical%20information%20-%20TR.pdf)
-| 09.30 - 12.00 | Fundamentals of Molecular Biology (RS)
+| 09.30 - 12.00 | Fundamentals of Molecular Biology, [part 1](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.2%20-%20Fundamentals%20of%20molecular%20biology%20part%201%20-%20RS.pdf), [part 2](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.3%20-%20Fundamentals%20of%20molecular%20biology%20part%202%20-%20RS.pdf), [part 3](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.4%20-%20Fundamentals%20of%20molecular%20biology%20part%203%20-%20RS.pdf) (RS)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 14.00 | [Sequencing and applications (TR)](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.3%20-%20Sequencing%20and%20applications%20-%20TR.pdf)
+| 13.15 - 14.00 | [Sequencing and applications (TR)](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.5%20-%20Sequencing%20and%20applications%20-%20TR.pdf)
 | 14.15 - 15.00 | Illumina sequencing technology (AS)
 | 15.15 - 16.00 | PacBio sequencing technology (ATK)
 | **Tue 18 Oct**
