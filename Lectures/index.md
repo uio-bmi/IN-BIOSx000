@@ -8,3 +8,6 @@
 * [Day 01: Sequencing and applications (TR)](Day%2001.5%20-%20Sequencing%20and%20applications%20-%20TR.pdf)
 * [Day 01: Illumina sequencing technology (AS)](Day%2001.6%20-%20Illumina%20sequencing%20technology%20-%20AS.pdf)
 * [Day 01: PacBio sequencing technology (ATK)](Day%2001.7%20-%20PacBio%20sequencing%20technology%20-%20ATK.pdf)
+
+###### Day 2
+* [Day 02: Oxford Nanopore sequencing technology (ATK)](Day%2002.1%20-%20Oxford%20Nanopore%20sequencing%20technology%20-%20TH.pdf)
