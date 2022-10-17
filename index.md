@@ -58,7 +58,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 14.00 | [Sequencing and applications (TR)](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.5%20-%20Sequencing%20and%20applications%20-%20TR.pdf)
 | 14.15 - 15.00 | [Illumina sequencing technology (AS)](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.6%20-%20Illumina%20sequencing%20technology%20-%20AS.pdf)
-| 15.15 - 16.00 | PacBio sequencing technology (ATK)
+| 15.15 - 16.00 | [PacBio sequencing technology (ATK)](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.7%20-%20PacBio%20sequencing%20technology%20-%20ATK.pdf)
 | **Tue 18 Oct**
 | 09.15 - 10.00 | Oxford Nanopore sequencing technology (Zoom) (TH)
 | 10.15 - 12.00 | Library preparation and experimental design (AS)
