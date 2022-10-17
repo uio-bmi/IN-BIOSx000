@@ -57,7 +57,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 09.30 - 12.00 | Fundamentals of Molecular Biology, [part 1](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.2%20-%20Fundamentals%20of%20molecular%20biology%20part%201%20-%20RS.pdf), [part 2](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.3%20-%20Fundamentals%20of%20molecular%20biology%20part%202%20-%20RS.pdf), [part 3](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.4%20-%20Fundamentals%20of%20molecular%20biology%20part%203%20-%20RS.pdf) (RS)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 14.00 | [Sequencing and applications (TR)](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.5%20-%20Sequencing%20and%20applications%20-%20TR.pdf)
-| 14.15 - 15.00 | Illumina sequencing technology (AS)
+| 14.15 - 15.00 | [Illumina sequencing technology (AS)](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.6%20-%20Illumina%20sequencing%20technology%20-%20AS.pdf)
 | 15.15 - 16.00 | PacBio sequencing technology (ATK)
 | **Tue 18 Oct**
 | 09.15 - 10.00 | Oxford Nanopore sequencing technology (Zoom) (TH)

@@ -6,3 +6,4 @@
 * [Day 01: Fundamentals of molecular biology part 2 (RS)](Day%2001.3%20-%20Fundamentals%20of%20molecular%20biology%20part%202%20-%20RS.pdf)
 * [Day 01: Fundamentals of molecular biology part 3 (RS)](Day%2001.4%20-%20Fundamentals%20of%20molecular%20biology%20part%203%20-%20RS.pdf)
 * [Day 01: Sequencing and applications (TR)](Day%2001.5%20-%20Sequencing%20and%20applications%20-%20TR.pdf)
+* [Day 01: Illumina sequencing technology (AS)](Day%2001.6%20-%20Illumina%20sequencing%20technology%20-%20AS.pdf)
