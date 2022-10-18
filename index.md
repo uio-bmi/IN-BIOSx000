@@ -61,7 +61,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 15.15 - 16.00 | [PacBio sequencing technology](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.7%20-%20PacBio%20sequencing%20technology%20-%20ATK.pdf) (ATK)
 | **Tue 18 Oct**
 | 09.15 - 10.00 | [Oxford Nanopore sequencing technology](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.1%20-%20Oxford%20Nanopore%20sequencing%20technology%20-%20TH.pdf) (Zoom) (TH)
-| 10.15 - 12.00 | [Library preparation](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.2%20-%20Library%20preparation%20-%20AS.pdf), for all you [DNA](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/for-all-you-seq-dna.pdf), [RNA](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/for-all-you-seq-rna.pdf), and [Experimental design](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.3%20-%20Experimental%20design%20-%20AS.pdf) (AS)
+| 10.15 - 12.00 | [Library preparation](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.2%20-%20Library%20preparation%20-%20AS.pdf), for all you seq [DNA](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/for-all-you-seq-dna.pdf), [RNA](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/for-all-you-seq-rna.pdf), and [Experimental design](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.3%20-%20Experimental%20design%20-%20AS.pdf) (AS)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 15.00 | [Basic file formats](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.4%20-%20Basic%20file%20formats%20-%20AS.pdf) (AS)
 | 15.15 - 17.00 | Access to computational resources (TR)
