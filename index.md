@@ -64,7 +64,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 10.15 - 12.00 | [Library preparation](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.2%20-%20Library%20preparation%20-%20AS.pdf), for all you seq [DNA](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/for-all-you-seq-dna.pdf), [RNA](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/for-all-you-seq-rna.pdf), and [Experimental design](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.3%20-%20Experimental%20design%20-%20AS.pdf) (AS)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 15.00 | [Basic file formats](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.4%20-%20Basic%20file%20formats%20-%20AS.pdf) (AS)
-| 15.15 - 17.00 | [Access to computational resources](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.4%20-%20Access%20to%20computational%20resources%20-%20TR.pdf) (TR)
+| 15.15 - 17.00 | [Access to computational resources](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.5%20-%20Access%20to%20computational%20resources%20-%20TR.pdf) (TR)
 | **Wed 19 Oct**
 | 09.15 - 12.00 | Pre-processing of HTS data (AS)
 | 12.00 - 13.15 | Lunch break
