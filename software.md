@@ -28,6 +28,7 @@ Flye | 2.9.1 | Binary | Flye/2.9.1-GCC-11.2.0 | [https://github.com/fenderglass/
 GATK | 4.2.6.1 | Java | GATK/4.2.6.1-GCCcore-11.2.0-Java-11 | [https://gatk.broadinstitute.org/hc/en-us](https://gatk.broadinstitute.org/hc/en-us) | [https://github.com/broadinstitute/gatk](https://github.com/broadinstitute/gatk)
 MultiQC | 1.12 | Binary | MultiQC/1.12-foss-2021b | [https://multiqc.info](https://multiqc.info) | [https://github.com/ewels/MultiQC](https://github.com/ewels/MultiQC)
 Pilon | 1.24 | Java | Pilon/1.24-Java-11 | [http://software.broadinstitute.org/software/pilon](http://software.broadinstitute.org/software/pilon) | [https://github.com/broadinstitute/pilon](https://github.com/broadinstitute/pilon)
+PLINK | 1.9b6 | Binary | PLINK/1.9b_6.21-x86_64 | [https://www.cog-genomics.org/plink/1.9](https://www.cog-genomics.org/plink/1.9) | [https://www.cog-genomics.org/plink/1.9/dev](https://www.cog-genomics.org/plink/1.9/dev)
 QUAST | 5.2.0 | Binary | QUAST/5.2.0-foss-2021b | [http://cab.spbu.ru/software/quast](http://cab.spbu.ru/software/quast) | [https://github.com/ablab/quast](https://github.com/ablab/quast)
 SAMtools | 1.15 | Binary | SAMtools/1.15-GCC-11.2.0 | [https://www.htslib.org](https://www.htslib.org) | [https://github.com/samtools/samtools](https://github.com/samtools/samtools)
 SPAdes | 3.15.5 | Binary | SPAdes/3.15.5-GCC-11.2.0 | [http://cab.spbu.ru/software/spades](http://cab.spbu.ru/software/spades) | [https://github.com/ablab/spades](https://github.com/ablab/spades)
