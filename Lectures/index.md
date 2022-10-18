@@ -16,3 +16,4 @@
 * [Day 02: For all you seq - RNA](for-all-you-seq-rna.pdf)
 * [Day 02: Experimental design (AS)](Day%2002.3%20-%20Experimental%20design%20-%20AS.pdf)
 * [Day 02: Basic file formats (AS)](Day%2002.4%20-%20Basic%20file%20formats%20-%20AS.pdf)
+* [Day 02: Access to computational resources (TR)](Day%2002.4%20-%20Access%20to%20computational%20resources%20-%20TR.pdf)
