@@ -66,7 +66,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 13.15 - 15.00 | [Basic file formats](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.4%20-%20Basic%20file%20formats%20-%20AS.pdf) (AS)
 | 15.15 - 17.00 | [Access to computational resources](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.5%20-%20Access%20to%20computational%20resources%20-%20TR.pdf) (TR)
 | **Wed 19 Oct**
-| 09.15 - 12.00 | Pre-processing of HTS data (AS)
+| 09.15 - 12.00 | [Data preprocessing](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2003.1%20-%20Data%20preprocessing%20-%20AS.pdf) (AS)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 17.00 | Break, no teaching
 | **Thu 20 Oct**

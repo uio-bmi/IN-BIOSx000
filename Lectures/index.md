@@ -10,10 +10,13 @@
 * [Day 01: PacBio sequencing technology (ATK)](Day%2001.7%20-%20PacBio%20sequencing%20technology%20-%20ATK.pdf)
 
 ###### Day 2
-* [Day 02: Oxford Nanopore sequencing technology (ATK)](Day%2002.1%20-%20Oxford%20Nanopore%20sequencing%20technology%20-%20TH.pdf)
+* [Day 02: Oxford Nanopore sequencing technology (TH)](Day%2002.1%20-%20Oxford%20Nanopore%20sequencing%20technology%20-%20TH.pdf)
 * [Day 02: Library preparation (AS)](Day%2002.2%20-%20Library%20preparation%20-%20AS.pdf)
 * [Day 02: For all you seq - DNA](for-all-you-seq-dna.pdf)
 * [Day 02: For all you seq - RNA](for-all-you-seq-rna.pdf)
 * [Day 02: Experimental design (AS)](Day%2002.3%20-%20Experimental%20design%20-%20AS.pdf)
 * [Day 02: Basic file formats (AS)](Day%2002.4%20-%20Basic%20file%20formats%20-%20AS.pdf)
 * [Day 02: Access to computational resources (TR)](Day%2002.5%20-%20Access%20to%20computational%20resources%20-%20TR.pdf)
+
+###### Day 3
+* [Day 03: Data preprocessing (AS)](Day%2003.1%20-%20Data%20preprocessing%20-%20AS.pdf)
