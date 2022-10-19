@@ -11,7 +11,7 @@ Here you will find information about the autumn 2022 edition of the credited cou
 The course is offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) in collaboration with contributors from Oslo University Hospital and the Norwegian Veterinary Institute.
 It is partially funded by the [**NORBIS, the national research school in bioinformatics, biostatistics and systems biology**](https://norbis.w.uib.no/genome-sequencing-technologies-assembly-variant-calling-and-statistical-genomics-2/).
 
-This course consists of two weeks of lectures and practicals, a home project with an oral exam presentation, and a digital written exam.
+This course consists of two weeks of lectures and practicals, a home project with an oral exam presentation, and a digital written exam.
 
 
 ## Audience
@@ -66,7 +66,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 13.15 - 15.00 | [Basic file formats](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.4%20-%20Basic%20file%20formats%20-%20AS.pdf) (AS)
 | 15.15 - 17.00 | [Access to computational resources](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.5%20-%20Access%20to%20computational%20resources%20-%20TR.pdf) (TR)
 | **Wed 19 Oct**
-| 09.15 - 12.00 | [Data preprocessing](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2003.1%20-%20Data%20preprocessing%20-%20AS.pdf) [script](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day3_1_DataPreprocessing_script.txt) (AS)
+| 09.15 - 12.00 | [Data preprocessing](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2003.1%20-%20Data%20preprocessing%20-%20AS.pdf), and accompanying [script](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day3_1_DataPreprocessing_script.txt) (AS)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 17.00 | Break, no teaching
 | **Thu 20 Oct**
