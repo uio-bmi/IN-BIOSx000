@@ -20,3 +20,4 @@
 
 ###### Day 3
 * [Day 03: Data preprocessing (AS)](Day%2003.1%20-%20Data%20preprocessing%20-%20AS.pdf)
+* [Day 03: Data preprocessing script (text file) (AS)](Day3_1_DataPreprocessing_script.txt)
