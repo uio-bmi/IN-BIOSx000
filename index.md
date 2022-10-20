@@ -70,7 +70,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 17.00 | Break, no teaching
 | **Thu 20 Oct**
-| 09.15 - 12.00 | *De novo* genome assembly (KL)
+| 09.15 - 12.00 | *De novo* genome assembly. [Course material](https://github.com/karinlag/BIOS9000/tree/2022) (KL)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 17.00 | *De novo* genome assembly, continued (KL)
 | 19.00 - 22.00 | Dinner at restaurant Olivia Tjuvholmen
