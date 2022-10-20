@@ -21,3 +21,6 @@
 ###### Day 3
 * [Day 03: Data preprocessing (AS)](Day%2003.1%20-%20Data%20preprocessing%20-%20AS.pdf)
 * [Day 03: Data preprocessing script (text file) (AS)](Day3_1_DataPreprocessing_script.txt)
+
+###### Day 4
+* [Day 04: *De novo* genome assembly - Course material (KL)](https://github.com/karinlag/BIOS9000/tree/2022)
