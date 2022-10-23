@@ -70,7 +70,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 17.00 | Break, no teaching
 | **Thu 20 Oct**
-| 09.15 - 12.00 | *De novo* genome assembly. [Course material](https://github.com/karinlag/BIOS9000/tree/2022) (KL)
+| 09.15 - 12.00 | *De novo* genome assembly, [part 1](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2004.1%20-%20De%20novo%20genome%20assembly%20-%20KL.pdf), [part 2](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2004.2%20-%20SPAdes%20and%20Velvet%20assemblers%20-%20KL.pdf), [part 3](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2005.1%20-%20QUAST%20-%20KL.pdf). [Course material on GitHub](https://github.com/karinlag/BIOS9000/tree/2022) (KL)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 17.00 | *De novo* genome assembly, continued (KL)
 | 19.00 - 22.00 | Dinner at restaurant Olivia Tjuvholmen

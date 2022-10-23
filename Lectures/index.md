@@ -23,4 +23,9 @@
 * [Day 03: Data preprocessing script (text file) (AS)](Day3_1_DataPreprocessing_script.txt)
 
 ###### Day 4
-* [Day 04: *De novo* genome assembly - Course material (KL)](https://github.com/karinlag/BIOS9000/tree/2022)
+* [Day 04: *De novo* genome assembly - Course material on GitHub (KL)](https://github.com/karinlag/BIOS9000/tree/2022)
+* [Day 04: Principles and problems of *de novo* genome assembly (KL)](Day%2004.1%20-%20De%20novo%20genome%20assembly%20-%20KL.pdf)
+* [Day 04: Genome assembly programs - how do they work? (KL)](Day%2004.2%20-%20SPAdes%20and%20Velvet%20assemblers%20-%20KL.pdf)
+
+###### Day 5
+* [Day 05: QUAST assembly evaluation (KL)](Day%2005.1%20-%20QUAST%20-%20KL.pdf)
