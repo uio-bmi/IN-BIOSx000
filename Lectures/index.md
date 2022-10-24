@@ -31,4 +31,5 @@
 * [Day 05: QUAST assembly evaluation (KL)](Day%2005.1%20-%20QUAST%20-%20KL.pdf)
 
 ###### Day 6
-* [Day 06: Variant calling: Walrus mitochondrial genome exercise](Exercise_walrus_mt_genome_SNP_Calling.pdf)
+* [Day 06: Introduction to variant calling (BS)](Day%2006.1%20-%20Introduction%20to%20variant%20calling%20-%20BS.pdf)
+* [Day 06: Variant calling: Walrus mitochondrial genome exercise (BS)](Exercise_walrus_mt_genome_SNP_Calling.pdf)

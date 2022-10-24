@@ -81,7 +81,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | &nbsp; | |
 | **Week 43**
 | **Mon 24 Oct**
-| 09.15 - 12.00 | Variant calling in general, [walrus mitochondrial genome exercise](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Exercise_walrus_mt_genome_SNP_Calling.pdf) (BS)
+| 09.15 - 12.00 | [Introduction to variant calling](Day%2006.1%20-%20Introduction%20to%20variant%20calling%20-%20BS.pdf), [walrus mitochondrial genome exercise](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Exercise_walrus_mt_genome_SNP_Calling.pdf) (BS)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 15.00 | Variant calling in general, continued (BS)
 | 15.15 - 17.00 | Human germline variant calling (YS)
