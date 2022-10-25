@@ -36,6 +36,13 @@
 * [Day 06: Human variant calling - Lecture (YS)](Day%2006.2%20-%20Human%20variant%20calling%20-%20YS.pdf)
 * [Day 06: Human variant calling - Exercise procedure (YS)](Procedure.txt)
 
+###### Day 7
+
+* [Day 07: Somatic variant calling (SN)](Day%2007.1%20-%20Somatic%20variant%20calling%20-%20SN.pdf)
+
+###### Day 8
+
+
 ###### Day 9
 * [Day 09: Small RNA transcriptomics lecture (TBR)](Day%2009.1%20-%20RNA%20transcriptomics%20lecture%20-%20TBR.pdf)
 * [Day 09: Small RNA transcriptomics practicals (TBR)](Day%2009.2%20-%20RNA%20transcriptomics%20practicals%20-%20TBR.pdf)
