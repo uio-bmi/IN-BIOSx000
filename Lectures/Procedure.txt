@@ -1,0 +1,58 @@
+# load all the softwares
+module load IN-BIOS5000/HT-2022
+module load R/4.1.2-foss-2021b
+
+# create folder structure
+mkdir -p results/00_fastq
+mkdir -p results/01_alignment
+mkdir -p results/02_refineAlignment
+mkdir -p results/03_variantcalling
+mkdir -p results/04_variantfiltration
+cp -r /projects/ec34/in-biosx000/human_vc/scripts .
+
+# copy the fastq files to local 00_fastq folder
+cp /projects/ec34/in-biosx000/human_vc/results/00_fastq/* results/00_fastq
+
+# running alignment under the local 01_alignment folder
+cd results/01_alignment
+bash ../../scripts/01_bwa.bash \
+../00_fastq/NA12878N47F_S47_R1_001.fastq.gz \
+../00_fastq/NA12878N47F_S47_R2_001.fastq.gz \
+NA12878F \
+2>bwa.log
+
+# running mark duplicates under the local 02_refineAlignment folder
+cd ../02_refineAlignment
+bash ../../scripts/02_markdup.bash \
+../01_alignment/sorted.bam \
+NA12878F.bam \
+2>markdup.log
+
+# running quality control on the bam file under the local 02_refineAlignment
+bash ../../scripts/03_bam_qc.bash \
+NA12878F.bam \
+NA12878F \
+/projects/ec34/in-biosx000/human_vc/metadata/regions/target.interval_list \
+/projects/ec34/in-biosx000/human_vc/metadata/regions/probe.interval_list \
+2>bam_qc.log
+
+
+# running variant calling on the bam file under the local 03_variantcalling
+cd ../03_variantcalling
+bash ../../scripts/04_variantCalling.bash \
+../02_refineAlignment/NA12878F.bam \
+NA12878F \
+/projects/ec34/in-biosx000/human_vc/metadata/regions/NexteraRapidCapture-181702-probeTarget.merged.sort.interval_list \
+2>variantcalling.log
+
+# running variant filtration on the raw vcf file under the local 04_variantfiltration
+cd ../04_variantfiltration
+bash ../../scripts/05_variantfiltration.bash \
+../03_variantCalling/NA12878F.raw.vcf.gz \
+NA12878F \
+2>variantfiltration.log
+
+# predict de novo variants from trio data
+module load BCFtools/1.10.2-GCC-8.3.0
+export BCFTOOLS_PLUGINS=/projects/ec34/in-biosx000/human_vc/tools/bcftools/plugins/
+bcftools +trio-dnm2 -P HG002.ped --with-pPL HG002.filter.vcf > HG002.filter.denovo.vcf
