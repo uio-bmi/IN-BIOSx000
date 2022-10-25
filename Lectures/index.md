@@ -37,4 +37,4 @@
 
 ###### Day 9
 * [Day 09: Small RNA transcriptomics lecture (TBR)](Day%2009.1%20-%20RNA%20transcriptomics%20lecture%20-%20TBR.pdf)
-* [Day 09: Small RNA transcriptomics practicals (TBR)](Day%2009.1%20-%20RNA%20transcriptomics%20practicals%20-%20TBR.pdf)
+* [Day 09: Small RNA transcriptomics practicals (TBR)](Day%2009.2%20-%20RNA%20transcriptomics%20practicals%20-%20TBR.pdf)

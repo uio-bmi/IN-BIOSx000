@@ -96,7 +96,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | **Thu 27 Oct**
 | 09.15 - 12.00 | Statistical genomics, continued (IG)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 16.00 | Small RNA transcriptomics: [lecture](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2009.1%20-%20RNA%20transcriptomics%20lecture%20-%20TBR.pdf), [practicals](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2009.1%20-%20RNA%20transcriptomics%20practicals%20-%20TBR.pdf) (TBR)
+| 13.15 - 16.00 | Small RNA transcriptomics: [lecture](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2009.1%20-%20RNA%20transcriptomics%20lecture%20-%20TBR.pdf), [practicals](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2009.2%20-%20RNA%20transcriptomics%20practicals%20-%20TBR.pdf) (TBR)
 | 16.15 - 17.00 | Pizza on campus
 | **Fri 28 Oct**
 | 09.15 - 12.00 | Machine learning in computational biology (MP)
