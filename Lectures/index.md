@@ -34,3 +34,7 @@
 * [Day 06: Introduction to variant calling (BS)](Day%2006.1%20-%20Introduction%20to%20variant%20calling%20-%20BS.pdf)
 * [Day 06: Variant calling: Walrus mitochondrial genome exercise (BS)](Exercise_walrus_mt_genome_SNP_Calling.pdf)
 * [Day 06: Human variant calling (YS)](Day%2006.2%20-%20Human%20variant%20calling%20-%20YS.pdf)
+
+###### Day 9
+* [Day 09: Small RNA transcriptomics lecture (TBR)](Day%2009.1%20-%20RNA%20transcriptomics%20lecture%20-%20TBR.pdf)
+* [Day 09: Small RNA transcriptomics practicals (TBR)](Day%2009.1%20-%20RNA%20transcriptomics%20practicals%20-%20TBR.pdf)

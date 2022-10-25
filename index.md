@@ -96,7 +96,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | **Thu 27 Oct**
 | 09.15 - 12.00 | Statistical genomics, continued (IG)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 16.00 | Small RNA transcriptomics (TBR)
+| 13.15 - 16.00 | Small RNA transcriptomics: [lecture](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2009.1%20-%20RNA%20transcriptomics%20lecture%20-%20TBR.pdf), [practicals](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2009.1%20-%20RNA%20transcriptomics%20practicals%20-%20TBR.pdf) (TBR)
 | 16.15 - 17.00 | Pizza on campus
 | **Fri 28 Oct**
 | 09.15 - 12.00 | Machine learning in computational biology (MP)
@@ -212,4 +212,3 @@ List of further suggested papers, can be found [here](Curriculum/index.md).
 ## Previous editions of the course
 
 Note: For previous editions of the IN-BIOS5000 / IN-BIOS9000 course please see the [2018](https://in-biosx000.readthedocs.io/en/2018/) or [2020](https://in-biosx000.readthedocs.io/en/2020/) websites. The course was not held in 2019 and 2021. For previous editions of the INF-BIO9121 and INF-BIO5121 course, please see the [2013](https://wiki.uio.no/projects/clsi/index.php/INF-BIOX120_H13), [2014](https://wiki.uio.no/projects/clsi/index.php/INF-BIOX121_H14), [2015](https://inf-biox121.readthedocs.io/en/2015/), [2016](https://inf-biox121.readthedocs.io/en/2016/) or [2017](https://inf-biox121.readthedocs.io/en/2017/) website. The 2012 version did not have a dedicated available website.
-
