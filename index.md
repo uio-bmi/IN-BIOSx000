@@ -212,3 +212,4 @@ List of further suggested papers, can be found [here](Curriculum/index.md).
 ## Previous editions of the course
 
 Note: For previous editions of the IN-BIOS5000 / IN-BIOS9000 course please see the [2018](https://in-biosx000.readthedocs.io/en/2018/) or [2020](https://in-biosx000.readthedocs.io/en/2020/) websites. The course was not held in 2019 and 2021. For previous editions of the INF-BIO9121 and INF-BIO5121 course, please see the [2013](https://wiki.uio.no/projects/clsi/index.php/INF-BIOX120_H13), [2014](https://wiki.uio.no/projects/clsi/index.php/INF-BIOX121_H14), [2015](https://inf-biox121.readthedocs.io/en/2015/), [2016](https://inf-biox121.readthedocs.io/en/2016/) or [2017](https://inf-biox121.readthedocs.io/en/2017/) website. The 2012 version did not have a dedicated available website.
+
