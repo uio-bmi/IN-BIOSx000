@@ -85,7 +85,6 @@ In the table below, teachers are indicated with their initials and listed in the
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 15.00 | Variant calling in general, continued (BS)
 | 15.15 - 17.00 | [Human germline variant calling](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2006.2%20-%20Human%20variant%20calling%20-%20YS.pdf) (YS)
-
 | **Tue 25 Oct**
 | 09.15 - 12.00 | Human germline variant calling, continued (YS)
 | 12.00 - 13.15 | Lunch break
