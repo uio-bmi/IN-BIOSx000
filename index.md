@@ -96,13 +96,14 @@ In the table below, teachers are indicated with their initials and listed in the
 | **Thu 27 Oct**
 | 09.15 - 12.00 | Statistical genomics, continued (IG)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 16.00 | Cancelled due to illness: ~~Small RNA transcriptomics: [lecture](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2009.1%20-%20RNA%20transcriptomics%20lecture%20-%20TBR.pdf), [practicals](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2009.2%20-%20RNA%20transcriptomics%20practicals%20-%20TBR.pdf) (TBR)~~
-| 16.15 - 17.00 | Pizza on campus
+| 13.15 - 16.00 | Cancelled: ~~Small RNA transcriptomics: [lecture](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2009.1%20-%20RNA%20transcriptomics%20lecture%20-%20TBR.pdf), [practicals](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2009.2%20-%20RNA%20transcriptomics%20practicals%20-%20TBR.pdf) (TBR)~~
+| 16.15 - 17.00 | Cancelled (moved to Friday): ~~Pizza on campus~~
 | **Fri 28 Oct**
 | 09.15 - 12.00 | [Machine learning in computational biology](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2010.1%20-%20Machine%20learning%20in%20computational%20biology%20-%20MP.pdf) (MP)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 16.00 | Machine learning in computational biology, continued (MP)
-| 16.15 - 16.30 | Exam info and course evaluation (TR)
+| 16.00 - 16.15 | Exam info and course evaluation (TR)
+| 16.15 - 17.00 | Pizza on campus
 | &nbsp; | |
 | **Week 48**
 | **Thu 1 Dec**
