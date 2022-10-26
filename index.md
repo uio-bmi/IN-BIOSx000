@@ -90,7 +90,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 16.00 | [Somatic variant calling and interpretation in the context of cancer](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2007.1%20-%20Somatic%20variant%20calling%20-%20SN.pdf) (SN)
 | **Wed 26 Oct**
-| 09.15 - 12.00 | Statistical genomics (IG)
+| 09.15 - 12.00 | [Statistical genomics](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2008.1%20-%20Statistical%20genomics%20-%20IG.pdf) (IG)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 17.00 | Statistical genomics, continued (IG)
 | **Thu 27 Oct**

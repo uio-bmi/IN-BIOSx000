@@ -42,6 +42,7 @@
 
 ###### Day 8
 
+* [Day 08: Statistical genomics (IG)](Day%2008.1%20-%20Statistical%20genomics%20-%20IG.pdf)
 
 ###### Day 9
 * [Day 09: Small RNA transcriptomics lecture (TBR)](Day%2009.1%20-%20RNA%20transcriptomics%20lecture%20-%20TBR.pdf)
