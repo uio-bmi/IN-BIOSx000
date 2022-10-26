@@ -47,3 +47,6 @@
 ###### Day 9
 * [Day 09: Small RNA transcriptomics lecture (TBR)](Day%2009.1%20-%20RNA%20transcriptomics%20lecture%20-%20TBR.pdf)
 * [Day 09: Small RNA transcriptomics practicals (TBR)](Day%2009.2%20-%20RNA%20transcriptomics%20practicals%20-%20TBR.pdf)
+
+###### Day 10
+* [Day 10: Machine learning in computational biology (MP)](Day%2010.1%20-%20Machine%20learning%20in%20computational%20biology%20-%20MP.pdf)
