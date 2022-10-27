@@ -151,7 +151,7 @@ For lunch, we recommend the canteen in the other end of the building, [Ole-Johan
 
 We are organizing a free dinner for all course participants at restaurant [Olivia Tjuvholmen](https://oliviarestauranter.no/restaurant/tjuvholmen/), Bryggegangen 4, in the centre of Oslo, on October 20th at 19.00. The three course menu [Menú Piccolo](https://oliviarestauranter.no/selskapsmenyer-host/) will be served with a selection of Italian food to share. Non-alcoholic drinks are included, but other drinks must be paid individually. Please indicate if you would like to participate and list any food allergies in the form distributed by email.
 
-We also plan to order pizza on October 27th. Details will follow.
+We have also ordered pizza for Friday October 28th. It will be served in the areas right outside the seminar room after the lectures are finished.
 
 
 ## Requirements
