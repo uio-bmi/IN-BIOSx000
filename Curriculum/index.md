@@ -16,7 +16,7 @@ Refer to Wikipedia for basic information.
 
 [Sequencing depth and coverage: key considerations in genomic analyses](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/HTS_Coverage_Depth.pdf), Sims D _et. al._, Nature Reviews 2014
 
-[Single molecule real-time (SMRT) sequencing comes of age: applications and utilities for medical diagnostics](https://doi.org/10.1093/nar/gky066), Simon Ardui, Adam Ameur, Joris R Vermeesch, Matthew S Hestand (2018) Nucleic Acids Research, 46, 5, 2159–2168.
+[Long-read human genome sequencing and its applications](https://doi.org/10.1038/s41576-020-0236-x) Logsdon, G.A., Vollger, M.R. & Eichler, E.E. (2020) Nat Rev Genet 21, 597–614.
 
 [Nanopore sequencing technology, bioinformatics and applications](https://doi.org/10.1038/s41587-021-01108-x), Wang, Y., Zhao, Y., Bollas, A. et al. (2021) Nat Biotechnol 39, 1348–1365.
 
@@ -42,25 +42,26 @@ Refer to Wikipedia for basic information.
 
 [Best practices for variant calling in clinical sequencing](https://doi.org/10.1186/s13073-020-00791-w), Koboldt, D.C. (2020) Genome Med 12, 91.
 
-[Getz, et al.](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SVC_1.pdf) "Advances in understanding cancer genomes through second-generation sequencing". Nature Reviews Genetics 2010
+[Advances in understanding cancer genomes through second-generation sequencing](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SVC_1.pdf)
+Getz, et al. (2010) Nature Reviews Genetics 2010.
 
 [A review of somatic single nucleotide variant calling algorithms for next-generation sequencing data](https://doi.org/10.1016/j.csbj.2018.01.003) Chang Xu (2018), Computational and Structural Biotechnology Journal, 16, 15-24.
 
 
 ##### Statistical genomics
 
-[Colocalization analyses of genomic elements: approaches, recommendations and challenges, Kanduri et. al.](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_1.pdf), Bioinformatics 2018.
+[Colocalization analyses of genomic elements: approaches, recommendations and challenges](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_1.pdf), Kanduri et. al. (2018) Bioinformatics.
 
-[Simovski, Boris, et al. "GSuite HyperBrowser: integrative analysis of dataset collections across the genome and epigenome."](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_2.pdf)
+[GSuite HyperBrowser: integrative analysis of dataset collections across the genome and epigenome](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_2.pdf), Simovski et al. (2017) GigaScience, 6, 1–12.
 
-[Quinlan, Aaron R., and Ira M. Hall. "BEDTools: a flexible suite of utilities for comparing genomic features."](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_3.pdf) Bioinformatics 26.6 (2010): 841-842.
+[BEDTools: a flexible suite of utilities for comparing genomic features](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_3.pdf), Quinlan, Aaron R., and Ira M. Hall. (2010) Bioinformatics 26, 6, 841-842.
 
-[Optional reading for those interested: Salvatore, Stefania, et al.](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_4.pdf) "Beware the Jaccard: the choice of similarity measure is important and non-trivial in genomic colocalisation analysis." Briefings in bioinformatics 21.5 (2020): 1523-1530
+[Beware the Jaccard: the choice of similarity measure is important and non-trivial in genomic colocalisation analysis](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_4.pdf), Salvatore, Stefania, et al. (2020) Briefings in bioinformatics 21, 5, 1523-1530 (optional reading for those interested).
 
 
 ##### Machine Learning
 
-[Wainberg, et al. Deep learning in biomedicine](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/ML.pdf), Nature Biotechnology 2018
+[Deep learning in biomedicine](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/ML.pdf), [Wainberg, et al. (2018) Nature Biotechnology.
 
 [DOME: recommendations for supervised machine learning validation in biology](https://doi.org/10.1038/s41592-021-01205-4), Walsh, I., Fishman, D., Garcia-Gasulla, D. et al. (2021) Nat Methods 18, 1122–1127.
 
