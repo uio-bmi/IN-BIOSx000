@@ -20,6 +20,8 @@
 
 * [Nanopore sequencing technology, bioinformatics and applications](https://doi.org/10.1038/s41587-021-01108-x), Wang, Y., Zhao, Y., Bollas, A. et al. (2021) Nat Biotechnol 39, 1348–1365.
 
+* [The long reads ahead: _de novo_ genome assembly using the MinION](https://doi.org/10.12688/f1000research.12012.2), de Lannoy, C., de Ridder, D. & Risse, J. (2017) F1000Research 2017, 6:1083.
+
 
 ##### _De novo_ genome assembly
 
