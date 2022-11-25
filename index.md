@@ -181,7 +181,7 @@ The curriculum consists of a set of scientific articles. The exam will contain q
 
 The exam will be a combination of the following two parts:
 
- * an *individual* home project combined with an oral exam presentation of the home project followed by questioning / discussion on December 1st and 2nd. Students will present their work to 2 teachers, followed by some questioning (approx 20 minutes in total for each student). This home exam will be handed out to all participants after the lectures. Time slots will be assigned randomly.
+ * an *individual* home project combined with an oral exam presentation of the home project followed by questioning / discussion on December 1st and 2nd. Students will present their work to 2-3 teachers, followed by some questioning (approx 20 minutes in total for each student). This home exam will be handed out to all participants after the lectures. The oral exams will be held in room 3118 Awk in Ole-Johan Dahl's building according to the schedule communicated by email.
  * a 2 hour written digital exam at Silurveien 2 on December 1st 2022 from 17.00 to 19.00.
 
 The exams are graded on a pass/fail scale.
