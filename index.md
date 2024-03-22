@@ -103,7 +103,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 16.00 - 16.15 | Exam info and course evaluation (TR)
 | 16.15 - 17.00 | Pizza on campus
 | &nbsp; | |
-| **Week 48**
+| **Week 50**
 | **Thu 12 Dec**
 | 09.15 - 15.00 | Oral presentation and exam
 | 17.00 - 19.00 | Written exam
@@ -137,7 +137,7 @@ In the table below, teachers are indicated with their initials and listed in the
 
 Coffee and tea will be freely available each morning in the seminar room.
 
-For lunch, we recommend the canteen in the other end of the building, [Ole-Johan spiseri](https://www.sio.no/en/food-and-beverage/spisesteder/ole-johan-eatery), which serves a nice selection of warm and cold dishes.
+For lunch, we recommend the canteen in the other end of the building, [Ole-Johan eatery](https://www.sio.no/en/food-and-beverage/spisesteder/ole-johan-eatery), which serves a nice selection of warm and cold dishes.
 
 We are organizing a free dinner for all course participants at a restaurant some day during the course.
 
@@ -153,9 +153,7 @@ We will also ordered pizza on afternoon.
 
 ## Computing facilities
 
-All students must have a laptop with either Windows (version 10 or more recent), macOS, Linux or other Unix operating system. You need to be able to access the Eduroam wifi network. If you do not have a UiO or Eduroam account, a temporary Wifi account may be created for you.
-
-We advise you to bring an external mouse, and do not rely on touchpad/trackpad only.
+All students must have a laptop with either Windows (version 10 or more recent), macOS, Linux or other Unix operating system. You need to be able to access the Eduroam wifi network. If you do not have a UiO or Eduroam account, a temporary Wifi account may be created for you. We advise you to bring an external mouse, and do not rely on touchpad/trackpad only.
 
 The course will use computational resources on the Educloud Fox system at UiO. [Access to Educloud](Educloud/index.md) will be provided for all course participants. A [list of the software packages](software.md) that will be used is available.
 
