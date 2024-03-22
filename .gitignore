@@ -1,0 +1,6 @@
+_build
+.ipynb_checkpoints
+.DS_Store
+schedule.html
+schedule.md
+*do_not_commit.*
