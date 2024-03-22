@@ -56,7 +56,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'IN-BIOSx000'
-copyright = u'2013-2022, Arvind Sundaram, Lex Nederbragt, Torbjørn Rognes'
+copyright = u'2013-2024, Arvind Sundaram, Lex Nederbragt, Torbjørn Rognes'
 author = u'Arvind Sundaram, Lex Nederbragt, Torbjørn Rognes'
 
 # The version info for the project you're documenting, acts as replacement for

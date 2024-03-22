@@ -1,4 +1,6 @@
-# Curriculum and supporting material 2022
+# Curriculum and supporting material 2024
+
+To be updated.
 
 
 ##### Molecular Biology
@@ -50,15 +52,7 @@ Getz, et al. (2010) Nature Reviews Genetics 2010.
 * [A review of somatic single nucleotide variant calling algorithms for next-generation sequencing data](https://doi.org/10.1016/j.csbj.2018.01.003) Chang Xu (2018), Computational and Structural Biotechnology Journal, 16, 15-24.
 
 
-##### Statistical genomics
-
-* [Colocalization analyses of genomic elements: approaches, recommendations and challenges](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_1.pdf), Kanduri et. al. (2018) Bioinformatics.
-
-* [GSuite HyperBrowser: integrative analysis of dataset collections across the genome and epigenome](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_2.pdf), Simovski et al. (2017) GigaScience, 6, 1–12.
-
-* [BEDTools: a flexible suite of utilities for comparing genomic features](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_3.pdf), Quinlan, Aaron R., and Ira M. Hall. (2010) Bioinformatics 26, 6, 841-842.
-
-* [Beware the Jaccard: the choice of similarity measure is important and non-trivial in genomic colocalisation analysis](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/SG_4.pdf), Salvatore, Stefania, et al. (2020) Briefings in bioinformatics 21, 5, 1523-1530 (optional reading for those interested).
+##### Transcriptomics
 
 
 ##### Machine Learning

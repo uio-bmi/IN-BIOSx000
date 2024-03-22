@@ -5,7 +5,7 @@ The Educloud Fox cluster will be used for hands-on exercises in the course. All 
 
 ### Getting access
 
-* You need a Norwegian digital ID (BankID, MinID, BuyPass, Commfides). If you do not have a Norwegian digital ID: Please contact `torognes@ifi.uio.no` as soon as possible. Please include your birth date.
+* You need a Norwegian digital ID (BankID, MinID, BuyPass, Commfides). If you do not have a Norwegian digital ID: Please contact `torognes@ifi.uio.no` as soon as possible. Please include your full name, email address and birth date.
 
 * Educloud also requires two-factor authentication (2FA) to be set up in addition to a username and password. You need to install a mobile app to generate 2FA codes (one-time codes). This app will generate a new pseudo-random 6-digit code every 30 seconds. There are several such apps that you may use. We highly recommend `Microsoft Authenticator`:
 

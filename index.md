@@ -1,117 +1,116 @@
-# IN-BIOS5000 / IN-BIOS9000 Autumn 2022 
+# IN-BIOS5000 / IN-BIOS9000 Autumn 2024
 
-## Genome Sequencing Technologies, Assembly, Variant Calling and Statistical Genomics
+## Sequencing technologies, data analysis and applications
 
-The information below is preliminary and will be updated.
+The information below is preliminary and will be updated. In particular, the exact dates are uncertain.
 
 
 ## Introduction
 
-Here you will find information about the autumn 2022 edition of the credited courses [**IN-BIOS5000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000) (MSc level) and [**IN-BIOS9000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS9000) (PhD level), on Genome Sequencing Technologies, Assembly, Variant Calling and Statistical Genomics.
+Here you will find information about the autumn 2024 edition of the credited courses [**IN-BIOS5000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000) (MSc level) and [**IN-BIOS9000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS9000) (PhD level), on Sequencing technologies, data analysis and applications.
 The course is offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) in collaboration with contributors from Oslo University Hospital and the Norwegian Veterinary Institute.
 It is partially funded by the [**NORBIS, the national research school in bioinformatics, biostatistics and systems biology**](https://norbis.w.uib.no/genome-sequencing-technologies-assembly-variant-calling-and-statistical-genomics-2/).
-
 This course consists of two weeks of lectures and practicals, a home project with an oral exam presentation, and a digital written exam.
 
 
 ## Audience
 
-The course is open for master and PhD students at UiO, as well as to PhD students registered through the NORBIS national research school. To earn credits for the course, PhD students from other institutions than UiO must obtain the status as a [visiting PhD candidate](https://www.mn.uio.no/english/research/phd/educational-component/visiting-phd.html) at the UiO Faculty of Mathematics and Natural Sciences. Applications may be submitted starting 15 June 2022 and must be submitted by 1 August 2022. A maximum of 30 students in total will be admitted to the course.
+The course is open for master and PhD students at UiO, as well as to PhD students registered through the NORBIS national research school. To earn credits for the course, PhD students from other institutions than UiO must obtain the status as a [visiting PhD candidate](https://www.mn.uio.no/english/research/phd/educational-component/visiting-phd.html) at the UiO Faculty of Mathematics and Natural Sciences. Applications may be submitted starting 14 June 2024 and must be submitted by 1 August 2024. A maximum of 30 students in total will be admitted to the course.
 
 
 ## Course content
 
-The course provides knowledge of sequencing technologies and hands-on experience with the analysis of data from several sequencing platforms and for various applications. The two main applications that will be covered are de novo genome assembly and variant calling (SNPs and structural variants), while other aspects like control of quantity and quality of data will also be included. Furthermore, the course will show how to use statistical genomics to analyze features of annotated genomes.
+The course provides knowledge of sequencing technologies and hands-on experience with the analysis of data from several current sequencing platforms and for various biological and medical applications. Tools, algorithms, and statistical methods for data analysis will be included, as well as data quality assessment and analysis reproducibility. The applications that will be covered may vary from year to year but will typically include de novo whole-genome assembly and variant calling. Other applications like RNA-Seq, ChIP-Seq, or metagenomics could also be covered.
 
 
 ## Learning outcome
 
 After completing this course, you will:
 
-* understand the differences, benefits and drawbacks of the most current high throughput sequencing (HTS) technologies, and be able to decide which platform to use in what way for the different applications of HTS
-* be able to evaluate data quality and quantity as well as perform bioinformatics analysis, both on the command-line and through web-based frameworks, with data tailored towards applications like genome assembly and variant calling
-* know the algorithms and statistical methods involved in sequence alignment, mapping, assembly and variant calling
-* understand how to apply statistical methods to analyse relationships between annotated features on genomic tracks
-* be able to report on bioinformatics analysis in such a way that the methods used and steps taken are transparent, thus enhancing reproducibility
+* understand the differences, benefits, and drawbacks of the current sequencing technologies, and be able to decide which platform to use in what way for the different applications
+* be able to evaluate sequencing data quality and quantity
+* know the tools, algorithms, and statistical methods involved in the data analysis
+* be able to perform bioinformatics analysis with data tailored towards selected applications
+* be able to report on the data analysis in such a way that the methods used and the steps taken are transparent, thus enhancing reproducibility
 * be aware of, and know to deal with, the ethical and data-sensitivity issues surrounding sequencing data derived from human subjects
-* be able to critically evaluate, validate and judge the results of bioinformatics analysis of HTS experiments in terms of underlying assumptions, reliability, sensitivity and specificity, and evaluate their value for answering biological questions
+* be able to critically evaluate, validate and judge the results of bioinformatics analysis of sequencing experiments in terms of underlying assumptions, reliability, sensitivity and specificity, and evaluate their value for answering biological questions
 
 
 ## Location
 
-The course will be held at the UiO campus, in seminar room 2269 *Python*, on floor 2 in the northern end of
+The course will be held at the UiO campus, in seminar room 2269 *Python* (**not confirmed**), on floor 2 in the northern end of
 [Ole-Johan Dahl's building](https://www.uio.no/english/about/getting-around/areas/gaustad/ga06/), Gaustadalléen 23B, Oslo.
 
 
-## Schedule
+## Schedule (preliminary)
 
-Lectures and practical sessions will be held Monday to Friday, 17th to 28th of October, 2022 (weeks 42 and 43). Course days are usually from 09.15 to 17.00. There will be a lunch break each day from 12.00 to 13.15.
+Lectures and practical sessions will be held Monday to Friday, October 28th to November 8th, 2024 (weeks 44 and 45) (**not confirmed**). Course days are usually from 09.15 to 17.00. There will be a lunch break each day from 12.00 to 13.15.
 
-In the table below, teachers are indicated with their initials and listed in the following section. Teaching assistant Ghadi al Hajj will help during the exercises.
+In the table below, teachers are indicated with their initials and listed in the following section. A teaching assistant will help during the exercises.
 
 | Time          | Session (Teacher) |
 | ------------- | ----------------- |
-| **Week 42**
-| **Mon 17 Oct**
-| 09.15 - 09.30 | [Welcome and practical information](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.1%20-%20Welcome%20and%20practical%20information%20-%20TR.pdf) (TR)
-| 09.30 - 12.00 | Fundamentals of Molecular Biology, [part 1](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.2%20-%20Fundamentals%20of%20molecular%20biology%20part%201%20-%20RS.pdf), [part 2](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.3%20-%20Fundamentals%20of%20molecular%20biology%20part%202%20-%20RS.pdf), [part 3](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.4%20-%20Fundamentals%20of%20molecular%20biology%20part%203%20-%20RS.pdf) (RS)
+| **Week 44**
+| **Mon 28 Oct**
+| 09.15 - 09.30 | Welcome and practical information (TR)
+| 09.30 - 12.00 | Fundamentals of Molecular Biology (RS)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 14.00 | [Sequencing and applications](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.5%20-%20Sequencing%20and%20applications%20-%20TR.pdf) (TR)
-| 14.15 - 15.00 | [Illumina sequencing technology](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.6%20-%20Illumina%20sequencing%20technology%20-%20AS.pdf) (AS)
-| 15.15 - 16.00 | [PacBio sequencing technology](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2001.7%20-%20PacBio%20sequencing%20technology%20-%20ATK.pdf) (ATK)
-| **Tue 18 Oct**
-| 09.15 - 10.00 | [Oxford Nanopore sequencing technology](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.1%20-%20Oxford%20Nanopore%20sequencing%20technology%20-%20TH.pdf) (Zoom) (TH)
-| 10.15 - 12.00 | [Library preparation](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.2%20-%20Library%20preparation%20-%20AS.pdf), for all you seq [DNA](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/for-all-you-seq-dna.pdf), [RNA](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/for-all-you-seq-rna.pdf), and [Experimental design](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.3%20-%20Experimental%20design%20-%20AS.pdf) (AS)
+| 13.15 - 14.00 | Sequencing and applications (TR)
+| 14.15 - 15.00 | Illumina sequencing technology (AS)
+| 15.15 - 16.00 | PacBio sequencing technology (ATK)
+| **Tue 29 Oct**
+| 09.15 - 10.00 | Oxford Nanopore sequencing technology (TH)
+| 10.15 - 12.00 | Library preparation (AS)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 15.00 | [Basic file formats](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.4%20-%20Basic%20file%20formats%20-%20AS.pdf) (AS)
-| 15.15 - 17.00 | [Access to computational resources](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2002.5%20-%20Access%20to%20computational%20resources%20-%20TR.pdf) (TR)
-| **Wed 19 Oct**
-| 09.15 - 12.00 | [Data preprocessing](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2003.1%20-%20Data%20preprocessing%20-%20AS.pdf), and accompanying [script](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day3_1_DataPreprocessing_script.txt) (AS)
+| 13.15 - 15.00 | Basic file formats (AS)
+| 15.15 - 17.00 | Access to computational resources (TR)
+| **Wed 30 Oct**
+| 09.15 - 12.00 | Data preprocessing (AS)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 17.00 | Break, no teaching
-| **Thu 20 Oct**
-| 09.15 - 12.00 | *De novo* genome assembly, [part 1](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2004.1%20-%20De%20novo%20genome%20assembly%20-%20KL.pdf), [part 2](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2004.2%20-%20SPAdes%20and%20Velvet%20assemblers%20-%20KL.pdf), [part 3](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2005.1%20-%20QUAST%20-%20KL.pdf). [Course material on GitHub](https://github.com/karinlag/BIOS9000/tree/2022) (KL)
+| **Thu 31 Oct**
+| 09.15 - 12.00 | *De novo* genome assembly (not confirmed)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 17.00 | *De novo* genome assembly, continued (KL)
-| 19.00 - 22.00 | Dinner at restaurant Olivia Tjuvholmen
-| **Fri 21 Oct**
-| 09.15 - 12.00 | *De novo* genome assembly, continued (KL)
+| 13.15 - 17.00 | *De novo* genome assembly, continued
+| 19.00 - 22.00 | Dinner at restaurant
+| **Fri 1 Nov**
+| 09.15 - 12.00 | *De novo* genome assembly, continued
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 17.00 | *De novo* genome assembly, continued (KL)
+| 13.15 - 17.00 | *De novo* genome assembly, continued
 | &nbsp; | |
-| **Week 43**
-| **Mon 24 Oct**
-| 09.15 - 12.00 | [Introduction to variant calling](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2006.1%20-%20Introduction%20to%20variant%20calling%20-%20BS.pdf), [walrus mitochondrial genome exercise](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Exercise_walrus_mt_genome_SNP_Calling.pdf) (BS)
+| **Week 45**
+| **Mon 4 Nov**
+| 09.15 - 12.00 | Introduction to variant calling (BS)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 15.00 | Variant calling in general, continued (BS)
-| 15.15 - 17.00 | Human germline variant calling: [lecture](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2006.2%20-%20Human%20variant%20calling%20-%20YS.pdf), [exercise](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Procedure.txt) (YS)
-| **Tue 25 Oct**
+| 15.15 - 17.00 | Human germline variant calling (YS)
+| **Tue 5 Nov**
 | 09.15 - 12.00 | Human germline variant calling, continued (YS)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 16.00 | [Somatic variant calling and interpretation in the context of cancer](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2007.1%20-%20Somatic%20variant%20calling%20-%20SN.pdf) (SN)
-| **Wed 26 Oct**
-| 09.15 - 12.00 | Statistical genomics: [lecture](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2008.1%20-%20Statistical%20genomics%20-%20IG.pdf), [exercises](https://github.com/uio-bmi/statistical_genomics_exercises) (IG)
+| 13.15 - 16.00 | Somatic variant calling and interpretation in the context of cancer (SN)
+| **Wed 6 Nov**
+| 09.15 - 12.00 | TBA
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 17.00 | Statistical genomics, continued (IG)
-| **Thu 27 Oct**
-| 09.15 - 12.00 | Statistical genomics, continued (IG)
+| 13.15 - 17.00 | TBA
+| **Thu 7 Nov**
+| 09.15 - 12.00 | Transcriptomics (RS)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 16.00 | Cancelled: ~~Small RNA transcriptomics: [lecture](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2009.1%20-%20RNA%20transcriptomics%20lecture%20-%20TBR.pdf), [practicals](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2009.2%20-%20RNA%20transcriptomics%20practicals%20-%20TBR.pdf) (TBR)~~
-| 16.15 - 17.00 | Cancelled (moved to Friday): ~~Pizza on campus~~
-| **Fri 28 Oct**
-| 09.15 - 12.00 | [Machine learning in computational biology](https://github.com/uio-bmi/IN-BIOSx000/raw/2022/Lectures/Day%2010.1%20-%20Machine%20learning%20in%20computational%20biology%20-%20MP.pdf) (MP)
+| 13.15 - 17.00 | Small RNA transcriptomics (TBR)
+| **Fri 8 Nov**
+| 09.15 - 12.00 | Machine learning in computational biology (MP)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 16.00 | Machine learning in computational biology, continued (MP)
 | 16.00 - 16.15 | Exam info and course evaluation (TR)
 | 16.15 - 17.00 | Pizza on campus
 | &nbsp; | |
 | **Week 48**
-| **Thu 1 Dec**
+| **Thu 12 Dec**
 | 09.15 - 15.00 | Oral presentation and exam
 | 17.00 - 19.00 | Written exam
-| **Fri 2 Dec**
+| **Fri 13 Dec**
 | 09.15 - 15.00 | Oral presentation and exam
 
+[//]: # (This may be the most platform independent comment)
 
 ## Teachers
 
@@ -120,11 +119,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | AS       | Arvind Sundaram         | Norwegian Sequencing Centre, Oslo University Hospital
 | ATK      | Ave Tooming-Klunderud   | CEES, Dept. of Biosciences, University of Oslo
 | BS       | Bastiaan Star           | CEES, Dept. of Biosciences, University of Oslo
-| GAH      | Ghadi al Hajj           | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
-| IG       | Ivar Grytten            | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
-| KL       | Karin Lagesen           | Section for Epidemiology, Norwegian Veterinary Institute
 | MP       | Milena Pavlovic         | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
-| RB       | Ragna Breines           | NORBIS, Dept. of Informatics, University of Bergen
 | RS       | Rolf Skotheim           | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
 | SN       | Sigve Nakken            | Oslo University Hospital
 | TH       | Thomas Haverkamp        | Section for Epidemiology, Norwegian Veterinary Institute
@@ -138,20 +133,15 @@ In the table below, teachers are indicated with their initials and listed in the
 * Torbjørn Rognes (Course coordinator), email torognes@ifi.uio.no
 
 
-## Mattermost channel
-
-There is a dedicated [channel on Mattermost for the course](https://mattermost.uio.no/ifi-undervisning/channels/inbios5000). All participants with a UiO account should have access. It may be used to share information between participants during the course.
-
-
 ## Meals
 
 Coffee and tea will be freely available each morning in the seminar room.
 
-For lunch, we recommend the canteen in the other end of the building, [Ole-Johan spiseri](https://www.sio.no/en/food-and-beverage/our-canteens-and-coffeeshops/informatikk-kafeen), which serves a nice selection of warm and cold dishes.
+For lunch, we recommend the canteen in the other end of the building, [Ole-Johan spiseri](https://www.sio.no/en/food-and-beverage/spisesteder/ole-johan-eatery), which serves a nice selection of warm and cold dishes.
 
-We are organizing a free dinner for all course participants at restaurant [Olivia Tjuvholmen](https://oliviarestauranter.no/restaurant/tjuvholmen/), Bryggegangen 4, in the centre of Oslo, on October 20th at 19.00. The three course menu [Menú Piccolo](https://oliviarestauranter.no/selskapsmenyer-host/) will be served with a selection of Italian food to share. Non-alcoholic drinks are included, but other drinks must be paid individually. Please indicate if you would like to participate and list any food allergies in the form distributed by email.
+We are organizing a free dinner for all course participants at a restaurant some day during the course.
 
-We have also ordered pizza for Friday October 28th. It will be served in the areas right outside the seminar room after the lectures are finished.
+We will also ordered pizza on afternoon.
 
 
 ## Requirements
@@ -181,8 +171,8 @@ The curriculum consists of a set of scientific articles. The exam will contain q
 
 The exam will be a combination of the following two parts:
 
- * an *individual* home project combined with an oral exam presentation of the home project followed by questioning / discussion on December 1st and 2nd. Students will present their work to 2-3 teachers, followed by some questioning (approx 20 minutes in total for each student). This home exam will be handed out to all participants after the lectures. The oral exams will be held in room 3118 Awk in Ole-Johan Dahl's building according to the schedule communicated by email.
- * a 2 hour written digital exam at Silurveien 2 on December 1st 2022 from 17.00 to 19.00.
+ * an *individual* home project combined with an oral exam presentation of the home project followed by questioning / discussion on December 12th and 13th (not confirmed). Students will present their work to 2-3 teachers, followed by some questioning (approx 20 minutes in total for each student). This home exam will be handed out to all participants after the lectures.
+ * a 2 hour written digital exam at Silurveien 2 on December 12th or 13th (date not confirmed)
 
 The exams are graded on a pass/fail scale.
 
@@ -208,4 +198,4 @@ List of further suggested papers, can be found [here](Curriculum/index.md).
 
 ## Previous editions of the course
 
-Note: For previous editions of the IN-BIOS5000 / IN-BIOS9000 course please see the [2018](https://in-biosx000.readthedocs.io/en/2018/) or [2020](https://in-biosx000.readthedocs.io/en/2020/) websites. The course was not held in 2019 and 2021. For previous editions of the INF-BIO9121 and INF-BIO5121 course, please see the [2013](https://wiki.uio.no/projects/clsi/index.php/INF-BIOX120_H13), [2014](https://wiki.uio.no/projects/clsi/index.php/INF-BIOX121_H14), [2015](https://inf-biox121.readthedocs.io/en/2015/), [2016](https://inf-biox121.readthedocs.io/en/2016/) or [2017](https://inf-biox121.readthedocs.io/en/2017/) website. The 2012 version did not have a dedicated available website.
+Note: For previous editions of the IN-BIOS5000 / IN-BIOS9000 course please see the [2018](https://in-biosx000.readthedocs.io/en/2018/), [2020](https://in-biosx000.readthedocs.io/en/2020/), or [2022](https://in-biosx000.readthedocs.io/en/2022/) websites. The course was not held in 2019 and 2021. For previous editions of the INF-BIO9121 and INF-BIO5121 course, please see the [2013](https://wiki.uio.no/projects/clsi/index.php/INF-BIOX120_H13), [2014](https://wiki.uio.no/projects/clsi/index.php/INF-BIOX121_H14), [2015](https://inf-biox121.readthedocs.io/en/2015/), [2016](https://inf-biox121.readthedocs.io/en/2016/) or [2017](https://inf-biox121.readthedocs.io/en/2017/) website. The 2012 version did not have a dedicated available website.

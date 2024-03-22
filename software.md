@@ -1,25 +1,22 @@
 # Software that will be used in the course
 
-Several software packages for general sequence handling, alignment, genome assembly, assembly quality assessment, and variant calling will be used during the course. They are available on Fox.
+Several software packages for general sequence handling, alignment, genome assembly, assembly quality assessment, and variant calling will be used during the course. They will be made available on Fox.
 
-Individual packages may be loaded with the following command (replace `BWA/0.7.17-GCCcore-11.2.0` with the name of the required module):
+Individual packages may be loaded with the following command (replace `BWA/0.7.17-GCCcore-12.2.0` with the name of the required module):
 
 ```sh
-module load BWA/0.7.17-GCCcore-11.2.0
+module load BWA/0.7.17-GCCcore-12.2.0
 ```
 
-All of these packages are part of the meta-package `IN-BIOS5000/HT-2022` that may be loaded with the following command:
-```sh
-module load IN-BIOS5000/HT-2022
-```
+All of these packages will be part of meta-package that may be loaded with a similar command.
 
-Below is a list of the packages that will be used.
+Below is a list of the packages that will be used (not updated yet):
 
 Package | Version | Kind | Module | Documentation | Source code repository
 --------|---------|------|--------|---------------|-----------------------
 assembly-stats | 0.1.4 | Python library | assembly-stats/0.1.4-foss-2021b-Python-3.9.6 | [https://pypi.org/project/assembly-stats](https://pypi.org/project/assembly-stats) | [https://github.com/MikeTrizna/assembly_stats](https://github.com/MikeTrizna/assembly_stats)
 BEDTools | 2.30.0 | Binary | BEDTools/2.30.0-GCC-11.2.0 | [https://bedtools.readthedocs.io/en/latest](https://bedtools.readthedocs.io/en/latest) | [https://github.com/arq5x/bedtools2](https://github.com/arq5x/bedtools2)
-BWA | 0.7.17 | Binary | BWA/0.7.17-GCCcore-11.2.0 | [https://github.com/lh3/bwa](https://github.com/lh3/bwa) | [https://github.com/lh3/bwa](https://github.com/lh3/bwa)
+BWA | 0.7.17 | Binary | BWA/0.7.17-GCCcore-12.2.0 | [https://github.com/lh3/bwa](https://github.com/lh3/bwa) | [https://github.com/lh3/bwa](https://github.com/lh3/bwa)
 bwa-mem2 | 2.2.1 | Binary | bwa-mem2/2.2.1 | [https://github.com/bwa-mem2/bwa-mem2](https://github.com/bwa-mem2/bwa-mem2) | [https://github.com/bwa-mem2/bwa-mem2](https://github.com/bwa-mem2/bwa-mem2)
 EIGENSOFT | 7.2.1 | Binary | EIGENSOFT/7.2.1-foss-2021b | [https://github.com/DReichLab/EIG](https://github.com/DReichLab/EIG) |  [https://github.com/DReichLab/EIG](https://github.com/DReichLab/EIG)
 FastQC | 0.11.9 | Java | FastQC/0.11.9-Java-11 | [https://www.bioinformatics.babraham.ac.uk/projects/fastqc](https://www.bioinformatics.babraham.ac.uk/projects/fastqc) | [https://github.com/s-andrews/FastQC](https://github.com/s-andrews/FastQC)
@@ -36,4 +33,3 @@ Trimmomatic | 0.39 | Java | Trimmomatic/0.39-Java-11 | [http://www.usadellab.org
 Unicycler | 0.5.0 | Binary | Unicycler/0.5.0-gompi-2021b | [https://github.com/rrwick/Unicycler](https://github.com/rrwick/Unicycler) | [https://github.com/rrwick/Unicycler](https://github.com/rrwick/Unicycler)
 VCFtools | 0.1.16 | Binary | VCFtools/0.1.16-GCC-11.2.0 | [https://vcftools.github.io/index.html](https://vcftools.github.io/index.html) | [https://github.com/vcftools/vcftools](https://github.com/vcftools/vcftools)
 Velvet | 1.2.10 | Binary | Velvet/1.2.10-GCC-11.2.0-mt-kmer_191 | [https://github.com/dzerbino/velvet](https://github.com/dzerbino/velvet) | [https://github.com/dzerbino/velvet](https://github.com/dzerbino/velvet)
-
