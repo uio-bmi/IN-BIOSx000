@@ -89,9 +89,9 @@ In the table below, teachers are indicated with their initials and listed in the
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 16.00 | Somatic variant calling and interpretation in the context of cancer (SN)
 | **Wed 6 Nov**
-| 09.15 - 12.00 | TBA
+| 09.15 - 12.00 | Microbiome analysis (NKN)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 17.00 | TBA
+| 13.15 - 17.00 | Multi-omic network analysis (NKN)
 | **Thu 7 Nov**
 | 09.15 - 12.00 | Transcriptomics (RS)
 | 12.00 - 13.15 | Lunch break
@@ -110,7 +110,6 @@ In the table below, teachers are indicated with their initials and listed in the
 | **Fri 13 Dec**
 | 09.15 - 15.00 | Oral presentation and exam
 
-[//]: # (This may be the most platform independent comment)
 
 ## Teachers
 
@@ -120,6 +119,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | ATK      | Ave Tooming-Klunderud   | CEES, Dept. of Biosciences, University of Oslo
 | BS       | Bastiaan Star           | CEES, Dept. of Biosciences, University of Oslo
 | MP       | Milena Pavlovic         | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
+| NKN      | Nolan Keith Newman      | Centre for Molecular Medicine Norway (NCMM), University of Oslo
 | RS       | Rolf Skotheim           | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
 | SN       | Sigve Nakken            | Oslo University Hospital
 | TH       | Thomas Haverkamp        | Section for Epidemiology, Norwegian Veterinary Institute
@@ -141,7 +141,7 @@ For lunch, we recommend the canteen in the other end of the building, [Ole-Johan
 
 We are organizing a free dinner for all course participants at a restaurant some day during the course.
 
-We will also ordered pizza on afternoon.
+We will also order pizza one afternoon.
 
 
 ## Requirements
