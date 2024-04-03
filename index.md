@@ -69,7 +69,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 17.00 | Break, no teaching
 | **Thu 31 Oct**
-| 09.15 - 12.00 | *De novo* genome assembly (not confirmed)
+| 09.15 - 12.00 | *De novo* genome assembly (KL)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 17.00 | *De novo* genome assembly, continued
 | 19.00 - 22.00 | Dinner at restaurant
@@ -118,6 +118,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | AS       | Arvind Sundaram         | Norwegian Sequencing Centre, Oslo University Hospital
 | ATK      | Ave Tooming-Klunderud   | CEES, Dept. of Biosciences, University of Oslo
 | BS       | Bastiaan Star           | CEES, Dept. of Biosciences, University of Oslo
+| KL       | Karin Lagesen           | Section for Epidemiology, Norwegian Veterinary Institute
 | MP       | Milena Pavlovic         | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
 | NKN      | Nolan Keith Newman      | Centre for Molecular Medicine Norway (NCMM), University of Oslo
 | RS       | Rolf Skotheim           | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
