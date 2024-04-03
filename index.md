@@ -67,7 +67,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | **Wed 30 Oct**
 | 09.15 - 12.00 | Data preprocessing (AS)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 17.00 | Break, no teaching
+| 13.15 - 17.00 | TBA
 | **Thu 31 Oct**
 | 09.15 - 12.00 | *De novo* genome assembly (KL)
 | 12.00 - 13.15 | Lunch break
