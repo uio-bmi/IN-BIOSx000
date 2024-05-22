@@ -2,7 +2,7 @@
 
 ## Sequencing technologies, data analysis and applications
 
-The information below is preliminary and will be updated. In particular, the exact dates are uncertain.
+The information below is preliminary and will be updated.
 
 
 ## Introduction
@@ -38,13 +38,13 @@ After completing this course, you will:
 
 ## Location
 
-The course will be held at the UiO campus, in seminar room 2269 *Python* (**not confirmed**), on floor 2 in the northern end of
+The course will be held at the UiO campus, in seminar room 1456 *Shell*, on floor 1 in the northern part of
 [Ole-Johan Dahl's building](https://www.uio.no/english/about/getting-around/areas/gaustad/ga06/), Gaustadalléen 23B, Oslo.
 
 
 ## Schedule (preliminary)
 
-Lectures and practical sessions will be held Monday to Friday, October 28th to November 8th, 2024 (weeks 44 and 45) (**not confirmed**). Course days are usually from 09.15 to 17.00. There will be a lunch break each day from 12.00 to 13.15.
+Lectures and practical sessions will be held Monday to Friday, October 28th to November 8th, 2024 (weeks 44 and 45). Course days are usually from 09.15 to 17.00. There will be a lunch break each day from 12.00 to 13.15.
 
 In the table below, teachers are indicated with their initials and listed in the following section. A teaching assistant will help during the exercises.
 
