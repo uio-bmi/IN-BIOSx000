@@ -104,11 +104,11 @@ In the table below, teachers are indicated with their initials and listed in the
 | 16.15 - 17.00 | Pizza on campus
 | &nbsp; | |
 | **Week 50**
-| **Thu 12 Dec**
-| 09.15 - 15.00 | Oral presentation and exam
-| 17.00 - 19.00 | Written exam
-| **Fri 13 Dec**
-| 09.15 - 15.00 | Oral presentation and exam
+| **Mon 9 Dec**
+| 09.15 - 15.00 | Oral presentation and exam for MSc students
+| **Tue 10 Dec**
+| 09.15 - 15.00 | Oral presentation and exam for PhD students
+| 17.00 - 19.00 | Written exam for all
 
 
 ## Teachers
@@ -170,8 +170,8 @@ The curriculum consists of a set of scientific articles. The exam will contain q
 
 The exam will be a combination of the following two parts:
 
- * an *individual* home project combined with an oral exam presentation of the home project followed by questioning / discussion on December 12th and 13th (not confirmed). Students will present their work to 2-3 teachers, followed by some questioning (approx 20 minutes in total for each student). This home exam will be handed out to all participants after the lectures.
- * a 2 hour written digital exam at Silurveien 2 on December 12th or 13th (date not confirmed)
+ * an *individual* home project combined with an oral exam presentation of the home project followed by questioning / discussion on December 9th (MSc students) or 10th (PhD students). Students will present their work to 2-3 teachers, followed by some questioning (approx 20 minutes in total for each student). This home exam will be handed out to all participants after the lectures.
+ * a 2 hour written digital exam at Silurveien 2 on December 10th for all students.
 
 The exams are graded on a pass/fail scale.
 
