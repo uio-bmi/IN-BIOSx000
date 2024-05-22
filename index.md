@@ -8,7 +8,7 @@ The information below is preliminary and will be updated.
 ## Introduction
 
 Here you will find information about the autumn 2024 edition of the credited courses [**IN-BIOS5000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000) (MSc level) and [**IN-BIOS9000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS9000) (PhD level), on Sequencing technologies, data analysis and applications.
-The course is offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) in collaboration with contributors from Oslo University Hospital and the Norwegian Veterinary Institute.
+The course is offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) in collaboration with contributors from Oslo University Hospital, the Norwegian Veterinary Institute, and the Department of Pharmacy and the Centre for Molecular Medicine Norway (NCMM) at the University of Oslo.
 It is partially funded by the [**NORBIS, the national research school in bioinformatics, biostatistics and systems biology**](https://norbis.w.uib.no/genome-sequencing-technologies-assembly-variant-calling-and-statistical-genomics-2/).
 This course consists of two weeks of lectures and practicals, a home project with an oral exam presentation, and a digital written exam.
 
