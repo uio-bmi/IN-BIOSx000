@@ -72,7 +72,6 @@ In the table below, teachers are indicated with their initials and listed in the
 | 09.15 - 12.00 | *De novo* genome assembly (KL)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 17.00 | *De novo* genome assembly, continued
-| 19.00 - 22.00 | Dinner at restaurant
 | **Fri 1 Nov**
 | 09.15 - 12.00 | *De novo* genome assembly, continued
 | 12.00 - 13.15 | Lunch break
@@ -101,7 +100,6 @@ In the table below, teachers are indicated with their initials and listed in the
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 16.00 | Machine learning in computational biology, continued (MP)
 | 16.00 - 16.15 | Exam info and course evaluation (TR)
-| 16.15 - 17.00 | Pizza on campus
 | &nbsp; | |
 | **Week 50**
 | **Mon 9 Dec**
@@ -136,13 +134,7 @@ In the table below, teachers are indicated with their initials and listed in the
 
 ## Meals
 
-Coffee and tea will be freely available each morning in the seminar room.
-
 For lunch, we recommend the canteen in the other end of the building, [Ole-Johan eatery](https://www.sio.no/en/food-and-beverage/spisesteder/ole-johan-eatery), which serves a nice selection of warm and cold dishes.
-
-We are organizing a free dinner for all course participants at a restaurant some day during the course.
-
-We will also order pizza one afternoon.
 
 
 ## Requirements
