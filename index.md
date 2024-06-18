@@ -44,7 +44,7 @@ The course will be held at the UiO campus, in seminar room 1456 *Shell*, on floo
 
 ## Schedule (preliminary)
 
-Lectures and practical sessions will be held Monday to Friday, October 28th to November 8th, 2024 (weeks 44 and 45). Course days are usually from 09.15 to 17.00. There will be a lunch break each day from 12.00 to 13.15.
+Lectures and practical sessions will be held Monday to Friday, October 28th to November 8th, 2024 (weeks 44 and 45). Course days are usually from 09.15 to 16.00 or 17.00. There will be a lunch break each day from 12.00 to 13.15.
 
 In the table below, teachers are indicated with their initials and listed in the following section. A teaching assistant will help during the exercises.
 
@@ -62,20 +62,20 @@ In the table below, teachers are indicated with their initials and listed in the
 | 09.15 - 10.00 | Oxford Nanopore sequencing technology (TH)
 | 10.15 - 12.00 | Library preparation (AS)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 15.00 | Basic file formats (AS)
-| 15.15 - 17.00 | Access to computational resources (TR)
+| 13.15 - 14.00 | Basic file formats (AS)
+| 14.15 - 16.00 | Access to computational resources (TR)
 | **Wed 30 Oct**
 | 09.15 - 12.00 | Data preprocessing (AS)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 17.00 | TBA
+| 13.15 - 16.00 | TBA
 | **Thu 31 Oct**
 | 09.15 - 12.00 | *De novo* genome assembly (KL)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 17.00 | *De novo* genome assembly, continued
+| 13.15 - 16.00 | *De novo* genome assembly, continued
 | **Fri 1 Nov**
 | 09.15 - 12.00 | *De novo* genome assembly, continued
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 17.00 | *De novo* genome assembly, continued
+| 13.15 - 16.00 | *De novo* genome assembly, continued
 | &nbsp; | |
 | **Week 45**
 | **Mon 4 Nov**
