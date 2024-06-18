@@ -9,7 +9,7 @@ The information below is preliminary and will be updated.
 
 Here you will find information about the autumn 2024 edition of the credited courses [**IN-BIOS5000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS5000) (MSc level) and [**IN-BIOS9000**](http://www.uio.no/studier/emner/matnat/ifi/IN-BIOS9000) (PhD level), on Sequencing technologies, data analysis and applications.
 The course is offered by the Department of Informatics and the Department of Biosciences at the University of Oslo (UiO) in collaboration with contributors from Oslo University Hospital, the Norwegian Veterinary Institute, and the Department of Pharmacy and the Centre for Molecular Medicine Norway (NCMM) at the University of Oslo.
-It is partially funded by the [**NORBIS, the national research school in bioinformatics, biostatistics and systems biology**](https://norbis.w.uib.no/genome-sequencing-technologies-assembly-variant-calling-and-statistical-genomics-2/).
+It is partially funded by the [**NORBIS, the national research school in bioinformatics, biostatistics and systems biology**](https://norbis.w.uib.no/in-bios9000-genome-sequencing-technologies-assembly-variant-calling-and-statistical-genomics-2024/).
 This course consists of two weeks of lectures and practicals, a home project with an oral exam presentation, and a digital written exam.
 
 
@@ -117,13 +117,13 @@ In the table below, teachers are indicated with their initials and listed in the
 | ATK      | Ave Tooming-Klunderud   | CEES, Dept. of Biosciences, University of Oslo
 | BS       | Bastiaan Star           | CEES, Dept. of Biosciences, University of Oslo
 | KL       | Karin Lagesen           | Section for Epidemiology, Norwegian Veterinary Institute
-| MP       | Milena Pavlovic         | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
+| MP       | Milena Pavlovic         | Dept. of Informatics, University of Oslo
 | NKN      | Nolan Keith Newman      | Centre for Molecular Medicine Norway (NCMM), University of Oslo
-| RS       | Rolf Skotheim           | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
-| SN       | Sigve Nakken            | Oslo University Hospital
+| RS       | Rolf Skotheim           | Dept. of Informatics, University of Oslo
+| SN       | Sigve Nakken            | Dept. of Informatics, University of Oslo
 | TH       | Thomas Haverkamp        | Section for Epidemiology, Norwegian Veterinary Institute
-| TR       | Torbjørn Rognes         | Centre for Bioinformatics, Dept. of Informatics, University of Oslo
-| TBR      | Trine B. Rounge         | Centre for Bioinformatics, Dept. of Pharmacy, University of Oslo
+| TR       | Torbjørn Rognes         | Dept. of Informatics, University of Oslo
+| TBR      | Trine B. Rounge         | Dept. of Pharmacy, University of Oslo
 | YS       | Ying Sheng              | Dept. of Medical Genetics, Oslo University Hospital
 
 
