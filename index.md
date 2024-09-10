@@ -15,7 +15,25 @@ This course consists of two weeks of lectures and practicals, a home project wit
 
 ## Audience
 
-The course is open for master and PhD students at UiO, as well as to PhD students registered through the NORBIS national research school. To earn credits for the course, PhD students from other institutions than UiO must obtain the status as a [visiting PhD candidate](https://www.mn.uio.no/english/research/phd/educational-component/visiting-phd.html) at the UiO Faculty of Mathematics and Natural Sciences. Applications may be submitted starting 14 June 2024 and must be submitted by 1 August 2024. A maximum of 30 students in total will be admitted to the course.
+The course is open for master and PhD students at UiO, as well as to PhD students registered through the NORBIS national research school. A maximum of 30 students in total will be admitted to the course.
+
+
+## Registering for the course
+
+All students at UiO should register as usual through [Studentweb](https://studentweb.uio.no/).
+
+To earn credits for the course, PhD students from other institutions than UiO must obtain the status as a [visiting PhD candidate](https://www.mn.uio.no/english/research/phd/educational-component/visiting-phd.html) at the UiO Faculty of Mathematics and Natural Sciences. Applications may be submitted starting 14 June 2024 and must be submitted by 1 August 2024.
+
+PhD students from outside UiO [registering through NORBIS](https://norbis.w.uib.no/in-bios9000-genome-sequencing-technologies-assembly-variant-calling-and-statistical-genomics-2024/) are given an extended deadline to apply for visiting PhD candidate status. All of the following information and documents must be sent to the NORBIS course coordinator by Monday 16 September 2024 at the very latest:
+
+- Full name (surname, first name)
+- Full Norwegian birth and personal number (possibly D-number)
+- Citizenship
+- Full address (in home country)
+- Mobile telephone number
+- Email address
+- Documentation that you have been admitted to a PhD programme
+- Documentation that IN-BIOS9000 is included in the approved PhD plan. It should be sufficient for the administration or a supervisor at your home institution (the university at which you have been admitted) to confirm this with a letter/email.
 
 
 ## Course content
@@ -71,17 +89,18 @@ In the table below, teachers are indicated with their initials and listed in the
 | **Thu 31 Oct**
 | 09.15 - 12.00 | *De novo* genome assembly (KL)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 16.00 | *De novo* genome assembly, continued
+| 13.15 - 16.00 | *De novo* genome assembly, continued (KL)
+| 19.00 - 22.00 | Dinner at a restaurant
 | **Fri 1 Nov**
-| 09.15 - 12.00 | *De novo* genome assembly, continued
+| 09.15 - 12.00 | *De novo* genome assembly, continued (KL)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 16.00 | *De novo* genome assembly, continued
+| 13.15 - 16.00 | *De novo* genome assembly, continued (KL)
 | &nbsp; | |
 | **Week 45**
 | **Mon 4 Nov**
 | 09.15 - 12.00 | Introduction to variant calling (BS)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 15.00 | Variant calling in general, continued (BS)
+| 13.15 - 15.00 | Introduction to variant calling, continued (BS)
 | 15.15 - 17.00 | Human germline variant calling (YS)
 | **Tue 5 Nov**
 | 09.15 - 12.00 | Human germline variant calling, continued (YS)
@@ -100,6 +119,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 16.00 | Machine learning in computational biology, continued (MP)
 | 16.00 - 16.15 | Exam info and course evaluation (TR)
+| 16.15 - 17.00 | Pizza on campus
 | &nbsp; | |
 | **Week 50**
 | **Mon 9 Dec**
@@ -134,8 +154,13 @@ In the table below, teachers are indicated with their initials and listed in the
 
 ## Meals
 
+Coffee and tea will be freely available each morning in the seminar room.
+
 For lunch, we recommend the canteen in the other end of the building, [Ole-Johan eatery](https://www.sio.no/en/food-and-beverage/spisesteder/ole-johan-eatery), which serves a nice selection of warm and cold dishes.
 
+We are organizing a free dinner for all course participants at a restaurant some day during the course.
+
+We will also order pizza one afternoon.
 
 ## Requirements
 
@@ -154,7 +179,7 @@ If you are struggling with anything of the above, you must contact the course co
 
 
 ## Curriculum and suggested reading
- 
+
 The curriculum consists of a set of scientific articles. The exam will contain questions on the material presented in these papers on the material covered during the course. Specific details of the curriculum, and a list of further suggested papers, can be found [here](Curriculum/index.md).
 
 
