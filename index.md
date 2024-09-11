@@ -85,7 +85,8 @@ In the table below, teachers are indicated with their initials and listed in the
 | **Wed 30 Oct**
 | 09.15 - 12.00 | Data preprocessing (AS)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 16.00 | Analysis pipelines and containers (AS)
+| 13.15 - 15.00 | Introduction to containers and analysis pipelines with Nextflow (AS)
+| 15.15 - 16.00 | Introduction to Snakemake (EEB)
 | **Thu 31 Oct**
 | 09.15 - 12.00 | *De novo* genome assembly (KL)
 | 12.00 - 13.15 | Lunch break
@@ -136,6 +137,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | AS       | Arvind Sundaram         | Norwegian Sequencing Centre, Oslo University Hospital
 | ATK      | Ave Tooming-Klunderud   | CEES, Dept. of Biosciences, University of Oslo
 | BS       | Bastiaan Star           | CEES, Dept. of Biosciences, University of Oslo
+| EEB      | Einar E. Birkeland      | Dept. of Informatics / Pharmacy, University of Oslo
 | KL       | Karin Lagesen           | Section for Epidemiology, Norwegian Veterinary Institute
 | MP       | Milena Pavlovic         | Dept. of Informatics, University of Oslo
 | NKN      | Nolan Keith Newman      | Centre for Molecular Medicine Norway (NCMM), University of Oslo
