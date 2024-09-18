@@ -13,7 +13,7 @@ All of these packages will be part of meta-package that may be loaded with a sim
 Below is a list of the packages that will be used (not updated yet):
 
 Fox | Package | Version | Kind | Module | Documentation | Source code repository
---------|---------|------|--------|---------------|-----------------------
+----|---------|---------|------|--------|---------------|-----------------------
 No  | assembly-stats | 0.1.4 | Python library | assembly-stats/0.1.4-foss-2021b-Python-3.9.6 | [https://pypi.org/project/assembly-stats](https://pypi.org/project/assembly-stats) | [https://github.com/MikeTrizna/assembly_stats](https://github.com/MikeTrizna/assembly_stats)
 No  | BEDTools | 2.30.0 | Binary | - | [https://bedtools.readthedocs.io/en/latest](https://bedtools.readthedocs.io/en/latest) | [https://github.com/arq5x/bedtools2](https://github.com/arq5x/bedtools2)
 Yes | BWA | 0.7.17 | Binary | BWA/0.7.17-GCCcore-12.2.0 | [https://github.com/lh3/bwa](https://github.com/lh3/bwa) | [https://github.com/lh3/bwa](https://github.com/lh3/bwa)
