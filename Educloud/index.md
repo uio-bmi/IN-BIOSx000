@@ -32,9 +32,9 @@ You will first be asked for the One-Time code (6 digits) and then for the passwo
 
 * [Reset password](https://research.educloud.no/password_reset) You can login with your digital ID to get a new password.
 
-* [Reset 2FA](https://research.educloud.no/2fa_reset) You can login with your digital ID to get a new QR code to reset 2FA authetication.
+* [Reset 2FA](https://research.educloud.no/2fa_reset) You can login with your digital ID to get a new QR code to reset 2FA authentication.
 
-* We will have a session on the afternoon of Tuesday 18th were we make sure that everyone is able to log in to Fox. 
+* We will have a session on the afternoon of Tuesday 29th were we make sure that everyone is able to log in to Fox.
 
 
 ### Basic info
@@ -47,7 +47,7 @@ You will first be asked for the One-Time code (6 digits) and then for the passwo
 
 * Your home directory is in `/fp/homes01/u01/ec-username` (replace `username` with your own). This is were each student should store their own files.
 
-* You'll have access to the special partitions `ifi_bigmem` (large memory node) and `ìfi_accel` (node with GPUs) of the compute nodes if required. 
+* You'll have access to the special partitions `ifi_bigmem` (large memory node) and `ìfi_accel` (node with GPUs) of the compute nodes if required.
 
 
 ### Fox documentation
