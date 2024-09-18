@@ -25,7 +25,7 @@ Yes | Flye | 2.9.1 | Binary | Flye/2.9.1-GCC-11.2.0 | [https://github.com/fender
 Yes | GATK | 4.3.0.0 | Java | GATK/4.3.0.0-GCCcore-11.3.0-Java-11 | [https://gatk.broadinstitute.org/hc/en-us](https://gatk.broadinstitute.org/hc/en-us) | [https://github.com/broadinstitute/gatk](https://github.com/broadinstitute/gatk)
 No  | MultiQC | 1.12 | Binary | - | [https://multiqc.info](https://multiqc.info) | [https://github.com/ewels/MultiQC](https://github.com/ewels/MultiQC)
 No  | Pilon | 1.24 | Java | - | [https://github.com/broadinstitute/pilon/wiki](https://github.com/broadinstitute/pilon/wiki) | [https://github.com/broadinstitute/pilon](https://github.com/broadinstitute/pilon)
-Yes | PLINK | 2.00a3.7 | Binary | PLINK/2.00a3.7-foss-2022a | [https://www.cog-genomics.org/plink/2.0](https://www.cog-genomics.org/plink/2.0) | [https://www.cog-genomics.org/plink/2.0/dev](https://www.cog-genomics.org/plink/2.0)
+Yes | PLINK | 2.00a3.7 | Binary | PLINK/2.00a3.7-foss-2022a | [https://www.cog-genomics.org/plink/2.0](https://www.cog-genomics.org/plink/2.0) | [https://www.cog-genomics.org/plink/2.0](https://www.cog-genomics.org/plink/2.0)
 No  | QUAST | 5.2.0 | Binary | - | [https://quast.sourceforge.net/docs/manual.html](https://quast.sourceforge.net/docs/manual.html) | [https://github.com/ablab/quast](https://github.com/ablab/quast)
 Yes | SAMtools | 1.17 | Binary | SAMtools/1.17-GCC-12.2.0 | [https://www.htslib.org](https://www.htslib.org) | [https://github.com/samtools/samtools](https://github.com/samtools/samtools)
 Yes | SPAdes | 3.15.5 | Binary | SPAdes/3.15.5-GCC-11.3.0 | [https://ablab.github.io/spades/](https://ablab.github.io/spades/) | [https://github.com/ablab/spades](https://github.com/ablab/spades)
