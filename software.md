@@ -25,6 +25,7 @@ Yes | Flye | 2.9.1 | Binary | Flye/2.9.1-GCC-11.2.0 | [https://github.com/fender
 Yes | GATK | 4.3.0.0 | Java | GATK/4.3.0.0-GCCcore-11.3.0-Java-11 | [https://gatk.broadinstitute.org/hc/en-us](https://gatk.broadinstitute.org/hc/en-us) | [https://github.com/broadinstitute/gatk](https://github.com/broadinstitute/gatk)
 No  | MultiQC | 1.12 | Binary | - | [https://multiqc.info](https://multiqc.info) | [https://github.com/ewels/MultiQC](https://github.com/ewels/MultiQC)
 Yes | Nextflow | 24.04.2 | Java | Nextflow/24.04.2 | [https://www.nextflow.io/docs/latest/index.html](https://www.nextflow.io/docs/latest/index.html) | [https://www.nextflow.io/docs/latest/install.html](https://www.nextflow.io/docs/latest/install.html)
+Yes | nf-core | 2.13.1 | - | nf-core/2.13.1-foss-2023b | [https://nf-co.re/docs](https://nf-co.re/docs) | [https://nf-co.re/docs/nf-core-tools/installation](https://nf-co.re/docs/nf-core-tools/installation)
 No  | Pilon | 1.24 | Java | - | [https://github.com/broadinstitute/pilon/wiki](https://github.com/broadinstitute/pilon/wiki) | [https://github.com/broadinstitute/pilon](https://github.com/broadinstitute/pilon)
 Yes | PLINK | 2.00a3.7 | Binary | PLINK/2.00a3.7-foss-2022a | [https://www.cog-genomics.org/plink/2.0](https://www.cog-genomics.org/plink/2.0) | [https://www.cog-genomics.org/plink/2.0](https://www.cog-genomics.org/plink/2.0)
 No  | QUAST | 5.2.0 | Binary | - | [https://quast.sourceforge.net/docs/manual.html](https://quast.sourceforge.net/docs/manual.html) | [https://github.com/ablab/quast](https://github.com/ablab/quast)
