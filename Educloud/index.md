@@ -14,7 +14,7 @@ The Educloud Fox cluster will be used for hands-on exercises in the course. All 
    * [Microsoft Authenticator for iOS](https://apps.apple.com/us/app/microsoft-authenticator/id983156458)
    * [Microsoft Authenticator for Android](https://play.google.com/store/apps/details?id=com.azure.authenticator)
 
-* Go to [Educloud Self Service)(https://selfservice.educloud.no/), and click 'Apply for project membership' under 'Project membership'. Login with BankID (or similar). Enter project code 'ec34' and review your personal information. To speed up processing, please notify `torognes@ifi.uio.no` by email when you have submitted the application.
+* Go to [Educloud Self Service](https://selfservice.educloud.no/), and click 'Apply for project membership' under 'Project membership'. Login with BankID (or similar). Enter project code 'ec34' and review your personal information. To speed up processing, please notify `torognes@ifi.uio.no` by email when you have submitted the application.
 
 
 ### Log in to Fox
