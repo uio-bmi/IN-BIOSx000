@@ -5,7 +5,7 @@ The Educloud Fox cluster will be used for hands-on exercises in the course. All 
 
 ### Getting access
 
-* If you do not have a Norwegian digital ID, please contact the course administrator (`torognes@ifi.uio.no`) as soon as possible. We will have to meet in person and in order to get access you will need to provide your full name, email, birthdate, passport number and country.
+* If you do not have a Norwegian digital ID, please contact the course administrator (`torognes@ifi.uio.no`) as soon as possible. We will have to meet in person and in order to get access you will need to provide your full name, email, birthdate, passport number and country. We could do this during the lunch break on Monday 28th, but please remember to have your passport number ready.
 
 * Getting access if you have a Norwegian digital ID (BankID, MinID, BuyPass, Commfides) should be easy. Follow the steps below.
 
@@ -32,7 +32,7 @@ You will first be asked for the One-Time Code (6 digits) and then for the passwo
 
 ### Problems?
 
-* If you need to reset your password or your 2FA (OTP) you can login to [Educloud Self Service](https://selfservice.educloud.no/) with BankID again and change any of them. Click 'Change password' or 'Change OTP' under 'Your Personal Data'.
+* If you need to reset your password or your 2FA (OTP) you can login to [Educloud Self Service](https://selfservice.educloud.no/) with BankID again and change any of them. Click 'Change password' or 'Change OTP' under 'Your Personal Data'. Then choose to log in with ID-porten (not Educloud).
 
 * We will have a session on the afternoon of Tuesday 29th were we make sure that everyone is able to log in to Fox.
 
