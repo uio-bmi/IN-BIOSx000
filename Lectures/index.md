@@ -7,11 +7,11 @@
 
 [Sequencing and applications (TR)](D01T1315-Sequencing_and_applications-TR-2024.pdf)
 
-[A guided tour of the (human) genome (RS)](D01T0930-20241028_I_GuidedTourOfHumGenome.pdf)
+[Fundamentals of molecular biology 1: A guided tour of the (human) genome (RS)](D01T0930-20241028_I_GuidedTourOfHumGenome.pdf)
 
-[From DNA to biological function (RS)](D01T0930-20241028_II_FromDNA2BiologicalFunction.pdf)
+[Fundamentals of molecular biology 2: From DNA to biological function (RS)](D01T0930-20241028_II_FromDNA2BiologicalFunction.pdf)
 
-[Genomics in biomedical research (RS)](D01T0930-20241028_III_GenomicsInBiomedicalResearch.pdf)
+[Fundamentals of molecular biology 3: Genomics in biomedical research (RS)](D01T0930-20241028_III_GenomicsInBiomedicalResearch.pdf)
 
 
 ###### Day 2
