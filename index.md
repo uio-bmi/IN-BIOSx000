@@ -71,7 +71,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | **Week 44**
 | **Mon 28 Oct**
 | 09.15 - 09.30 | [Welcome and practical information (TR)](Lectures/D01T0915-Welcome_and_practical_information-TR-2024.pdf)
-| 09.30 - 12.00 | Fundamentals of Molecular Biology (RS)
+| 09.30 - 12.00 | Fundamentals of Molecular Biology (RS): [A guided tour of the (human) genome](Lectures/D01T0930-20241028_I_GuidedTourOfHumGenome.pdf), [From DNA to biological function (RS)](Lectures/D01T0930-20241028_II_FromDNA2BiologicalFunction.pdf), [Genomics in biomedical research (RS)](Lectures/D01T0930-20241028_III_GenomicsInBiomedicalResearch.pdf)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 14.00 | [Sequencing and applications (TR)](Lectures/D01T1315-Sequencing_and_applications-TR-2024.pdf)
 | 14.15 - 15.00 | Illumina sequencing technology (AS)
