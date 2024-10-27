@@ -70,10 +70,10 @@ In the table below, teachers are indicated with their initials and listed in the
 | ------------- | ----------------- |
 | **Week 44**
 | **Mon 28 Oct**
-| 09.15 - 09.30 | Welcome and practical information (TR)
+| 09.15 - 09.30 | [Welcome and practical information (TR)](Lectures/D01T0915-Welcome_and_practical_information-TR-2024.pdf)
 | 09.30 - 12.00 | Fundamentals of Molecular Biology (RS)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 14.00 | Sequencing and applications (TR)
+| 13.15 - 14.00 | [Sequencing and applications (TR)](Lectures/D01T1315-Sequencing_and_applications-TR-2024.pdf)
 | 14.15 - 15.00 | Illumina sequencing technology (AS)
 | 15.15 - 16.00 | PacBio sequencing technology (ATK)
 | **Tue 29 Oct**
@@ -81,7 +81,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 10.15 - 12.00 | Library preparation (AS)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 14.00 | Basic file formats (AS)
-| 14.15 - 16.00 | Access to computational resources (TR)
+| 14.15 - 16.00 | [Access to computational resources (TR)](Lectures/D02T1415-Access_to_computational_resources-TR-2024.pdf)
 | **Wed 30 Oct**
 | 09.15 - 12.00 | Data preprocessing (AS)
 | 12.00 - 13.15 | Lunch break
