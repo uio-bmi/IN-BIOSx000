@@ -2,10 +2,10 @@
 
 Several software packages for general sequence handling, alignment, genome assembly, assembly quality assessment, and variant calling will be used during the course. They are available as software modules on Fox. The table below shows the packages that will be used.
 
-Individual packages may be loaded with the following command (replace `BWA/0.7.17-GCCcore-12.2.0` with the name of the required module):
+Individual packages may be loaded with the following command (replace `BWA/0.7.17-GCCcore-11.3.0` with the name of the required module):
 
 ```sh
-module load BWA/0.7.17-GCCcore-12.2.0
+module load BWA/0.7.17-GCCcore-11.3.0
 ```
 
 The packages indicated with a 'Yes' in the first column in the table below are part of large meta module that may be loaded all together with this command:
@@ -28,7 +28,7 @@ Meta | Package | Version | Kind | Module | Documentation | Source code repositor
 Yes | assembly-stats | 0.1.4 | Python library | assembly-stats/0.1.4-foss-2022a | [https://pypi.org/project/assembly-stats](https://pypi.org/project/assembly-stats) | [https://github.com/MikeTrizna/assembly_stats](https://github.com/MikeTrizna/assembly_stats)
 Yes | BEDTools | 2.30.0 | Binary | BEDTools/2.30.0-GCC-11.3.0 | [https://bedtools.readthedocs.io/en/latest](https://bedtools.readthedocs.io/en/latest) | [https://github.com/arq5x/bedtools2](https://github.com/arq5x/bedtools2)
 No  | BCFtools | 1.15.1 | Binary | BCFtools/1.15.1-GCC-11.3.0 | [https://samtools.github.io/bcftools/bcftools.html](https://samtools.github.io/bcftools/bcftools.html) | [https://github.com/samtools/bcftools](https://github.com/samtools/bcftools)
-No  | BWA | 0.7.17 | Binary | BWA/0.7.17-GCCcore-12.2.0 | [https://github.com/lh3/bwa](https://github.com/lh3/bwa) | [https://github.com/lh3/bwa](https://github.com/lh3/bwa)
+Yes  | BWA | 0.7.17 | Binary | BWA/0.7.17-GCCcore-11.3.0 | [https://github.com/lh3/bwa](https://github.com/lh3/bwa) | [https://github.com/lh3/bwa](https://github.com/lh3/bwa)
 Yes | EIGENSOFT | 7.2.1 | Binary | EIGENSOFT/7.2.1-foss-2022a | [https://github.com/DReichLab/EIG](https://github.com/DReichLab/EIG) |  [https://github.com/DReichLab/EIG](https://github.com/DReichLab/EIG)
 Yes | FastQC | 0.11.9 | Java | FastQC/0.11.9-Java-11 | [https://www.bioinformatics.babraham.ac.uk/projects/fastqc](https://www.bioinformatics.babraham.ac.uk/projects/fastqc) | [https://github.com/s-andrews/FastQC](https://github.com/s-andrews/FastQC)
 Yes | FASTX-Toolkit | 0.0.14 | Binary | FASTX-Toolkit/0.0.14-GCC-11.3.0 | [https://github.com/agordon/fastx_toolkit](https://github.com/agordon/fastx_toolkit) | [https://github.com/agordon/fastx_toolkit](https://github.com/agordon/fastx_toolkit)
