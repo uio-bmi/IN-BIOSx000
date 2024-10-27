@@ -64,7 +64,7 @@ The course will be held at the UiO campus, in seminar room 1456 *Shell*, on floo
 
 Lectures and practical sessions will be held Monday to Friday, October 28th to November 8th, 2024 (weeks 44 and 45). Course days are usually from 09.15 to 16.00 or 17.00. There will be a lunch break each day from 12.00 to 13.15.
 
-In the table below, teachers are indicated with their initials and listed in the following section. A teaching assistant will help during the exercises.
+In the table below, teachers are indicated with their initials and listed in the following section.
 
 | Time          | Session (Teacher) |
 | ------------- | ----------------- |
