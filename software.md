@@ -14,11 +14,9 @@ The packages indicated with a 'Yes' in the first column in the table below are p
 module load IN-BIOS5000/HT-2024
 ```
 
-The BWA and SAMtools modules can be loaded together simultaneously, but not at the same time as the other modules.
+The Flye, Velvet, MultiQC, and Unicycler modules can be loaded together simultaneously, but not at the same time as other modules.
 
-The Flye, Velvet, MultiQC, and Unicycler modules can also be loaded together simultaneously, but not at the same time as the other modules.
-
-The nf-core module can not be loaded at the same time as the other modules.
+The SAMtools and nf-core modules can not be loaded at the same time as other modules.
 
 You may need to unload all or some modules in order to load other modules. All modules may be unloaded with the `module purge` command, and individual modules may be unloaded with the `module unload` command.
 
