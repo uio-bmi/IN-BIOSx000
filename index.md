@@ -74,7 +74,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 09.30 - 12.00 | Fundamentals of Molecular Biology (RS):<br/>[A guided tour of the (human) genome](Lectures/D01T0930-20241028_I_GuidedTourOfHumGenome.pdf)<br/>[From DNA to biological function](Lectures/D01T0930-20241028_II_FromDNA2BiologicalFunction.pdf)<br/>[Genomics in biomedical research](Lectures/D01T0930-20241028_III_GenomicsInBiomedicalResearch.pdf)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 14.00 | [Sequencing and applications (TR)](Lectures/D01T1315-Sequencing_and_applications-TR-2024.pdf)
-| 14.15 - 15.00 | [Illumina sequencing technology (AS)](Lectures/D03T0915-Data-processing-AS.pdf)
+| 14.15 - 15.00 | [Illumina sequencing technology (AS)](Lectures/D01T1415-Illumina-AS.pdf)
 | 15.15 - 16.00 | [PacBio sequencing technology (ATK)](Lectures/D01T1515-241028_IN_BIOSx000_ATK.pdf)
 | **Tue 29 Oct**
 | 09.15 - 10.00 | Oxford Nanopore sequencing technology (TH)
