@@ -13,13 +13,29 @@
 
 [Fundamentals of molecular biology 3: Genomics in biomedical research (RS)](D01T0930-20241028_III_GenomicsInBiomedicalResearch.pdf)
 
+[Illumina sequencing technology (AS)](D01T1415-Illumina-AS.pdf)
+
+[PacBio sequencing technology (ATK)](D01T1515-241028_IN_BIOSx000_ATK.pdf)
+
 
 ###### Day 2
+
+Oxford Nanopore sequencing technology (TH)
+
+[Library preparation (AS)](D02T1015-Library-preparation-AS.pdf)
+
+[Experimental design (AS)](D02T1115-Experimental-design-AS.pdf)
+
+[Basic file formats (AS)](D02T1315-Basic-file-formats-AS.pdf)
 
 [Access to computational resources (TR)](D02T1415-Access_to_computational_resources-TR-2024.pdf)
 
 
 ###### Day 3
+
+[Data processing (AS)](D03T0915-Data-processing-AS.pdf)
+
+...
 
 ###### Day 4
 
