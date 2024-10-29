@@ -96,7 +96,6 @@ In the table below, teachers are indicated with their initials and listed in the
 | 09.15 - 12.00 | *De novo* genome assembly, continued (KL)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 16.00 | *De novo* genome assembly, continued (KL)
-| 16.00 - 17.00 | Pizza on campus
 | &nbsp; | |
 | **Week 45**
 | **Mon 4 Nov**
