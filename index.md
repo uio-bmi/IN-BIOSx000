@@ -112,7 +112,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 17.00 | Multi-omic network analysis (NKN)
 | **Thu 7 Nov**
-| 09.15 - 12.00 | Transcriptomics (RS)
+| 09.15 - 12.00 | TBA
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 17.00 | Small RNA transcriptomics (TBR)
 | **Fri 8 Nov**
