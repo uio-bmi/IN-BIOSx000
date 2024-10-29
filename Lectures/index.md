@@ -20,7 +20,7 @@
 
 ###### Day 2
 
-Oxford Nanopore sequencing technology (TH)
+[Introduction to Nanopore sequencing (TH)](D02T0915-20241029-Introduction_to_Nanopore_sequencing.pdf)
 
 [Library preparation (AS)](D02T1015-Library-preparation-AS.pdf)
 

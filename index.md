@@ -77,7 +77,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 14.15 - 15.00 | [Illumina sequencing technology (AS)](Lectures/D01T1415-Illumina-AS.pdf)
 | 15.15 - 16.00 | [PacBio sequencing technology (ATK)](Lectures/D01T1515-241028_IN_BIOSx000_ATK.pdf)
 | **Tue 29 Oct**
-| 09.15 - 10.00 | Oxford Nanopore sequencing technology (TH)
+| 09.15 - 10.00 | [Introduction to Nanopore sequencing (TH)](Lectures/D02T0915-20241029-Introduction_to_Nanopore_sequencing.pdf)
 | 10.15 - 11.00 | [Library preparation (AS)](Lectures/D02T1015-Library-preparation-AS.pdf)
 | 11.15 - 12.00 | [Experimental design (AS)](Lectures/D02T1115-Experimental-design-AS.pdf)
 | 12.00 - 13.15 | Lunch break
