@@ -33,7 +33,9 @@
 
 ###### Day 3
 
-[Data processing (AS)](D03T0915-Data-processing-AS.pdf)
+[Data preprocessing (AS)](D03T0915-Data-processing-AS.pdf)
+
+[Data preprocessing - Hands-on (AS)](D03T0915-Data_preprocessing-AS-handson.txt)
 
 ...
 

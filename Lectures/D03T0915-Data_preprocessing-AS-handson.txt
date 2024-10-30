@@ -1,0 +1,100 @@
+### In this script, replace "ec-USERNAME" to your fox login username
+
+####################################################################
+
+# Login to FOX
+$ ssh ec-USERNAME@fox.educloud.no
+
+# In Fox, login to the interactive node
+$ ssh int-1
+# You can also use int-2, int-3 and int-4 instead of int-1
+
+# Move to your home directory
+$ cd 
+$ pwd
+# This should show something similar to /fp/homes01/u01/ec-USERNAME/
+
+# Create a folder for the course
+$ mkdir in-biosx000
+
+# Create a folder for preprocessing within the above folder for this hands-on session
+$ mkdir in-biosx000/preprocessing
+
+# Move there
+$ cd in-biosx000/preprocessing/
+$ pwd
+# This should show something similar to /fp/homes01/u01/ec-USERNAME/in-biosx000/preprocessing/
+
+# Copy the data (files and folders) necessary for this session
+$ rsync -rauPW /projects/ec34/in-biosx000/preprocessing/* .
+$ ls
+# This should list the following 8 files and 2 folders
+## Arabidopsis_sample1.fq.gz
+## Arabidopsis_sample2.fq.gz
+## Arabidopsis_sample3.fq.gz
+## Arabidopsis_sample4.fq.gz
+## SalmoSalar_RNA_R1.fastq.gz
+## SalmoSalar_RNA_R2.fastq.gz
+## SRR2584863_250k_R1.fq.gz
+## SRR2584863_250k_R2.fq.gz
+## adapters/
+## extra/
+
+# Load relevant modules - FastQC, Trimmomatic, MultiQC and FASTX toolkit
+$ module load FastQC/0.11.9-Java-11
+$ module load Trimmomatic/0.39-Java-11
+$ module load MultiQC/1.12-foss-2021b
+$ module load FASTX-Toolkit/0.0.14-GCC-11.3.0
+
+# QC on raw data
+$ fastqc -t 8 *gz
+
+# Create a folder and move FastQC outputs
+$ mkdir raw_data_QC
+$ mv *zip *html raw_data_QC/
+
+# Move into the folder and run MultiQC
+$ cd raw_data_QC
+$ multiqc -m fastqc .
+
+# Go one level up for trimmomatic session
+$ cd ..
+$ pwd
+# This should show something similar to /fp/homes01/u01/ec-USERNAME/in-biosx000/preprocessing/
+
+# Perform cleanup using trimmomatic (single end data)
+$ java -jar $EBROOTTRIMMOMATIC/trimmomatic-0.39.jar SE -phred33 Arabidopsis_sample1.fq.gz Arabidopsis_sample1_clean.fq.gz ILLUMINACLIP:adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+$ java -jar $EBROOTTRIMMOMATIC/trimmomatic-0.39.jar SE -phred33 Arabidopsis_sample2.fq.gz Arabidopsis_sample2_clean.fq.gz ILLUMINACLIP:adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+$ java -jar $EBROOTTRIMMOMATIC/trimmomatic-0.39.jar SE -phred33 Arabidopsis_sample3.fq.gz Arabidopsis_sample3_clean.fq.gz ILLUMINACLIP:adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+$ java -jar $EBROOTTRIMMOMATIC/trimmomatic-0.39.jar SE -phred33 Arabidopsis_sample4.fq.gz Arabidopsis_sample4_clean.fq.gz ILLUMINACLIP:adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+
+# Perform cleanup using trimmomatic (paired end data)
+$ java -jar $EBROOTTRIMMOMATIC/trimmomatic-0.39.jar PE -phred33 SRR2584863_250k_R1.fq.gz SRR2584863_250k_R2.fq.gz SRR2584863_250k_clean_R1.fq.gz SRR2584863_250k_unpair_R1.fq.gz SRR2584863_250k_clean_R2.fq.gz SRR2584863_250k_unpair_R2.fq.gz ILLUMINACLIP:adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+$ java -jar $EBROOTTRIMMOMATIC/trimmomatic-0.39.jar PE -phred33 SalmoSalar_RNA_R1.fastq.gz SalmoSalar_RNA_R2.fastq.gz SalmoSalar_RNA_clean_R1.fq.gz SalmoSalar_RNA_unpair_R1.fq.gz SalmoSalar_RNA_clean_R2.fq.gz SalmoSalar_RNA_unpair_R2.fq.gz ILLUMINACLIP:adapters/TruSeq3-PE-2.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+
+# QC on clean data (we are ignoring the singleton "unpaired" files)
+$ fastqc -t 8 *clean*
+
+# Create a folder and move FastQC outputs
+$ mkdir clean_data_QC
+$ mv *zip *html clean_data_QC/
+
+# Move into the folder and run MultiQC
+$ cd clean_data_QC
+$ multiqc -m fastqc .
+
+####################################################################
+
+# Try to use FASTX-toolkit (refer to your homepage on the internet) tools to manipulate and vislualise fastq files
+
+####################################################################
+
+## Transfer the two folders - raw_data_QC and clean_data_QC to your laptop to view the html files
+
+# From your Laptop and NOT within FOX. You can use "scp -r" instead of "rsync -rauPW" to copy if you do not have rsync available on your laptop
+$ rsync -rauPW ec-USERNAME@fox.educloud.no:/fp/homes01/u01/ec-USERNAME/in-biosx000/preprocessing/raw_data_QC .
+$ rsync -rauPW ec-USERNAME@fox.educloud.no:/fp/homes01/u01/ec-USERNAME/in-biosx000/preprocessing/clean_data_QC .
+
+# Explore the HTML files from FastQC output and HTML files from MultiQC output
+
+####################################################################

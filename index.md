@@ -84,7 +84,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 13.15 - 14.00 | [Basic file formats (AS)](Lectures/D02T1315-Basic-file-formats-AS.pdf)
 | 14.15 - 16.00 | [Access to computational resources (TR)](Lectures/D02T1415-Access_to_computational_resources-TR-2024.pdf)
 | **Wed 30 Oct**
-| 09.15 - 12.00 | [Data preprocessing (AS)](Lectures/D03T0915-Data-processing-AS.pdf)
+| 09.15 - 12.00 | [Data preprocessing (AS)](Lectures/D03T0915-Data-processing-AS.pdf) [Hands-on](Lectures/D03T0915-Data_preprocessing-AS-handson.txt)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 15.00 | Introduction to containers and analysis pipelines with Nextflow (AS)
 | 15.15 - 16.00 | Introduction to Snakemake (EEB)
