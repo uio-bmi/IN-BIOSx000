@@ -39,6 +39,8 @@
 
 [Introduction to containers (AS)](D03T1315-Containers-AS.pdf)
 
+[Introduction to analysis pipelines with Nextflow (AS)](D03T1415-Nextflow-AS.pdf)
+
 [Introduction to Snakemake (EBB)](D03T1515-Snakemake-EBB.pdf)
 
 
