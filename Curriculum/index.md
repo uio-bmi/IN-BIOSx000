@@ -25,6 +25,11 @@ To be updated.
 * [The long reads ahead: _de novo_ genome assembly using the MinION](https://doi.org/10.12688/f1000research.12012.2), de Lannoy, C., de Ridder, D. & Risse, J. (2017) F1000Research 2017, 6:1083.
 
 
+##### Containers and workflow managers
+
+* [Reproducible, scalable, and shareable analysis pipelines with bioinformatics workflow managers](https://doi.org/10.1038/s41592-021-01254-9) Wratten L, Wilm A & Göke J (2021) Nature Methods, 18, 1161-1168.
+
+
 ##### _De novo_ genome assembly
 
 * [A field guide to whole-genome sequencing, assembly and annotation](https://github.com/arvindsundaram/IN-BIOSx000/raw/2020/Curriculum/DNA_1.pdf), Ekblom and Wolf (2014), Evolutionary Applications.
