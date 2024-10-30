@@ -39,6 +39,8 @@
 
 [Containers (AS)](D03T1315-Containers-AS.pdf)
 
+[Introduction to Snakemake (EBB)](D03T1515-Snakemake-EBB.pdf)
+
 
 ###### Day 4
 

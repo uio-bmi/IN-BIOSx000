@@ -87,7 +87,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 09.15 - 12.00 | [Data preprocessing (AS)](Lectures/D03T0915-Data-processing-AS.pdf) [Hands-on](Lectures/D03T0915-Data_preprocessing-AS-handson.txt)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 15.00 | [Introduction to containers and analysis pipelines with Nextflow (AS)](Lectures/D03T1315-Containers-AS.pdf)
-| 15.15 - 16.00 | Introduction to Snakemake (EEB)
+| 15.15 - 16.00 | [Introduction to Snakemake (EEB)](Lectures/D03T1515-Snakemake-EBB.pdf)
 | **Thu 31 Oct**
 | 09.15 - 12.00 | *De novo* genome assembly (KL)
 | 12.00 - 13.15 | Lunch break
