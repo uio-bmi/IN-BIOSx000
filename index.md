@@ -86,7 +86,8 @@ In the table below, teachers are indicated with their initials and listed in the
 | **Wed 30 Oct**
 | 09.15 - 12.00 | [Data preprocessing (AS)](Lectures/D03T0915-Data-processing-AS.pdf) [Hands-on](Lectures/D03T0915-Data_preprocessing-AS-handson.txt)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 15.00 | [Introduction to containers and analysis pipelines with Nextflow (AS)](Lectures/D03T1315-Containers-AS.pdf)
+| 13.15 - 14.00 | [Introduction to containers (AS)](Lectures/D03T1315-Containers-AS.pdf)
+| 14.15 - 15.00 | Introduction to analysis pipelines with Nextflow (AS)
 | 15.15 - 16.00 | [Introduction to Snakemake (EEB)](Lectures/D03T1515-Snakemake-EBB.pdf)
 | **Thu 31 Oct**
 | 09.15 - 12.00 | *De novo* genome assembly (KL)
@@ -134,9 +135,9 @@ In the table below, teachers are indicated with their initials and listed in the
 | Initials | Name                    | Affiliation                                                         |
 | -------- | ----------------------- | ------------------------------------------------------------------- |
 | AS       | Arvind Sundaram         | Norwegian Sequencing Centre, Oslo University Hospital
-| ATK      | Ave Tooming-Klunderud   | CEES, Dept. of Biosciences, University of Oslo
-| BS       | Bastiaan Star           | CEES, Dept. of Biosciences, University of Oslo
-| EEB      | Einar E. Birkeland      | Dept. of Informatics / Pharmacy, University of Oslo
+| ATK      | Ave Tooming-Klunderud   | Dept. of Biosciences, University of Oslo
+| BS       | Bastiaan Star           | Dept. of Biosciences, University of Oslo
+| EEB      | Einar E. Birkeland      | Dept. of Pharmacy, University of Oslo
 | KL       | Karin Lagesen           | Section for Epidemiology, Norwegian Veterinary Institute
 | MP       | Milena Pavlovic         | Dept. of Informatics, University of Oslo
 | NKN      | Nolan Keith Newman      | Centre for Molecular Medicine Norway (NCMM), University of Oslo
