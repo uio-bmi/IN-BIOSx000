@@ -90,7 +90,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 14.15 - 15.00 | [Introduction to analysis pipelines with Nextflow (AS)](Lectures/D03T1415-Nextflow-AS.pdf)
 | 15.15 - 16.00 | [Introduction to Snakemake (EEB)](Lectures/D03T1515-Snakemake-EBB.pdf)
 | **Thu 31 Oct**
-| 09.15 - 12.00 | *De novo* genome assembly (KL)
+| 09.15 - 12.00 | *De novo* genome assembly (KL) [Course material](https://github.com/karinlag/BIOS9000/tree/2024)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 16.00 | *De novo* genome assembly, continued (KL)
 | **Fri 1 Nov**
