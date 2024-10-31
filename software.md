@@ -23,7 +23,7 @@ You may need to unload all or some modules in order to load other modules. All m
 
 Meta | Package | Version | Kind | Module | Documentation | Source code repository
 ----|---------|---------|------|--------|---------------|-----------------------
-Yes | assembly-stats | 0.1.4 | Python library | assembly-stats/0.1.4-foss-2022a | [https://pypi.org/project/assembly-stats](https://pypi.org/project/assembly-stats) | [https://github.com/MikeTrizna/assembly_stats](https://github.com/MikeTrizna/assembly_stats)
+Yes | assembly_stats | 0.1.4 | Python library | assembly_stats/0.1.4-foss-2022a | [https://pypi.org/project/assembly-stats](https://pypi.org/project/assembly-stats) | [https://github.com/MikeTrizna/assembly_stats](https://github.com/MikeTrizna/assembly_stats)
 Yes | BEDTools | 2.30.0 | Binary | BEDTools/2.30.0-GCC-11.3.0 | [https://bedtools.readthedocs.io/en/latest](https://bedtools.readthedocs.io/en/latest) | [https://github.com/arq5x/bedtools2](https://github.com/arq5x/bedtools2)
 No  | BCFtools | 1.15.1 | Binary | BCFtools/1.15.1-GCC-11.3.0 | [https://samtools.github.io/bcftools/bcftools.html](https://samtools.github.io/bcftools/bcftools.html) | [https://github.com/samtools/bcftools](https://github.com/samtools/bcftools)
 Yes  | BWA | 0.7.17 | Binary | BWA/0.7.17-GCCcore-11.3.0 | [https://github.com/lh3/bwa](https://github.com/lh3/bwa) | [https://github.com/lh3/bwa](https://github.com/lh3/bwa)
