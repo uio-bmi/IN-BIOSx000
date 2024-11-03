@@ -103,7 +103,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 09.15 - 12.00 | Introduction to variant calling (BS)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 15.00 | Introduction to variant calling, continued (BS)
-| 15.15 - 17.00 | Human germline variant calling (YS)
+| 15.15 - 17.00 | [Human germline variant calling (YS)](Lectures/D06T1515-Variant-calling-YS-2024.pdf)
 | **Tue 5 Nov**
 | 09.15 - 12.00 | Human germline variant calling, continued (YS)
 | 12.00 - 13.15 | Lunch break

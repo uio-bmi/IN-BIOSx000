@@ -50,6 +50,8 @@
 
 ###### Day 6
 
+[Human germline variant calling](D06T1515-Variant-calling-YS-2024.pdf)
+
 ###### Day 7
 
 ###### Day 8
