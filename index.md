@@ -113,9 +113,10 @@ In the table below, teachers are indicated with their initials and listed in the
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 17.00 | Multi-omic network analysis (NKN)
 | **Thu 7 Nov**
-| 09.15 - 12.00 | TBA
+| 09.15 - 10.00 | Introduction to RNA-Seq (AS)
+| 10.15 - 12.00 | Small RNA transcriptomics (TBR)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 17.00 | Small RNA transcriptomics (TBR)
+| 13.15 - 15.00 | Small RNA transcriptomics, continued (TBR)
 | **Fri 8 Nov**
 | 09.15 - 12.00 | Machine learning in computational biology (MP)
 | 12.00 - 13.15 | Lunch break
@@ -159,8 +160,6 @@ In the table below, teachers are indicated with their initials and listed in the
 Coffee and tea will be freely available each morning in the seminar room.
 
 For lunch, we recommend the canteen in the other end of the building, [Ole-Johan eatery](https://www.sio.no/en/food-and-beverage/spisesteder/ole-johan-eatery), which serves a nice selection of warm and cold dishes.
-
-There will be free pizza one afternoon.
 
 ## Requirements
 
