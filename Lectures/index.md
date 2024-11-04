@@ -50,7 +50,7 @@
 
 ###### Day 6
 
-[Introduction to SNP calling (BS)](D06T0915-Intro-SNP-calling-BS.pdf) [Exercises](Exercise_walrus_mt_genome_SNP_Calling_no_answers.pdf)
+[Introduction to variant calling (BS)](D06T0915-Intro-SNP-calling-BS.pdf) [Exercises](Exercise_walrus_mt_genome_SNP_Calling_no_answers.pdf)
 
 [Human germline variant calling (YS)](D06T1515-Variant-calling-YS-2024.pdf)
 

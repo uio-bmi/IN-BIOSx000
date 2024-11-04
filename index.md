@@ -100,7 +100,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | &nbsp; | |
 | **Week 45**
 | **Mon 4 Nov**
-| 09.15 - 12.00 | [Introduction to SNP calling (BS)](Lectures/D06T0915-Intro-SNP-calling-BS.pdf) [Exercises](Lectures/Exercise_walrus_mt_genome_SNP_Calling_no_answers.pdf)
+| 09.15 - 12.00 | [Introduction to variant calling (BS)](Lectures/D06T0915-Intro-SNP-calling-BS.pdf) [Exercises](Lectures/Exercise_walrus_mt_genome_SNP_Calling_no_answers.pdf)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 15.00 | Introduction to variant calling, continued (BS)
 | 15.15 - 17.00 | [Human germline variant calling (YS)](Lectures/D06T1515-Variant-calling-YS-2024.pdf)
