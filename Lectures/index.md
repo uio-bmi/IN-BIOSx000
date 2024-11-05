@@ -56,6 +56,8 @@
 
 ###### Day 7
 
+[Somatic variant calling and interpretation in the context of cancer (SN)](D07T1315-Somatic-variant-calling-SN-2024.pdf)
+
 ###### Day 8
 
 ###### Day 9

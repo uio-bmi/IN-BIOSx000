@@ -107,7 +107,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | **Tue 5 Nov**
 | 09.15 - 12.00 | Human germline variant calling, continued (YS)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 16.00 | Somatic variant calling and interpretation in the context of cancer (SN)
+| 13.15 - 16.00 | [Somatic variant calling and interpretation in the context of cancer (SN)](Lectures/D07T1315-Somatic-variant-calling-SN-2024.pdf)
 | **Wed 6 Nov**
 | 09.15 - 12.00 | Microbiome analysis (NKN)
 | 12.00 - 13.15 | Lunch break
