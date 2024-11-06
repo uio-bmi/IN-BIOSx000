@@ -54,11 +54,17 @@
 
 [Human germline variant calling (YS)](D06T1515-Variant-calling-YS-2024.pdf)
 
+
 ###### Day 7
 
 [Somatic variant calling and interpretation in the context of cancer (SN)](D07T1315-Somatic-variant-calling-SN-2024.pdf)
 
 ###### Day 8
+
+[Microbiome sequencing and analysis (NKN)](D08T0915-Microbiome-sequencing-NKN-2024.pdf)
+
+[Multi-omic network analysis (NKN)](D08T1315-Network-Analysis-NKN-2024.pdf) (NKN)
+
 
 ###### Day 9
 
