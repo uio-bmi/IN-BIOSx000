@@ -111,9 +111,9 @@ In the table below, teachers are indicated with their initials and listed in the
 | **Wed 6 Nov**
 | 09.15 - 12.00 | [Microbiome sequencing and analysis (NKN)](Lectures/D08T0915-Microbiome-sequencing-NKN-2024.pdf)
 | 12.00 - 13.15 | Lunch break
-| 13.15 - 17.00 | [Multi-omic network analysis (NKN)](Lectures/D08T1315-Network-Analysis-NKN-2024.pdf) (NKN)
+| 13.15 - 17.00 | [Multi-omic network analysis (NKN)](Lectures/D08T1315-Network-Analysis-NKN-2024.pdf)
 | **Thu 7 Nov**
-| 09.15 - 10.00 | Introduction to RNA-Seq (AS)
+| 09.15 - 10.00 | [Introduction to RNA-Seq (AS)](Lectures/D09T0915-RNA-seq-AS-2024.pdf)
 | 10.15 - 12.00 | Small RNA transcriptomics (TBR)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 15.00 | Small RNA transcriptomics, continued (TBR)

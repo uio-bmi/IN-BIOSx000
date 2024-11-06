@@ -63,9 +63,11 @@
 
 [Microbiome sequencing and analysis (NKN)](D08T0915-Microbiome-sequencing-NKN-2024.pdf)
 
-[Multi-omic network analysis (NKN)](D08T1315-Network-Analysis-NKN-2024.pdf) (NKN)
+[Multi-omic network analysis (NKN)](D08T1315-Network-Analysis-NKN-2024.pdf)
 
 
 ###### Day 9
+
+[Introduction to RNA-Seq (AS)](D09T0915-RNA-seq-AS-2024.pdf)
 
 ###### Day 10
