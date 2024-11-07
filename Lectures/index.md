@@ -70,7 +70,7 @@
 
 [Introduction to RNA-Seq (AS)](D09T0915-RNA-seq-AS-2024.pdf)
 
-[Small RNA transciptomics (TBR)](D09T1015-Small-RNA-Seq-TBR-2024.pdf): [Exercises](D09T1015-Small-RNA-Seq-Exercises-TBR-2024.pdf)
+[Small RNA transcriptomics (TBR)](D09T1015-Small-RNA-Seq-TBR-2024.pdf): [Exercises](D09T1015-Small-RNA-Seq-Exercises-TBR-2024.pdf)
 
 
 ###### Day 10

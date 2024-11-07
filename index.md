@@ -114,7 +114,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 13.15 - 17.00 | [Multi-omic network analysis (NKN)](Lectures/D08T1315-Network-Analysis-NKN-2024.pdf)
 | **Thu 7 Nov**
 | 09.15 - 10.00 | [Introduction to RNA-Seq (AS)](Lectures/D09T0915-RNA-seq-AS-2024.pdf)
-| 10.15 - 12.00 | [Small RNA transciptomics (TBR)](Lectures/D09T1015-Small-RNA-Seq-TBR-2024.pdf): [Exercises](Lectures/D09T1015-Small-RNA-Seq-Exercises-TBR-2024.pdf)
+| 10.15 - 12.00 | [Small RNA transcriptomics (TBR)](Lectures/D09T1015-Small-RNA-Seq-TBR-2024.pdf): [Exercises](Lectures/D09T1015-Small-RNA-Seq-Exercises-TBR-2024.pdf)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 15.00 | Small RNA transcriptomics, continued (TBR)
 | **Fri 8 Nov**
