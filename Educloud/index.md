@@ -32,6 +32,8 @@ You will first be asked for the One-Time Code (6 digits) and then for the passwo
 
 ### Problems?
 
+* Some have reported problems when registering using BankID and FEIDE due to mismatches in personal details. Try to log in with BankID only, not FEIDE, and supply personal details manually.
+
 * If you need to reset your password or your 2FA (OTP) you can login to [Educloud Self Service](https://selfservice.educloud.no/) with BankID again and change any of them. Click 'Change password' or 'Change OTP' under 'Your Personal Data'. Then choose to log in with ID-porten (not Educloud).
 
 * We will have a session on the afternoon of Tuesday 29th were we make sure that everyone is able to log in to Fox.
