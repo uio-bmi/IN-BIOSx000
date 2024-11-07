@@ -84,13 +84,13 @@ In the table below, teachers are indicated with their initials and listed in the
 | 13.15 - 14.00 | [Basic file formats (AS)](Lectures/D02T1315-Basic-file-formats-AS.pdf)
 | 14.15 - 16.00 | [Access to computational resources (TR)](Lectures/D02T1415-Access_to_computational_resources-TR-2024.pdf)
 | **Wed 30 Oct**
-| 09.15 - 11.00 | [Data preprocessing (AS)](Lectures/D03T0915-Data-processing-AS.pdf) [Hands-on](Lectures/D03T0915-Data_preprocessing-AS-handson.txt)
+| 09.15 - 11.00 | [Data preprocessing (AS)](Lectures/D03T0915-Data-processing-AS.pdf): [Exercises](Lectures/D03T0915-Data_preprocessing-AS-handson.txt)
 | 11.15 - 12.00 | [Introduction to containers (AS)](Lectures/D03T1115-Containers-AS.pdf)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 14.00 | [Introduction to analysis pipelines with Nextflow (AS)](Lectures/D03T1315-Nextflow-AS.pdf)
 | 14.15 - 15.00 | [Introduction to Snakemake (EEB)](Lectures/D03T1415-Snakemake-EBB.pdf)
 | **Thu 31 Oct**
-| 09.15 - 12.00 | *De novo* genome assembly (KL) [Course material](https://github.com/karinlag/BIOS9000/tree/2024)
+| 09.15 - 12.00 | *De novo* genome assembly (KL): [Exercises](https://github.com/karinlag/BIOS9000/tree/2024)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 16.00 | *De novo* genome assembly, continued (KL)
 | **Fri 1 Nov**
@@ -100,7 +100,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | &nbsp; | |
 | **Week 45**
 | **Mon 4 Nov**
-| 09.15 - 12.00 | [Introduction to variant calling (BS)](Lectures/D06T0915-Intro-SNP-calling-BS.pdf) [Exercises](Lectures/Exercise_walrus_mt_genome_SNP_Calling_no_answers.pdf)
+| 09.15 - 12.00 | [Introduction to variant calling (BS)](Lectures/D06T0915-Intro-SNP-calling-BS.pdf): [Exercises](Lectures/D06T0915-Intro-SNP-calling-Exercises-BS.pdf) [Answers](Lectures/D06T0915-Intro-SNP-calling-Answers-BS.pdf)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 15.00 | Introduction to variant calling, continued (BS)
 | 15.15 - 17.00 | [Human germline variant calling (YS)](Lectures/D06T1515-Variant-calling-YS-2024.pdf)
@@ -114,11 +114,11 @@ In the table below, teachers are indicated with their initials and listed in the
 | 13.15 - 17.00 | [Multi-omic network analysis (NKN)](Lectures/D08T1315-Network-Analysis-NKN-2024.pdf)
 | **Thu 7 Nov**
 | 09.15 - 10.00 | [Introduction to RNA-Seq (AS)](Lectures/D09T0915-RNA-seq-AS-2024.pdf)
-| 10.15 - 12.00 | [Small RNA transciptomics (TBR)](Lectures/D09T1015-Small-RNA-Seq-TBR-2024.pdf) [Exercises](Lectures/D09T1015-Small-RNA-Seq-Exercises-TBR-2024.pdf)
+| 10.15 - 12.00 | [Small RNA transciptomics (TBR)](Lectures/D09T1015-Small-RNA-Seq-TBR-2024.pdf): [Exercises](Lectures/D09T1015-Small-RNA-Seq-Exercises-TBR-2024.pdf)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 15.00 | Small RNA transcriptomics, continued (TBR)
 | **Fri 8 Nov**
-| 09.15 - 12.00 | Machine learning in computational biology (MP)
+| 09.15 - 12.00 | [Machine learning in computational biology (MP)](Lectures/D10T0915-Machine-learning-MP-2024.pdf)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 16.00 | Machine learning in computational biology, continued (MP)
 | 16.00 - 16.15 | Exam info and course evaluation (TR)

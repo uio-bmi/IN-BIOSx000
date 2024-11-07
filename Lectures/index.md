@@ -33,9 +33,7 @@
 
 ###### Day 3
 
-[Data preprocessing (AS)](D03T0915-Data-processing-AS.pdf)
-
-[Data preprocessing - Hands-on (AS)](D03T0915-Data_preprocessing-AS-handson.txt)
+[Data preprocessing (AS)](D03T0915-Data-processing-AS.pdf): [Exercises](D03T0915-Data_preprocessing-AS-handson.txt)
 
 [Introduction to containers (AS)](D03T1115-Containers-AS.pdf)
 
@@ -46,11 +44,13 @@
 
 ###### Day 4
 
+
 ###### Day 5
+
 
 ###### Day 6
 
-[Introduction to variant calling (BS)](D06T0915-Intro-SNP-calling-BS.pdf) [Exercises](Exercise_walrus_mt_genome_SNP_Calling_no_answers.pdf)
+[Introduction to variant calling (BS)](D06T0915-Intro-SNP-calling-BS.pdf): [Exercises](D06T0915-Intro-SNP-calling-Exercises-BS.pdf) [Answers](D06T0915-Intro-SNP-calling-Answers-BS.pdf)
 
 [Human germline variant calling (YS)](D06T1515-Variant-calling-YS-2024.pdf)
 
@@ -70,7 +70,9 @@
 
 [Introduction to RNA-Seq (AS)](D09T0915-RNA-seq-AS-2024.pdf)
 
-[Small RNA transciptomics (TBR)](D09T1015-Small-RNA-Seq-TBR-2024.pdf) [Exercises](D09T1015-Small-RNA-Seq-Exercises-TBR-2024.pdf)
+[Small RNA transciptomics (TBR)](D09T1015-Small-RNA-Seq-TBR-2024.pdf): [Exercises](D09T1015-Small-RNA-Seq-Exercises-TBR-2024.pdf)
 
 
 ###### Day 10
+
+[Machine learning in computational biology (MP)](D10T0915-Machine-learning-MP-2024.pdf)
