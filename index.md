@@ -121,7 +121,7 @@ In the table below, teachers are indicated with their initials and listed in the
 | 09.15 - 12.00 | [Machine learning in computational biology (MP)](Lectures/D10T0915-Machine-learning-MP-2024.pdf)
 | 12.00 - 13.15 | Lunch break
 | 13.15 - 16.00 | Machine learning in computational biology, continued (MP)
-| 16.00 - 16.15 | Exam info and course evaluation (TR)
+| 16.00 - 16.15 | [Exam info and course evaluation (TR)](Lectures/D10T1600-Exam-info-TR-2024.pdf)
 | &nbsp; | |
 | **Week 50**
 | **Mon 9 Dec**
