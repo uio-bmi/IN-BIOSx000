@@ -193,6 +193,7 @@ The exams are graded on a pass/fail scale.
 
 Written exams from previous years:
 
+* [2022](old_exams/in-bios-5000-9000-2022-exam-written-v2.pdf)
 * [2018](https://github.com/arvindsundaram/IN-BIOSx000/blob/2018/misc/written_exam.pdf)
 * [2016](https://github.com/lexnederbragt/INF-BIOx121/blob/2017/misc/2016.pdf) (exam only)
 * [2015](https://github.com/lexnederbragt/INF-BIOx121/tree/2015/exam) (with information on how the grading was done)
