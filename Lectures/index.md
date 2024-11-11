@@ -42,10 +42,9 @@
 [Introduction to Snakemake (EBB)](D03T1415-Snakemake-EBB.pdf)
 
 
-###### Day 4
+###### Day 4 and 5
 
-
-###### Day 5
+*De novo* genome assembly (KL) [Part 1](D04T0915-Assembly1-KL-2024.pdf), [Part 2](D04T0915-Assembly2-KL-2024.pdf), [Part 3](D04T0915-Assembly3-KL-2024.pdf), [Part 4](D04T0915-Assembly4-KL-2024.pdf), [Exercises](https://github.com/karinlag/BIOS9000/tree/2024)
 
 
 ###### Day 6
