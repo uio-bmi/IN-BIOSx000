@@ -81,16 +81,16 @@ Getz, et al. (2010) Nature Reviews Genetics 2010.
 
 ##### Transcriptomics
 
-[A survey of best practices for RNA-seq data analysis](https://doi.org/10.1186/s13059-016-0881-8) Conesa et al. (2016) Genome Biology, 17, 13.
+* [A survey of best practices for RNA-seq data analysis](https://doi.org/10.1186/s13059-016-0881-8) Conesa et al. (2016) Genome Biology, 17, 13.
 
-[The hitchhikers’ guide to RNA sequencing and functional analysis](https://doi.org/10.1093/bib/bbac529) Chen et al. (2023) Briefings in Bioinformatics, 24, bbac529.
+* [The hitchhikers’ guide to RNA sequencing and functional analysis](https://doi.org/10.1093/bib/bbac529) Chen et al. (2023) Briefings in Bioinformatics, 24, bbac529.
 
 
 ##### Small RNA transcriptomics
 
-[A comprehensive profile of circulating RNAs in human serum](https://doi.org/10.1080/15476286.2017.1403003) Umu et al. (2017) RNA Biology, 15(2), 242–250.
+* [A comprehensive profile of circulating RNAs in human serum](https://doi.org/10.1080/15476286.2017.1403003) Umu et al. (2017) RNA Biology, 15(2), 242–250.
 
-[miEAA 2023: updates, new functional microRNA sets and improved enrichment visualizations](https://doi.org/10.1093/nar/gkad392) Aparicio-Puerta et al. (2023) Nucleic Acids Research, 51, W1, W319–W325.
+* [miEAA 2023: updates, new functional microRNA sets and improved enrichment visualizations](https://doi.org/10.1093/nar/gkad392) Aparicio-Puerta et al. (2023) Nucleic Acids Research, 51, W1, W319–W325.
 
 
 ##### Machine Learning
