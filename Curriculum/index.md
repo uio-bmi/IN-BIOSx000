@@ -1,6 +1,10 @@
 # Curriculum and supporting material 2024
 
-To be updated.
+The curriculum of the course is the topics covered in the lectures and exercises.
+
+The material below is supporting material aimed to help in the understanding of the topics.
+
+The list will be updated.
 
 
 ##### Molecular Biology
