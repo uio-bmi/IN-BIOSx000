@@ -61,7 +61,36 @@ Getz, et al. (2010) Nature Reviews Genetics 2010.
 * [A review of somatic single nucleotide variant calling algorithms for next-generation sequencing data](https://doi.org/10.1016/j.csbj.2018.01.003) Chang Xu (2018), Computational and Structural Biotechnology Journal, 16, 15-24.
 
 
+##### Microbiome analysis
+
+* [Normalization and microbial differential abundance strategies depend upon data characteristics](https://doi.org/10.1186/s40168-017-0237-y) Weiss et al (2017) Microbiome 5, 27 (2017).
+
+* [QIIME2 Moving pictures tutorial](https://docs.qiime2.org/2024.10/tutorials/moving-pictures/)
+
+
+##### Network analysis
+
+* [Reverse enGENEering of Regulatory Networks from Big Data: A Roadmap for Biologists](https://doi.org/10.4137/BBI.S12467) Dong et al. (2015) Bioinformatics and Biology Insights, 2015, 9.
+
+* [Transkingdom Network Analysis (TkNA): a systems framework for inferring causal factors underlying host–microbiota and other multi-omic interactions](https://doi.org/10.1038/s41596-024-00960-w) Newman et al. (2024) Nat Protoc 19, 1750–1778.
+
+* [Passing messages between biological networks to refine predicted interactions](https://doi.org/10.1371/journal.pone.0064832) Glass et al. (2013) PLoS One, 8, e64832.
+
+* [The Network Zoo: a multilingual package for the inference and analysis of gene regulatory networks](https://doi.org/10.1186/s13059-023-02877-1) Ben Guebila et al. (2023) Genome Biol, 24, 45.
+
+
 ##### Transcriptomics
+
+[A survey of best practices for RNA-seq data analysis](https://doi.org/10.1186/s13059-016-0881-8) Conesa et al. (2016) Genome Biology, 17, 13.
+
+[The hitchhikers’ guide to RNA sequencing and functional analysis](https://doi.org/10.1093/bib/bbac529) Chen et al. (2023) Briefings in Bioinformatics, 24, bbac529.
+
+
+##### Small RNA transcriptomics
+
+[A comprehensive profile of circulating RNAs in human serum](https://doi.org/10.1080/15476286.2017.1403003) Umu et al. (2017) RNA Biology, 15(2), 242–250.
+
+[miEAA 2023: updates, new functional microRNA sets and improved enrichment visualizations](https://doi.org/10.1093/nar/gkad392) Aparicio-Puerta et al. (2023) Nucleic Acids Research, 51, W1, W319–W325.
 
 
 ##### Machine Learning
